@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "",
+      "image": "file:///android_asset/image/.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "",
+      "image": "file:///android_asset/image/.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "",
+      "title": "",
+      "image": "file:///android_asset/image/.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
