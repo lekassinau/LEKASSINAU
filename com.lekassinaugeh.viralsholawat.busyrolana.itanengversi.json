@@ -1,0 +1,236 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "image": "file:///android_asset/image/SV.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "AZ ZAHIR",
+      "image": "file:///android_asset/image/SZ.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "VIRAL",
+      "title": "BUSYROLANA",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "VIRAL",
+      "title": "ALAMATE ANAK SHOLEH",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "VIRAL",
+      "title": "WAHDANA",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "VIRAL",
+      "title": "ZAUJATI",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "VIRAL",
+      "title": "BUNGA",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "VIRAL",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "VIRAL",
+      "title": "RELA",
+      "image": "file:///android_asset/image/SV.jpg",
+      "link_mp3": "mp3/BUSSHOVIR7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "AZ ZAHIR",
+      "title": "ALQOLBUMUTTAYAM",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "AZ ZAHIR",
+      "title": "ANTAL AMIN",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "AZ ZAHIR",
+      "title": "ASYGHIL",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "AZ ZAHIR",
+      "title": "BUSYRO",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "AZ ZAHIR",
+      "title": "HUWANNUR",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "AZ ZAHIR",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "AZ ZAHIR",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "AZ ZAHIR",
+      "title": "MUHAMMAD NABINA",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "AZ ZAHIR",
+      "title": "RAHMATAL LIL ALAMNIN",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "AZ ZAHIR",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "AZ ZAHIR",
+      "title": "SHOLAWAT QURANIYAH",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "AZ ZAHIR",
+      "title": "SYAIKHONA",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "AZ ZAHIR",
+      "title": "WAHDANA",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "AZ ZAHIR",
+      "title": "YA RABBI",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "AZ ZAHIR",
+      "title": "YA SAYYIDI",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "AZ ZAHIR",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "AZ ZAHIR",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/SZ.jpg",
+      "link_mp3": "mp3/BUSSHOVIR24.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
