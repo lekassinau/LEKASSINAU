@@ -1,0 +1,183 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "SABILU TAUBAH",
+      "image": "file:///android_asset/image/ST.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SABILU TAUBAH",
+      "title": "ALAMATE ANAK SHOLEH",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "SABILU TAUBAH",
+      "title": "GUS IQDAM",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SABILU TAUBAH",
+      "title": "YA NAFSUTI",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SABILU TAUBAH",
+      "title": "MADAIHUNA",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SABILU TAUBAH",
+      "title": "KUNCINE LAWANG SUARGO",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SABILU TAUBAH",
+      "title": "SHOLAWAT VERSI IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SABILU TAUBAH",
+      "title": "WERKUDORO",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SABILU TAUBAH",
+      "title": "BUSYROLANA",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SABILU TAUBAH",
+      "title": "NABI MUHAMMAD MATAHARINYA DUNIA",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SABILU TAUBAH",
+      "title": "ASSADUL AYYAM",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SABILU TAUBAH",
+      "title": "JOKO TINGKIR WALI JOWO",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "SABILU TAUBAH",
+      "title": "AHMAD YA HABIBI",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SABILU TAUBAH",
+      "title": "KHOIROL BARRIYAH",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SABILU TAUBAH",
+      "title": "SHOLI WASHALIM",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SABILU TAUBAH",
+      "title": "THOHIRUL QOLBI",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SABILU TAUBAH",
+      "title": "YA ROBBI SHOLI",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SABILU TAUBAH",
+      "title": "YA RASULALLAH",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SABILU TAUBAH",
+      "title": "SING KERI COKOT BOYO",
+      "image": "file:///android_asset/image/ST.jpg",
+      "link_mp3": "mp3/HAGPUDAHSHO18.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
