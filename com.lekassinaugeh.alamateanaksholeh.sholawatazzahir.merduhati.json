@@ -1,0 +1,252 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "AZ ZAHIR A",
+      "image": "file:///android_asset/image/ZHA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "AZ ZAHIR B",
+      "image": "file:///android_asset/image/ZHB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "AZ ZAHIR A",
+      "title": "ALAMATE ANAK SHOLEH",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "AZ ZAHIR A",
+      "title": "ALAMATE ANAK SHOLEH FT HABIB ZIDAN",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "AZ ZAHIR A",
+      "title": "HAYYUL HADI",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "AZ ZAHIR A",
+      "title": "BAHEBBAK WABARIDAK",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "AZ ZAHIR A",
+      "title": "JOKO TINGKIR WALI JOWO",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "AZ ZAHIR A",
+      "title": "YA NURUL HADI",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "AZ ZAHIR A",
+      "title": "ANSYADDUKUM NASIDAL",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "AZ ZAHIR A",
+      "title": "PADANG BULAN",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "AZ ZAHIR A",
+      "title": "KHORIL BARIYAH",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "AZ ZAHIR A",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "AZ ZAHIR A",
+      "title": "TAROHABNA",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "AZ ZAHIR A",
+      "title": "ASYROQOT NABINA",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "AZ ZAHIR A",
+      "title": "ADIDU LANA",
+      "image": "file:///android_asset/image/ZHA.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "AZ ZAHIR B",
+      "title": "ALFA SHOLALLAH",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "AZ ZAHIR B",
+      "title": "ASSUBHUBADA",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "AZ ZAHIR B",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "AZ ZAHIR B",
+      "title": "NURUN TAJALLA",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "AZ ZAHIR B",
+      "title": "ROBILAHUL ASMAUL HUSNA",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "AZ ZAHIR B",
+      "title": "QOMARUN",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "AZ ZAHIR B",
+      "title": "SHOLAWAT BURDAH",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "AZ ZAHIR B",
+      "title": "SHOLAWAT DINUNAYAH",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "AZ ZAHIR B",
+      "title": "SHOLAWAT NARIYAH",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "AZ ZAHIR B",
+      "title": "SYAIR NU",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "AZ ZAHIR B",
+      "title": "SUARA LANGIT",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "AZ ZAHIR B",
+      "title": "TIBBIL QULUB",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "AZ ZAHIR B",
+      "title": "ZAUJATI",
+      "image": "file:///android_asset/image/ZHB.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
