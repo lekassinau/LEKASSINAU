@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "SANTAI A",
+      "image": "file:///android_asset/image/TA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SANTAI B",
+      "image": "file:///android_asset/image/TB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SANTAI A",
+      "title": "TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE1.mp3",
+      "lyrics": "<p>Waktu demi waktu<br />Hari demi hari<br />Sadar ku t'lah sendiri<br />Kau t'lah pergi jauh<br />Tinggalkan diriku<br />Ternyata ku rindu</p><p><br />Senyuman yang s'lalu membungkus hati yang terluka<br />Di depan mereka<br />Tuhan masih pantaskah ku &lsquo;tuk bersamanya<br />Karna hati ini inginkannya</p><p><br />Tak segampang itu ku mencari penggantimu<br />Tak segampang itu ku menemukan sosok seperti dirimu cinta<br />Kau tahu betapa besar cinta yang kutanamkan padamu<br />Mengapa kau memilih untuk berpisah</p><p><br />Terlalu besar kutaruh harapan pada dirimu<br />Itu alasanku lama tanpa dirimu oh<br />Mereka yang bilang ku akan dapat lebih darimu<br />Tak mungkin<br />Semua itu tak mudah oh</p><p><br />Ku mencari penggantimu<br />Tak segampang itu ku menemukan sosok seperti dirimu<br />Oh cinta<br />Kau tahu betapa besar cinta yang kutanamkan padamu<br />Mengapa kau memilih untuk berpisah</p><p><br />Ku mencari penggantimu ho<br />Sosok seperti dirimu cinta<br />Kau tahu betapa besar cinta yang kutanamkan padamu<br />Mengapa kau memilih untuk berpisah<br />Kau memilih untuk berpisah</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "SANTAI A",
+      "title": "TAWANAN HATI",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE2.mp3",
+      "lyrics": "<p>Sudah kucoba sepenuh hati<br />Untuk menjadi malaikat<br />Menepikan perasaan runtuhkan egoku<br />Namun sayapku remuk</p><p><br />Bila kutanya pada diriku<br />Mengapa aku bertahan<br />Menerima keadaan yang tak baik saja<br />Memaksakan segalanya</p><p><br />Sakit tak sanggup<br />Sadarkah kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah<br />Tertawan hati</p><p><br />Tak mau kehilangan<br />Tapi lelah berjuang<br />Bukankah rumah tempatku bersandar</p><p><br />Sendiri ku tak bisa<br />Bersama kutersiksa<br />Ini kenyataannya kita tak baik saja</p><p><br />Sakit tak sanggup<br />Sadarkah kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah<br />Tertawan hati ho</p><p><br />Oh kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah ho</p><p><br />Tak mampu kumenyerah<br />Tertawan hati</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "SANTAI A",
+      "title": "TAPI BUKAN AKU",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE3.mp3",
+      "lyrics": "<p>Jangan lagi kau sesali keputusanku<br />Ku tak ingin kau semakin kan terluka<br />Tak ingin kupaksakan cinta ini<br />Meski tiada sanggup untuk kau terima</p><p><br />Aku memang manusia paling berdosa<br />Khianati rasa demi keinginan semu<br />Lebih baik jangan mencintai aku dan semua hatiku<br />Karena takkan pernah kan kau temui cinta sejati</p><p><br />Berakhirlah sudah semua kisah ini dan jangan kau tangisi lagi<br />Sekalipun aku takkan pernah mencoba kembali padamu<br />Sejuta kata maaf terasa kan percuma<br />Sbab rasaku tlah mati untuk menyadarinya</p><p><br />Tapi bukan aku, uh-oh<br />Semoga saja kan kau dapati<br />Hati yang tulus mencintaimu<br />Tapi bukan aku</p><p><br />Berakhirlah sudah semua kisah ini dan jangan kau tangisi lagi<br />Sekalipun aku takkan pernah mencoba kembali padamu<br />Sejuta kata maaf terasa kan percuma<br />Sbab rasaku tlah mati untuk menyadarinya</p><p><br />Berakhirlah sudah semua kisah ini dan jangan kau tangisi lagi<br />Sekalipun aku takkan pernah mencoba kembali padamu<br />Sejuta kata maaf terasa kan percuma<br />Sbab rasaku tlah mati untuk menyadarinya</p><p><br />Sbab rasaku tlah mati untuk menyadarinya</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "SANTAI A",
+      "title": "SIAL",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE4.mp3",
+      "lyrics": "<p>Sampai saat ini tak terpikir olehku<br />Aku pernah beri rasa pada orang sepertimu<br />Seandainya sejak awal tak kuyakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai ku tahu semua akan sia-sia<br />Takkan kut'rima cinta sesaatmu</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p><p><br />Seandainya sejak awal tak kuyakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai ku tahu semua akan sia-sia<br />Takkan kut'rima cinta sesaatmu</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p><p><br />Sial-sialnya ku bertemu dengan cinta semu<br />Tertipu tutur dan caramu<br />Seolah cintaiku <br />Puas kaucurangi aku</p><p><br />Bagaimana dengan aku terlanjur mencintaimu <br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu <br />Hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "SANTAI A",
+      "title": "KOMANG",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE5.mp3",
+      "lyrics": "<p>Dari kejauhan, tergambar cerita tentang kita<br />Terpisah jarak dan waktu<br />Ingin kuungkapkan rindu lewat kata indah<br />Tak cukup untuk dirimu</p><p><br />Sebab kau terlalu indah dari sekedar kata<br />Dunia berhenti sejenak menikmati indahmu</p><p><br />Dan apabila tak bersamamu<br />Kupastikan kujalani dunia tak seindah kemarin<br />Sederhana, tertawamu sudah cukup<br />Lengkapi sempurnanya hidup bersamamu</p><p><br />Jika hari kulalui tanpa hawamu<br />Percuma senyumku dengan dia, oh</p><p><br />Dan apabila tak bersamamu<br />Kupastikan kujalani dunia tak seindah kemarin<br />Sederhana, tertawamu sudah cukup<br />Lengkapi sempurnanya hidup bersamamu</p><p><br />Apabila tak bersamamu<br />Kupastikan kujalani dunia tak seindah kemarin<br />Sederhana, tertawamu sudah cukup<br />Lengkapi sempurnanya hidup bersamamu</p><p><br />Sebab kau terlalu indah dari sekedar kata<br />Dunia berhenti sejenak menikmati indahmu</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "SANTAI A",
+      "title": "BERHENTI BERHARAP",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE6.mp3",
+      "lyrics": "<p>Aku tak percaya lagi dengan apa yang kau beri<br />Aku terdampar disini tersudut menunggu mati<br />Aku tak percaya lagi akan guna matahari<br />Yang dulu mampu terangi sudut gelap hati ini</p><p><br />Aku berhenti berharap dan menunggu datang gelap<br />Sampai nanti suatu saat tak ada cinta kudapat<br />Kenapa ada derita bila bahagia tercipta?<br />Kenapa ada sang hitam bila putih menyenangkan?</p><p><br />Aku pulang tanpa dendam<br />Kuterima kekalahanku<br />Aku pulang tanpa dendam<br />Kusalutkan kemenanganmu, woo</p><p><br />Kau ajarkan aku bahagia<br />Kau ajarkan aku derita<br />Kau tunjukkan aku bahagia<br />Kau tunjukkan aku derita<br />Kau berikan aku bahagia<br />Kau berikan aku derita</p><p><br />Aku pulang (ha-ha) tanpa dendam (ha-ha)<br />Kuterima (ha-ha) kekalahanku</p><p><br />Aku berhenti berharap dan menunggu datang gelap<br />Sampai nanti suatu saat tak ada cinta kudapat</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "SANTAI A",
+      "title": "MESIN WAKTU",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE7.mp3",
+      "lyrics": "<p>Kalau harus ku mengingatmu lagi<br />Aku takkan sanggup dengan yang terjadi pada kita<br />Jika melupakanmu hal yang mudah<br />Ini takkan berat, takkan membuat hatiku lelah</p><p><br />Kalah, kuakui aku kalah<br />Cinta ini pahit dan tak harus memiliki</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu lewat mesin waktu</p><p><br />Jika melupakanmu hal yang mudah<br />Ini takkan berat, takkan membuat hatiku lelah<br />Panjang perjalanan yang harus kulalui<br />Merelakanmu</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu lewat mesin waktu, ho-uh-oh</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu, oh-oh</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu lewat mesin waktu</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "SANTAI A",
+      "title": "KEPADA NOR",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE8.mp3",
+      "lyrics": "<p>Seperti burung yang sedang membuat sarang<br />Dari rumput dan ilalang<br />Kususuri setiap keindahan<br />Di wajah-Mu kusematkan</p><p><br />Rindu adalah perjalanan mengurai waktu<br />Menjelma pertemuan demi pertemuan<br />Catatannya tertulis di langit malam<br />Di telaga dan di ujung daun itu</p><p><br />Rindu mengekal menyebut nama-Mu berulang-ulang<br />Rindu mengekal menyebut nama-Mu berulang-ulang<br />Rindu mengekal menyebut nama-Mu</p><p><br />Seperti burung yang sedang membuat sarang<br />Dari rumput dan ilalang<br />Kususuri setiap keindahan<br />Di wajah-Mu kusematkan</p><p><br />Rindu adalah perjalanan mengurai waktu<br />Menjelma pertemuan demi pertemuan<br />Catatannya tertulis di langit malam<br />Di telaga dan di ujung daun itu</p><p><br />Rindu adalah perjalanan mengurai waktu<br />Menjelma pertemuan demi pertemuan<br />Catatannya tertulis di langit malam<br />Di telaga dan di ujung daun itu</p><p><br />Rindu mengekal menyebut nama-Mu berulang-ulang<br />Rindu mengekal menyebut nama-Mu berulang-ulang<br />Rindu mengekal menyebut nama-Mu berulang-ulang<br />Berulang-ulang<br />Berulang-ulang<br />Berulang-ulang<br />Berulang-ulang<br />Berulang-ulang</p><p><br />Rindu mengekal menyebut nama-Mu</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "SANTAI A",
+      "title": "TAKKAN HILANG",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE9.mp3",
+      "lyrics": "<p>Jangan pergi dari diriku<br />Tak sanggup harus hidup tanpamu<br />Kar'na jauh lebih indah<br />Bila kita bersama<br />Seperti yang terjadi kemarin</p><p><br />Kini harus aku lewati<br />Langkah demi langkah yang menyepi<br />Membalut luka lagi<br />Yang kutahan hingga kini<br />Habis sudah nafasku<br />Menyebutmu namamu, ho-oh</p><p><br />Takkan hilang cintaku padamu<br />Takkan hilang walau kau memilih pergi<br />Takkan hilang<br />Sampai di ujung waktuku<br />Mencintamu</p><p><br />Tak terganti<br />Takkan hilang cintaku padamu<br />Padamu,</p><p><br />Takkan hilang cintaku padamu<br />Takkan hilang walau kau memilih pergi<br />Takkan hilang<br />Sampai di ujung waktuku<br />Takkan hilang</p><p><br />Takkan hilang<br />Sampai di ujung waktuku</p><p><br />Takkan hilang cintaku padamu<br />Takkan hilang walau kau memilih pergi<br />Takkan hilang<br />Sampai di ujung waktuku<br />Mencintamu,</p><p><br />Ku masih mencintaimu</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "SANTAI A",
+      "title": "TAK INGIN USAI",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SANTAI A",
+      "title": "KISAH SEMPURNA",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE11.mp3",
+      "lyrics": "<p>Tenggelam, jiwaku dalam angan<br />Tersesat, hilang, dan tak tahu arah<br />Ku terjebak masa lalu yang kelam<br />Tak kulihat lagi cahaya cinta</p><p><br />Dan kamu hadir coba bawa bahagia<br />Ketika ku masih mati rasa<br />Kar'na</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama menyembuhkan luka<br />Tak ingin lagi ku mengulang keliru akan cinta<br />Jadi kisah yang sempurna</p><p><br />Tenggelam, jiwaku dalam angan<br />Tak kulihat lagi cahaya cinta</p><p><br />Dan kamu hadir coba bawa bahagia<br />Ketika ku masih mati rasa<br />Kar'na</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama menyembuhkan luka<br />Tak ingin lagi ku mengulang keliru akan cinta<br />Jadi kisah yang sempurna, wo-oh</p><p><br />Tuhan, yakinkan cinta ini, wo-oh-oh<br />Hati yang terkunci, terbuka kembali</p><p><br />Dia yang pertama membuatku cinta<br />Dia juga yang pertama membuatku kecewa<br />Kamu yang pertama menyembuhkan luka<br />Tak ingin lagi ku mengulang keliru akan cinta</p><p><br />Dia juga pertama membuatku kecewa<br />Dia yang pertama<br />Kamu yang sembuhkan luka<br />Tak ingin lagi ku mengulang ho-oh-oh</p><p><br />Kamu untuk selamanya</p>"
+	  },
+    {
+      "id": 12,
+      "name_category": "SANTAI A",
+      "title": "MELUKIS SENJA",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE12.mp3",
+      "lyrics": "<p>Aku mengerti perjalanan hidup yang kini kau lalui<br />Ku berharap meski berat kau tak merasa sendiri<br />Kau telah berjuang menaklukankan hari-hari mu yang tak mudah<br />Biar ku menemanimu membasuh lelah mu</p><p><br />Izinkan ku lukis senja<br />Mengukir namamu di sana<br />Mendengar kamu bercerita<br />Menangis tertawa<br />Biar ku lukis malam<br />Bawa kamu bintang-bintang<br />Tuk temanimu yang terluka<br />Hingga kau bahagia</p><p><br />Aku disini walau letih coba lagi jangan berhenti<br />Ku berharap meski berat kau tak merasa sendiri<br />Kau telah berjuang menaklukankan hari-hari mu yang tak indah<br />Biar ku menemanimu membasuh lelah mu</p><p><br />Izinkan ku lukis senja<br />Mengukir namamu di sana<br />Mendengar kamu bercerita<br />Menangis tertawa<br />Biar ku lukis malam<br />Bawa kamu bintang-bintang<br />Tuk temanimu yang terluka<br />Hingga kau bahagia hah</p><p><br />Izinkan ku lukis senja<br />Mengukir namamu di sana<br />Mendengar kamu bercerita<br />Menangis tertawa<br />Biar ku lukis malam<br />Bawa kamu bintang-bintang<br />Tuk temanimu yang terluka<br />Hingga kau bahagia<br />Tuk temanimu yang terluka<br />Hingga kau bahagia</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "SANTAI A",
+      "title": "BERTAHAN TERLUKA",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE13.mp3",
+      "lyrics": "<p>Entah kah prasangkah atau memang benar firasatku<br />Bahwa dirimu tlah berubah senyummu berbeda</p><p><br />Dan benar saja ada hati lain yang kau jaga<br />Seakan - akan ku tak bisa membaca<br />Kau buat seperti tak ada yang terluka</p><p><br />Lakukanlah semaumu<br />Sampai kau lelah menyakitiku<br />Sebisa ku tak kan mengusikmu<br />Ku akan mencoba mengerti dirimu</p><p><br />Dan benar saja ada hati lain yang kau jaga<br />Seakan - akan ku tak bisa membaca<br />Kau buat seperti tak ada yang terluka</p><p><br />Lakukanlah semaumu<br />Sampai kau lelah menyakitiku<br />Sebisa ku tak kan mengusikmu<br />Ku akan mencoba mengerti dirimu</p><p><br />Andaikan kau tahu rasa sayang ku melebihi rasa sakitku ini<br />Mungkin kau takkan pernah menyangka<br />Mengapa ku tetap disini oh</p><p><br />Lakukanlah semaumu<br />Sampai kau lelah m?nyakitiku<br />Sebisa ku takkan mengusikmu<br />Ku akan mencoba</p><p><br />Lakukanlah s?maumu<br />Sampai kau lelah terus kau menyakitiku<br />Sebisaku takkan mengusikmu<br />Ku akan mencoba mengerti dirimu</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "SANTAI A",
+      "title": "MENUNGGU KAMU",
+      "image": "file:///android_asset/image/TA.jpg",
+      "link_mp3": "mp3/TALAFE14.mp3",
+      "lyrics": "<p>Ku selalu mencoba<br />Untuk menguatkan hati<br />Dari kamu yang belum juga kembali</p><p><br />Ada satu keyakinan<br />Yang membuatku bertahan<br />Penantian ini kan terbayar pasti</p><p><br />Lihat aku sayang<br />Yang sudah berjuang<br />Menunggumu datang<br />Menjemputmu pulang</p><p><br />Ingat slalu sayang<br />Hati ku kau genggam<br />Aku tak kan pergi<br />Menunggu kamu di sini<br />Tetap di sini</p><p><br />Jika bukan kepadamu<br />Aku tidak tau lagi<br />Pada siapa rindu ini kan ku beri<br />Pada siapa rindu ini kan ku beri</p><p><br />Lihat aku sayang<br />Yang sudah berjuang<br />Menunggumu datang<br />Menjemputmu pulang</p><p><br />Ingat slalu sayang<br />Hati ku kau genggam<br />Aku tak kan pergi<br />Menunggu kamu di sini<br />Di sini</p><p><br />Lihat aku sayang<br />Yang sudah berjuang<br />Menunggumu datang<br />Menjemputmu pulang</p><p><br />Ingat slalu sayang<br />Hati ku kau genggam<br />Aku tak kan pergi<br />Aku tak kan pergi<br />Menunggu kamu di sini</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "SANTAI B",
+      "title": "CIKA AKU APA ADANYA",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SANTAI B",
+      "title": "ANDAIKAN KAU DATANG KEMBALI",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SANTAI B",
+      "title": "BILA RASAKU INI RASAMU",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SANTAI B",
+      "title": "CINTA TAK HARUS MEMILIKI",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "SANTAI B",
+      "title": "HAMPA",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE19.mp3",
+      "lyrics": "<p>Kupejamkan mata ini<br />Mencoba 'tuk melupakan<br />Segala kenangan indah<br />Tentang dirimu, tentang mimpiku</p><p><br />Semakin aku mencoba<br />Bayangmu semakin nyata<br />Merasuk hingga ke jiwa<br />Tuhan, tolonglah diriku</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana kau rindukan aku?<br />Seperti diriku yang s'lalu merindukanmu<br />Selalu merindukanmu</p><p><br />Tak bisa aku ingkari<br />Engkaulah satu-satunya<br />Yang bisa membuat jiwaku<br />Yang pernah mati menjadi berarti</p><p><br />Namun kini kau menghilang<br />Bagaikan ditelan bumi<br />Tak pernahkah kau sadari<br />Arti cintamu untukku?</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana s'lalu rindukan aku?<br />Seperti diriku yang s'lalu merindukanmu<br />Selalu merindukanmu</p><p><br />entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana s'lalu rindukan aku?<br />Seperti diriku yang s'lalu merindukanmu<br />Selalu merindukanmu</p><p><br />Entah di mana dirimu berada<br />Hampa terasa hidupku tanpa dirimu<br />Apakah di sana s'lalu rindukan aku?<br />Seperti diriku yang s'lalu merindukanmu<br />Selalu merindukanmu</p><p><br />Entah di mana</p>"
+	  },
+	  {
+      "id": 20,
+      "name_category": "SANTAI B",
+      "title": "HANYA RINDU",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SANTAI B",
+      "title": "HINGGA AKHIR WAKTU",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "SANTAI B",
+      "title": "AKU TERCIPTA BUKAN UNTUKMU",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "SANTAI B",
+      "title": "MUNGKIN HARI INI ESOK ATAU NANTI",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "SANTAI B",
+      "title": "PERGILAH KASIH",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SANTAI B",
+      "title": "RUMAH SINGGAH",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE25.mp3",
+      "lyrics": "<p>Saat hatimu terluka<br />Akulah yang menemanimu<br />Membasuh air matamu</p><p><br />Namun, mengapa ketika<br />Hatimu t'lah tersenyum lagi<br />Aku yang kaulupa?</p><p><br />Tak sadarkah selama ini<br />Ku juga s'lalu menginginkanmu?</p><p><br />Mengapa sulit<br />Untuk ku bisa miliki hatimu?<br />Bahkan s'lama ini<br />Hadirku tak berharga untukmu</p><p><br />Yang terjadi kini<br />Ku hanya rumah persinggahanmu di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Jika memang ini tak ada harapan<br />Mengapa aku yang harus jadi tujuan?<br />Saat hatimu terluka, aku yang jadi obatnya<br />Tanpa pernah kauhargai cinta dan kasih yang setulus ini</p><p><br />Mengapa sulit</p><p><br />Mengapa sulit<br />Untuk ku bisa miliki hatimu?<br />Bahkan s'lama ini<br />Hadirku tak berharga untukmu, ho-ho-ho</p><p><br />Yang terjadi kini<br />Ku hanya rumah persinggahanmu di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p>"
+	  },
+	  {
+      "id": 26,
+      "name_category": "SANTAI B",
+      "title": "SAAT KAU TELAH MENGERTI",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "SANTAI B",
+      "title": "SELAMAT",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "SANTAI B",
+      "title": "USAI",
+      "image": "file:///android_asset/image/TB.jpg",
+      "link_mp3": "mp3/TALAFE28.mp3",
+      "lyrics": "<p>Mungkin inilah waktunya<br />Mungkin inilah saatnya<br />Aku mengerti rasa sesal<br />Saat ada yang pergi menghilang</p><p><br />Kau datang mengukir luka<br />Yang sayang 'tuk dilupakan<br />Kau pergi tanpa mengajarkan<br />Cara 'tuk merelakanmu</p><p><br />Usai sudah semua cerita<br />Yang t'lah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus kujalani</p><p><br />Aku memang kehilangan<br />Kamu yang sangat kucintai<br />Namun, kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />Ku akan terus belajar 'tuk melupakan kamu<br />Yang begitu mudah melupakanku</p><p><br />Usai sudah semua cerita<br />Yang t'lah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus kujalani</p><p><br />Aku memang kehilangan<br />Kamu yang sangat kucintai<br />Namun, kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />Yang t'lah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus kujalani</p><p><br />Aku memang kehilangan<br />Kamu yang sangat kucintai<br />Namun, kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />Aku yang sangat mencintaimu</p>"
+	  }
+  ]
+}
