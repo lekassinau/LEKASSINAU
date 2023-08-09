@@ -1,0 +1,212 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "NOSTALGIA A",
+      "image": "file:///android_asset/image/NA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "NOSTALGIA B",
+      "image": "file:///android_asset/image/NB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "NOSTALGIA A",
+      "title": "AKU BUKAN PILIHAN",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Kini ku mengungkap tanya<br />Siapakah dirinya<br />Yang mengaku kekasihmu itu?<br />Aku tak bisa memahami</p><p><br />Ketika malam tiba<br />Ku rela kau berada<br />Dengan siapa kau melewatinya<br />Aku tak bisa memahami</p><p><br />Aku lelaki tak mungkin menerimamu bila<br />Ternyata kau mendua, membuatku terluka<br />Tinggalkan saja diriku yang tak mungkin menunggu<br />Jangan pernah memilih, aku bukan pilihan</p><p><br />S'lalu terungkap tanya<br />Benarkah kini dia<br />Wanita yang kukenal hatinya?<br />Aku tak bisa memahami</p><p><br />Aku lelaki tak mungkin menerimamu bila<br />Ternyata kau mendua, membuatku terluka<br />Tinggalkan saja diriku yang tak mungkin menunggu<br />Jangan pernah memilih, aku bukan pilihan</p><p><br />Tak perlu kau memilihku<br />Aku lelaki bukan 'tuk dipilih</p><p><br />Aku lelaki tak mungkin menerimamu bila<br />Ternyata kau mendua, membuatku terluka<br />Tinggalkan saja diriku yang tak mungkin menunggu<br />Jangan pernah memilih, aku bukan pilihan</p><p><br />Aku lelaki tak mungkin menerimamu bila<br />Ternyata kau mendua, membuatku terluka<br />Tinggalkan saja diriku yang tak mungkin menunggu<br />Jangan pernah memilih, aku bukan pilihan</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "NOSTALGIA A",
+      "title": "AKU MASIH SENDIRI",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Disini aku pun sendiri<br />Dan masih seperti yang dulu<br />Kesetiaan yang kumiliki<br />Hanya untuk dirimu<br />Sampai akhir hidup ini</p><p><br />Apapun akan ku korbankan<br />Demi keutuhan engkau dan aku<br />Semua yang aku miliki cinta dan kerinduan<br />Kasih, semua untukmu</p><p><br />Saat ini aku pun tak ingin sendiri<br />Kucari bayanganmu di sudut sana<br />Pelukan mesra yang tulus darimu<br />Betapa engkau kukasihi</p><p><br />Disini aku pun sendiri<br />Dan masih seperti yang dulu<br />Kesetiaan yang kumiliki<br />Hanya untuk dirimu<br />Sampai akhir hidup ini</p><p><br />Saat ini aku pun tak ingin sendiri<br />Kucari bayanganmu di sudut sana<br />Pelukan mesra yang tulus darimu<br />Betapa engkau kukasihi</p><p><br />Betapa engkau kukasihi</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "NOSTALGIA A",
+      "title": "ANAK SEKOLAH",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Bukan aku tak tertarik<br />Dengan kata rayuanmu<br />Saat matamu melirik<br />Aku jadi suka padamu</p><p><br />Tiap kali kau bermanja<br />Gemetar rasa di dada<br />Ingin kubisikkan cinta<br />Tapi hati ini malu jadinya</p><p><br />Engkau masih anak sekolah, satu SMA<br />Belum tepat waktu 'tuk begitu-begini<br />Anak sekolah datang kembali<br />Dua atau tiga tahun lagi</p><p><br />Bukan aku tak tertarik<br />Dengan kata rayuanmu<br />Saat matamu melirik<br />Aku jadi suka padamu</p><p><br />Tiap kali kau bermanja<br />Gemetar rasa di dada<br />Ingin kubisikkan cinta<br />Tapi hati ini malu jadinya</p><p><br />Engkau masih anak sekolah, satu SMA<br />Belum tepat waktu 'tuk begitu-begini<br />Anak sekolah datang kembali<br />Dua atau tiga tahun lagi</p><p><br />Ingin kubisikkan cinta<br />Tapi hati ini malu jadinya</p><p><br />Engkau masih anak sekolah, satu SMA<br />Belum tepat waktu 'tuk begitu-begini<br />Anak sekolah datang kembali<br />Dua atau tiga tahun lagi</p><p><br />Engkau masih anak sekolah, satu SMA<br />Belum tepat waktu 'tuk begitu-begini<br />Anak sekolah datang kembali<br />Dua atau tiga tahun lagi</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "NOSTALGIA A",
+      "title": "ANDAIKAN KAU DATANG KEMBALI",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Terlalu indah dilupakan<br />Terlalu sedih dikenangkan<br />Setelah aku jauh berjalan<br />Dan kau kutinggalkan</p><p><br />Betapa hatiku bersedih<br />Mengenang kasih dan sayangmu<br />Setulus pesanmu kepadaku<br />Engkau 'kan menunggu</p><p><br />Andaikan kau datang kemari<br />Jawaban apa yang 'kan kuberi?<br />Adakah jalan yang kautemui<br />Untuk kita kembali lagi?</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya<br />Bersinarlah terus sampai nanti<br />Lagu ini kuakhiri</p><p><br />Betapa hatiku bersedih<br />Mengenang kasih dan sayangmu<br />Setulus pesanmu kepadaku<br />Engkau 'kan menunggu</p><p><br />Andaikan kau datang kemari<br />Jawaban apa yang 'kan kuberi?<br />Adakah jalan yang kautemui<br />Untuk kita kembali lagi?</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya<br />Bersinarlah terus sampai nanti<br />Lagu ini kuakhiri</p><p><br />Bersinarlah bulan purnama<br />Seindah serta tulus cintanya</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "NOSTALGIA A",
+      "title": "ANTARA BENCI DAN RINDU",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Yang, hujan turun lagi<br />Di bawah payung hitam kuberlindung<br />Yang, ingatkah kau padaku?<br />Di jalan ini dulu kita berdua<br />Basah tubuh ini<br />Basah rambut ini<br />Kau hapus dengan sapu tanganmu</p><p><br />Yang, rindukah kau padaku?<br />Tak inginkah kau duduk di sampingku?<br />Kita bercerita tentang laut biru<br />Di sana harapan dan impian</p><p><br />Benci, benci, benci, tapi rindu jua<br />Memandang wajah dan senyummu sayang<br />Rindu, rindu, rindu, tapi benci jua<br />Bila ingat kau sakiti hatiku</p><p><br />Antara benci dan rindu di sini<br />Membuat mataku menangis</p><p><br />Yang, pernahkah kau bermimpi?<br />Kita bersatu bagai dulu lagi<br />Tak pernah bersedih<br />Tak pernah menangis<br />Seperti saat rindu begini</p><p><br />Yang, hujan turun lagi, yang<br />Di bawah payung hitam kita berlindung<br />Basah tubuh ini<br />Basah rambut ini<br />Kuhapus dengan sapu tanganku<br />Kita bercerita tentang laut biru<br />Di sana tumpuan dan impian</p><p><br />Yang, rindukah kau padaku?<br />Tak inginkah kau duduk di sampingku?<br />Kita bercerita tentang laut biru<br />Di sana harapan dan impian</p><p><br />Benci, benci, benci, tapi rindu jua<br />Memandang wajah dan senyummu sayang<br />Rindu, rindu, rindu, tapi benci jua<br />Bila ingat kau sakiti hatiku</p><p><br />Antara benci dan rindu di sini<br />Membuat mataku menangis</p><p><br />Antara benci dan rindu di sini<br />Membuat mataku menangis</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "NOSTALGIA A",
+      "title": "BENCI TAPI RINDU",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Bukan hanya sekedar penghibur<br />Diriku ini sayang<br />Bukan pula sekedar pelepas<br />Rindumu oh sayang<br />Sakit hatiku<br />Kau buat begitu</p><p><br />Kau datang dan pergi<br />Sesuka hatimu<br />Oh kejamnya dikau<br />Teganya dikau padaku</p><p><br />Kau pergi dan datang<br />Sesuka hatimu<br />Oh sakitnya hati<br />Bencinya hati padamu</p><p><br />Sakitnya hati ini<br />Namun aku rindu<br />Bencinya hati ini<br />Tapi aku rindu</p><p><br />Bukan hanya sekedar penghibur<br />Diriku ini sayang<br />Bukan pula sekedar pelepas<br />Rindumu oh sayang<br />Sakit hatiku<br />Kau buat begitu</p><p><br />Kau datang dan pergi<br />Sesuka hatimu<br />Oh kejamnya dikau<br />Teganya dikau padaku</p><p><br />Kau pergi dan datang<br />Sesuka hatimu<br />Oh sakitnya hati<br />Bencinya hati padamu</p><p><br />Sakitnya hati ini<br />Namun aku rindu<br />Bencinya hati ini<br />Tapi aku rindu</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "NOSTALGIA A",
+      "title": "BERITA KEPADA KAWAN",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p>Perjalanan ini trasa sangat menyedihkan<br />Sayang engkau tak duduk disampingku kawan</p><p><br />Banyak cerita yang mestinya kau saksikan<br />Di tanah kering bebatuan</p><p><br />Tubuhku terguncang dihempas batu jalanan<br />Hati tergetar menampak kering rerumputan</p><p><br />Perjalanan ini pun seperti jadi saksi<br />Gembala kecil menangis sedih</p><p><br />Kawan coba dengar apa jawabnya<br />Ketika ia kutanya mengapa<br />Bapak ibunya tlah lama mati<br />Ditelan bencana tanah ini</p><p><br />Sesampainya di laut kukabarkan semuanya<br />Kepada karang kepada ombak kepada matahari</p><p><br />Tetapi semua diam tetapi semua bisu<br />Tinggal aku sendiri terpaku menatap langit</p><p><br />Barangkali di sana ada jawabnya<br />Mengapa di tanahku terjadi bencana</p><p><br />Mungkin Tuhan mulai bosan melihat tingkah kita<br />Yang selalu salah dan bangga dengan dosa-dosa<br />Atau alam mulai enggan bersahabat dengan kita<br />Coba kita bertanya pada rumput yang bergoyang</p><p><br />Kawan coba dengar apa jawabnya<br />Ketika ia kutanya mengapa<br />Bapak ibunya tlah lama mati<br />Ditelan bencana tanah ini</p><p><br />Sesampainya di laut kukabarkan semuanya<br />Kepada karang kepada ombak kepada matahari</p><p><br />Tetapi semua diam tetapi semua bisu<br />Tinggal aku sendiri terpaku menatap langit</p><p><br />Barangkali di sana ada jawabnya<br />Mengapa di tanahku terjadi bencana</p><p><br />Mungkin Tuhan mulai bosan melihat tingkah kita<br />Yang selalu salah dan bangga dengan dosa-dosa<br />Atau alam mulai enggan bersahabat dengan kita<br />Coba kita bertanya pada rumput yang bergoyang</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "NOSTALGIA A",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": "<p>Jenuh aku mendengar<br />Manisnya kata cinta<br />Lebih baik sendiri</p><p><br />Bukannya sekali<br />Sering ku mencoba<br />Namun, ku gagal lagi</p><p><br />Mungkin nasib ini<br />Suratan tanganku<br />Harus tabah menjalani</p><p><br />Jauh sudah langkahku<br />Menyusuri hidupku<br />Yang penuh tanda tanya</p><p><br />Kadang hati bimbang<br />Menentukan sikapmu<br />Tiada tempat mengadu</p><p><br />Hanya iman di dada<br />Yang membuatku mampu<br />Slalu tabah menjalani</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi, ho-wo-oh-oh<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang, ho-wo-oh<br />Jenuh aku mendengar<br />Manisnya kata cinta<br />Lebih baik sendiri</p><p><br />Bukannya sekali<br />Sering ku mencoba<br />Namun, ku gagal lagi</p><p><br />Hanya iman di dada<br />Yang membuatku mampu<br />Slalu tabah menjalani</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi, ho-wo-oh-oh<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang, oh-ho-ho</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi, ho-wo-oh-oh<br />Hanya satu keyakinanku<br />Bintang kan bersinar<br />Menerpa hidupku<br />Bahagia kan datang, ho-ho-oh</p><p><br />Malam-malam aku sendiri<br />Tanpa cintamu lagi</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "NOSTALGIA A",
+      "title": "BUKU INII AKU PINJAM",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": "<p>Dia tahu dia rasa<br />Cinta ini milik kita</p><p><br />Di kantin depan kelasku<br />Di sana kenal dirimu<br />Yang kini tersimpan di hati<br />Jalani kisah sembunyi</p><p><br />Di halte itu kutunggu<br />Senyum manismu kekasih<br />Usai dentang bel sekolah<br />Kita nikmati yang ada</p><p><br />Seperti hari yang lain<br />Kau senyum tersipu malu<br />Ketika kusapa engkau<br />Genggamlah jari<br />Genggamlah hati ini</p><p><br />Memang usia kita muda<br />Namun cinta soal hati<br />Biar mereka bicara<br />Telinga kita terkunci</p><p><br />Dia tahu dia rasa<br />Maka tersenyumlah kasih<br />Tetap langkah jangan hentikan<br />Cinta ini milik kita</p><p><br />Buku ini aku pinjam<br />Kan kutulis sajak indah<br />Hanya untukmu seorang<br />Tentang mimpi-mimpi malam</p><p><br />Dia tahu dia rasa<br />Maka tersenyumlah kasih<br />Tetap langkah jangan hentikan<br />Cinta ini milik kita</p><p><br />Dia tahu dia rasa<br />Maka tersenyumlah kasih<br />Tetap langkah jangan hentikan<br />Cinta ini milik kita</p><p><br />Cinta ini milik kita</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "NOSTALGIA A",
+      "title": "DAMAI BERSAMAMU",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p>Aku termenung di bawah mentari<br />Di antara megahnya alam ini<br />Menikmati indahnya kasih mu<br />Kurasakan damainya hatiku</p><p><br />Sabda mu bagai air yang mengalir<br />Basahi panas terik di hatiku<br />Menerangi semua jalanku<br />Kurasakan tenteramnya hatiku</p><p><br />Jangan biarkan damai ini pergi<br />Jangan biarkan semuanya berlalu<br />Hanya pada mu Tuhan<br />Tempatku berteduh<br />Dari semua kepalsuan dunia</p><p><br />Bila ku jauh dari diri mu<br />Akan kutempuh semua perjalanan<br />Agar selalu ada dekat mu<br />Biar kurasakan lembutnya kasih mu</p><p><br />Jangan biarkan damai ini pergi<br />Jangan biarkan semuanya berlalu<br />Hanya pada mu Tuhan<br />Tempatku berteduh<br />Dari semua kepalsuan dunia</p><p><br />Bila ku jauh dari diri mu<br />Akan kutempuh semua perjalanan<br />Hanya pada mu Tuhan<br />Tempatku berteduh<br />Dari semua kepalsuan dunia<br />Dari semua kepalsuan dunia<br />Dari semua kepalsuan dunia</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "NOSTALGIA A",
+      "title": "DISINI DIBATAS KOTA INI",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p>Di sini, di batas kota ini<br />Ingin kutuliskan surat untukmu<br />Biar engkau mengerti perjalanan hidupku<br />Di dalam menggapai cita-cita</p><p><br />Rintangan yang datang silih berganti<br />Pedih, perih, mencekam menusuki<br />Aku mengharap selalu doa suci darimu<br />Duhai, Kasih, tambatan hatiku</p><p><br />Kukenang lagi saat menjelang perpisahan<br />Kau menangis di pangkuanku<br />Begitu tulus akan cinta kasihku<br />Semakin pilu aku mengenangmu</p><p><br />Mungkinkah kau masih mengharapkanku<br />Kini tubuhku penuh dengan luka<br />Gagal dan gagal lagi, apa yang aku cari<br />Tangis pedih tersimpan dalam hati</p><p><br />Mungkinkah kau masih mengharapkanku<br />Kini tubuhku penuh dengan luka<br />Aku mengharap selalu doa suci darimu<br />Duhai, Kasih, tambatan hatiku</p><p><br />Kukenang lagi saat menjelang perpisahan<br />Kau menangis di pangkuanku<br />Begitu tulus akan cinta kasihku<br />Semakin pilu aku mengenangmu</p><p><br />Mungkinkah kau masih mengharapkanku<br />Kini tubuhku penuh dengan luka<br />Gagal dan gagal lagi, apa yang aku cari<br />Tangis pedih tersimpan dalam hati</p><p><br />Gagal dan gagal lagi, apa yang aku cari<br />Tangis pedih tersimpan dalam hati</p>"
+	  },
+    {
+      "id": 12,
+      "name_category": "NOSTALGIA B",
+      "title": "GEREJA TUA",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p>Masihkah kau ingat waktu di desa<br />Bercanda bersama di samping gereja<br />Kala itu kita masih remaja<br />Yang polos hatinya bercerita</p><p><br />Waktu kini t'lah lama berlalu<br />Sudah sepuluh tahun tak bertemu<br />Entah dimana kini kau berada<br />Tak tahu dimana rumahnya</p><p><br />Hanya satu yang tak terlupakan<br />Kala senja di gereja tua<br />Waktu itu hujan rintik-rintik<br />Kita berteduh di bawah atapnya</p><p><br />Kita berdiri begitu rapat<br />Hingga suasana begitu hangat<br />Tanganmu ku pegang erat-erat<br />Kenangan itu selalu ku ingat</p><p><br />Waktu kini tlah lama berlalu<br />Sudah sepuluh tahun tak bertemu<br />Entah dimana kini kau berada<br />Tak tahu dimana rumahnya</p><p><br />Hanya satu yang tak terlupakan<br />Kala senja di gereja tua<br />Waktu itu hujan rintik-rintik<br />Kita berteduh di bawah atapnya</p><p><br />Meskipun kini kau telah berdua<br />Itu bukanlah kesalahanmu<br />Ku hanya ingin dapat bertemu<br />Bila bertemu puaslah hatiku<br />Bila bertemu puaslah hatiku</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "NOSTALGIA B",
+      "title": "HATI YANG LUKA",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p>Berulang kali aku mencoba<br />S'lalu untuk mengalah<br />Demi keutuhan kita berdua<br />Walau kadang sakit</p><p><br />Lihatlah tanda merah di pipi<br />Bekas gambar tanganmu<br />Sering kaulakukan bila kau marah<br />Menutupi salahmu</p><p><br />Samakah aku bagai burung di sana<br />Yang dijual orang?<br />Hingga sesukamu kaulakukan itu<br />Kausakiti aku</p><p><br />Kalaulah memang kita berpisah<br />Itu bukan suratan<br />Mungkin ini lebih baik agar kau puas<br />Membagi cinta</p><p><br />Pulangkan saja aku pada ibuku<br />Atau ayahku</p><p><br />Dulu segenggam emas<br />Kaupinang aku<br />Dulu bersumpah janji<br />Di depan saksi, hu-oh, hu-oh</p><p><br />Namun, semua hilanglah sudah<br />Ditelan dusta, hu-oh, hu-oh<br />Namun, semua tinggal cerita<br />Hati yang luka</p><p><br />Kalaulah memang kita berpisah<br />Itu bukan suratan<br />Mungkin ini lebih baik agar kau puas<br />Membagi cinta</p><p><br />Pulangkan saja aku pada ibuku<br />Atau ayahku</p><p><br />Dulu segenggam emas<br />Kaupinang aku<br />Dulu bersumpah janji<br />Di depan saksi, hu-oh, hu-oh</p><p><br />Namun, semua hilanglah sudah<br />Ditelan dusta, hu-oh, hu-oh<br />Namun, semua tinggal cerita<br />Hati yang luka</p><p><br />Namun, semua tinggal cerita<br />Hati yang luka</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "NOSTALGIA B",
+      "title": "KALA CINTA MENGGODA",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "NOSTALGIA B",
+      "title": "KAU TERCIPTA BUKAN UNTUKKU",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "NOSTALGIA B",
+      "title": "KEMESRAAN",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "NOSTALGIA B",
+      "title": "KISAH KASIH DISEKOLAH",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "NOSTALGIA B",
+      "title": "KUCARI JALAN TERBAIK",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "NOSTALGIA B",
+      "title": "KUMENANTI SEORANG KEKASIH",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "NOSTALGIA B",
+      "title": "PERGILAH KASIH",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "NOSTALGIA B",
+      "title": "TITIP RINDU BUAT AYAH",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
