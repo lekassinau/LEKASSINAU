@@ -1,0 +1,297 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DUET GILGA",
+      "image": "file:///android_asset/image/DG.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "GILGA SAHID",
+      "image": "file:///android_asset/image/GS.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "JAWA HITS",
+      "image": "file:///android_asset/image/JH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DUET GILGA",
+      "title": "NEMEN FT DENNY",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Kudune kowe ngerti<br />Tresnoku nomer siji<br />Penak e leh mu blenjani janji<br />Kowe tego nglarani</p><p><br />Usahaku wes ra kurang kurang<br />Gematiku wes pol polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendak an</p><p><br />Ngomongo... Jalokmu pie?<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Pikiren bahagiamu , aku gampang</p><p><br />Ngomongo... Jalokmu pie?<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p>kowe malah wong kae<br />jebule aku mbok anggap sepele</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "DUET GILGA",
+      "title": "GINIO FT HAPPY",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Aku kelingan sliramu<br />Medot tresno segampang iku<br />Opo koe uwis lali<br />Marang sumpah seng mbok sanggupi<br />Janji sing mbien jarene mbok tepati</p><p><br />Opo pancen aku kleru<br />Opo wes duwe sing luih aku<br />Aku lilo nompo, tapi atiku ora trimo<br />Nyawang sliramu disanding wong liyo</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Matursembahnuwun ninggal loro ning ati<br />Cerito ngeneki ora bakal tak baleni</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "DUET GILGA",
+      "title": "ALOLOLO SAYANG",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "DUET GILGA",
+      "title": "SANES",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "DUET GILGA",
+      "title": "NEMEN FT WORO",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "DUET GILGA",
+      "title": "GINIO FT SHINTA",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Aku kelingan sliramu<br />Medot tresno segampang iku<br />Opo koe uwis lali<br />Marang sumpah seng mbok sanggupi<br />Janji sing mbien jarene mbok tepati</p><p><br />Opo pancen aku kleru<br />Opo wes duwe sing luih aku<br />Aku lilo nompo, tapi atiku ora trimo<br />Nyawang sliramu disanding wong liyo</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Matursembahnuwun ninggal loro ning ati<br />Cerito ngeneki ora bakal tak baleni</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "DUET GILGA",
+      "title": "BANYU MOTO",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "DUET GILGA",
+      "title": "DEMI KOWE",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "DUET GILGA",
+      "title": "JANJI MENAKNEN",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": "<p>Mas ojo ngrayu wae<br />Sak mestine roso tresno ora mung abang lambe<br />Wes dadi pilihan ati<br />Sayangku yo mung kanggo koe</p><p>&nbsp;</p><p>Dek rungokno kandaku<br />Opo sek kurang nyoto roso tresnoku<br />Opo sek kurang bukti janji seng neng lati<br />Insya Allah bakal tak wusanani</p><p>&nbsp;</p><p>Umur bakal tuo, ayuku ilang ra kroso<br />Aku wedi koe waleh wedi kencantol wong liyo</p><p>Percoyo aku, cintaku hanya padamu<br />Janji tak penakne nganti anak putu</p><p>&nbsp;</p><p>Janji menakne, janji ngenakne</p><p>Ojo janji kari janji yen amung sewates lambe</p><p>Janji menakne, janji ngenakne<br />Mugi Gusti tansah ngrekso selawase</p><p>&nbsp;</p><p>Umur bakal tuo, ayuku ilang ra kroso<br />Aku wedi koe waleh wedi kencantol wong liyo</p><p>Percoyo aku, cintaku hanya padamu<br />Janji tak penakne nganti anak putu</p><p>&nbsp;</p><p>Janji menakne, janji ngenakne</p><p>Ojo janji kari janji yen amung sewates lambe</p><p>Janji menakne, janji ngenakne<br />Mugi Gusti tansah ngrekso selawase</p><p>&nbsp;</p><p>Janji menakne, janji ngenakne</p><p>Ojo janji kari janji yen amung sewates lambe</p><p>Janji menakne, janji ngenakne<br />Mugi Gusti tansah ngrekso selawase</p><p>Mugi Gusti tansah ngrekso selawase</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "DUET GILGA",
+      "title": "NGELARANI RA KIRO KIRO",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p>Tresno tulusku mbok sio-sio<br />Lorone sempurna neng jero dodo<br />Kok koyok ngene akhire<br />Aku mbok anggep sepele<br />Tresno ojo nggo guyonan<br />Iki ati duk dagelan</p><p><br />Nanging untunge bakoh atiku<br />Masyo loro ati tetep guyu<br />Suk neh ojo dibaleni<br />Cukup ku yang tersakiti<br />Aku pamit undur diri<br />Terima kasih tentang luka ini</p><p><br />Ayumu ora sepiro<br />Nglarani ra kiro-kiro<br />Wes cukup, wes ndang ngaliho<br />Tak cubo sabar nerimo</p><p><br />Ora bakal tak baleni<br />Tresno koyo ngene iki<br />Janji tulus teko ati<br />Jebul janji mbok blenjani</p><p><br />Jare pengen dihalalkan<br />Malah we ngajak pisahan<br />Yowis aku cukup tau<br />Cukup sadar diri, aku dudu idamanmu</p><p><br />Aku dianggep sepele</p><p><br />Ayumu ora sepiro<br />Nglarani ra kiro-kiro<br />Wes cukup, wes ndang ngaliho<br />Tak cubo sabar nerimo</p><p><br />Ora bakal tak baleni<br />Tresno koyo ngene iki<br />Janji tulus teko ati<br />Jebul janji mbok blenjani</p><p><br />Jare pengen dihalalkan<br />Malah we ngajak pisahan<br />Yowis aku cukup tau<br />Cukup sadar diri, aku dudu idamanmu</p><p><br />Ora bakal tak baleni<br />Tresno koyo ngene iki<br />Janji tulus teko ati<br />Jebul janji mbok blenjani</p><p><br />Jare pengen dihalalkan<br />Malah we ngajak pisahan<br />Yowis aku cukup tau<br />Cukup sadar diri, aku dudu idamanmu</p><p><br />Aku sadar diri, Aku dudu Idamanmu"
+	  },
+	  {
+      "id": 11,
+      "name_category": "DUET GILGA",
+      "title": "RAISO DADI SIJI",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "DUET GILGA",
+      "title": "SAKTENANE",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p>Jujur seka ati iki, pengin kowe bali<br />Bakal tak tampa, lalekna salahmu wingi</p><p><br />Kangmas, sepurane yen wis nglarani<br />Janji-janji suci mung tak blenjani<br />Kabeh perjuanganmu mung tak anggep angin lalu<br />Maafkan aku t'lah mengecewakan kamu</p><p><br />Saktenane<br />Aku isih tresna kowe<br />Muga wae<br />Awak dhewe selawase</p><p><br />Janji suci ora bakal tak blenjani<br />Ora bakal luntur sakenteke umur<br />Sliramu paling tak sayang<br />Sing paling tak gadhang-gadhang<br />Panjalukku kowe aja sumelang</p><p><br />Kangmas, aku percaya karo sliramu<br />Ora bakal ana sakliyane aku<br />Pandongaku saben wengi<br />Panjalukku marang Gusti<br />Bebarengan bebrayan tekaning pati</p><p><br />Saktenane<br />Aku isih tresna kowe<br />Muga wae<br />Awak dhewe selawase</p><p><br />Janji suci ora bakal tak blenjani<br />Ora bakal luntur sakenteke umur<br />Sliramu paling tak sayang<br />Sing paling tak gadhang-gadhang<br />Panjalukku kowe aja sumelang</p><p><br />Kangmas, aku percaya karo sliramu<br />Ora bakal ana sakliyane aku<br />Pandongaku saben wengi<br />Panjalukku marang Gusti<br />Bebarengan bebrayan tekaning pati</p><p><br />Pandongaku saben wengi<br />Panjalukku marang Gusti<br />Bebarengan bebrayan tekaning pati</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "DUET GILGA",
+      "title": "SISIHAN",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p>Sabarku wes turah kutah<br />Kowe milih dalan pisah<br />Ngomong wes ra betah<br />Ning nyatane kowe keno gudho tresno ning njobo</p><p><br />Aku sepurane yen durung biso<br />Opo sing dadi kekarepmu<br />Aku rung biso nguwei</p><p><br />Seprene nggonku ndedungo sabendino<br />Soyo nggonku seng di larani<br />Soyo oleh seng pasti</p><p><br />Sak jane aku<br />Durung iso nglalekke<br />Kowe ngeliyo wes lah ora popo<br />Aku iseh nompo</p><p><br />Sabarku wes turah kutah<br />Kowe milih dalan pisah<br />Ngomong wes ra betah<br />Ning nyatane kowe keno gudho tresno ning njobo</p><p><br />Ibarat e kuwi<br />Sandal sisihan aku nekat nggawe<br />Masio ra podo ukure<br />Luweh tresnoku raono ukure</p><p><br />Sak jane aku<br />Durung iso nglalekke<br />Kowe ngeliyo wes lah ora popo<br />Aku iseh nompo</p><p><br />Sabarku wes turah kutah<br />Kowe milih dalan pisah<br />Ngomong wes ra betah<br />Ning nyatane kowe keno gudho tresno ning njobo</p><p><br />Sak jane aku<br />Durung iso nglalekke<br />Kowe ngeliyo wes lah ora popo<br />Aku iseh nompo</p><p><br />Sabarku wes turah kutah<br />Kowe milih dalan pisah<br />Ngomong wes ra betah<br />Ning nyatane kowe keno gudho tresno ning njobo<br />Ning nyatane kowe keno gudho tresno ning njobo</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "DUET GILGA",
+      "title": "TAKKAN BERPISAH",
+      "image": "file:///android_asset/image/DG.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p>Mbengi iki aku kelingan<br />Pertama kali dhewe kenalan<br />Niatku arep tak gawe pelarian<br />Soyo suwe aku ngeroso nyaman</p><p><br />Ora gampang ngadhepi aku<br />Ra gampang ngerteni sikapku<br />Sabarmu tak akoni hebat<br />Sliramu jan ra tau sambat<br />Mugo wae tresnone dhewe kuat</p><p><br />Matur nuwun<br />Sampun nggawe nyaman<br />Aku percoyo sliramu tenanan<br />Janjiku bakal selalu setia<br />Mugo Gusti nyandingno neng pelaminan</p><p><br />Ngapurane<br />Yen aku akeh salah<br />Sabarmu neng aku ora kenal lelah<br />Kupertahankan dengan susah payah<br />Kita takkan berpisah</p><p><br />Takkan berpisah<br />Semua pasti akan indah</p><p><br />Matur nuwun<br />Sampun nggawe nyaman<br />Aku percoyo tresnamu tenanan<br />Janjiku bakal selalu setia<br />Mugo Gusti nyandingno neng pelaminan</p><p><br />Ngapurane<br />Yen aku akeh salah<br />Sabarmu neng aku ora kenal lelah<br />Kupertahankan dengan susah payah<br />Kita takkan berpisah, oh</p><p><br />Kupertahankan dengan susah payah, oh<br />Kita takkan berpisah"
+	  },
+	  {
+      "id": 15,
+      "name_category": "GILGA SAHID",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p>Kudune kowe ngerti<br />Tresnoku nomer siji<br />Penak e leh mu blenjani janji<br />Kowe tego nglarani</p><p><br />Usahaku wes ra kurang kurang<br />Gematiku wes pol polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendak an</p><p><br />Ngomongo... Jalokmu pie<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Pikiren bahagiamu , aku gampang</p><p><br />Ngomongo... Jalokmu pie<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane<br />KOWE MALAH MILIH WONG KAE<br />JEBUL AKU TOK ANGGAP SEPELE</p>"
+	  },
+	  {
+      "id": 16,
+      "name_category": "GILGA SAHID",
+      "title": "JAJALEN AKU",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p>Rasah mbok angen-angen<br />Wong sing mbiyen ngalarani<br />Timbang ngeboti<br />Ning nyatane mung di apusi</p><p><br />Jajalen aku<br />Wong sing opo anane iki<br />Gemati...Ngangeni...<br />Ra mungkin ngelarani</p><p><br />Siji sing tak temoni genah<br />Jelas ning adepanku<br />Uayumu gawe aku sarwo salah tingkah<br />Neng ngarepanmu</p><p><br />Wit witan do ngingeti<br />Lintang lintange nyekseni<br />Gemricike banyu mili<br />Koyo to njelaske roso senengku</p><p><br />Rasah mbok angen-angen<br />Wong sing mbiyen ngalarani<br />Timbang ngeboti<br />Ning nyatane mung di apusi</p><p><br />Jajalen aku<br />Wong sing opo anane iki<br />Gemati...Ngangeni...<br />Ra mungkin ngelarani</p><p><br />Pripun mas<br />pripon dek<br />Yen sios ngersaake sampun katresnan<br />Heyy... niki sampun cemepak wujude</p><p><br />Wit witan do ngingeti<br />Lintang lintange nyekseni<br />Gemricike banyu mili<br />Koyo to njelaske roso senengku</p><p><br />Rasah mbok angen-angen<br />Wong sing mbiyen ngalarani<br />Timbang ngeboti<br />Ning nyatane mung di apusi</p><p><br />Jajalen aku<br />Wong sing opo anane iki<br />Gemati...Ngangeni...<br />Gemati...Ngangeni...<br />Ra mungkin ngelarani</p><p><br />Uayumu nggawe aku sarwo salah<br />Salahmu ayu</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "GILGA SAHID",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p>Nemu koe pas ati ambyar ambyare<br />Pacar seng tak tresnani ninggal aku golek liane<br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani"
+	  },
+	  {
+      "id": 18,
+      "name_category": "GILGA SAHID",
+      "title": "MANOT",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p>Aku sayang koe, tapi koe sayang dek e<br />Loro atiku mbok sia-sia ne<br />Kadung nibo nangi<br />Merjuangne kowe kui<br />Nanging nyatane kowe golek pengganti</p><p><br />Getun rasane, wes tak upayakne<br />Ginio kok koyo ngene akhire</p><p><br />Sedih mbok tinggal lungo<br />Karepku yo wes rapopo<br />Ning nyatane saben wengi<br />Aku sek kerep ngimpeni<br />Iki lagu teko ati dudu cerito ngapusi<br />Jujur tresnoku seh gedi</p><p><br />Tulung ngertenono aku sayang<br />Tresnoku tenanan dudu mung dinggo dolanan<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku</p><p><br />Aku pengene ro kowe</p><p><br />Getun rasane, wes tak upayakne<br />Ginio kok koyo ngene akhire</p><p><br />Sedih mbok tinggal lungo<br />Karepku yo wes rapopo<br />Ning nyatane saben wengi<br />Aku sek kerep ngimpeni<br />Iki lagu teko ati dudu cerito ngapusi<br />Jujur tresnoku seh gedi</p><p><br />Tulung ngertenono aku sayang<br />Tresnoku tenanan dudu mung dinggo dolanan<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku</p><p><br />Sedih mbok tinggal lungo<br />Karepku yo wes rapopo<br />Ning nyatane saben wengi<br />Aku sek kerep ngimpeni<br />Iki lagu teko ati dudu cerito ngapusi<br />Jujur tresnoku seh gedi</p><p><br />Tulung ngertenono aku sayang<br />Tresnoku tenanan dudu mung dinggo dolanan<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "GILGA SAHID",
+      "title": "SANES",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "GILGA SAHID",
+      "title": "LUNGAMU NINGGAL KENANGAN 2",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "GILGA SAHID",
+      "title": "TAK IKHLASNO",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "JAWA HITS",
+      "title": "KISINAN",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p>Taun-taunan aku wes ngancani sliramu<br />Wes kadung kenal karo bapak ibu<br />Wes kebacut nyaman ro sliramu</p><p><br />Opo koe ra ngerti, opo ra ngrumangsani<br />Yen wes kedaden koyo saiki<br />Kudu piye aku bingung ngadepi</p><p><br />Tiwas tak gondeli tenanan<br />Sayangku wes ora kurang-kurang<br />Jebul mung dadi pelampiasan</p><p><br />Tiwas tak banggakne<br />Tak pamer-pamerke<br />Jebule aku mung dadi badute</p><p><br />Taun-taunan aku wes ngancani sliramu<br />Wes kadung kenal karo bapak ibu<br />Wes kebacut nyaman ro sliramu</p><p><br />Opo koe ra ngerti, opo ra ngrumangsani<br />Yen wes kedaden koyo saiki<br />Kudu piye aku bingung ngadepi</p><p><br />Tiwas tak gondeli tenanan<br />Sayangku wes ora kurang-kurang<br />Jebul mung dadi pelampiasan</p><p><br />Tiwas tak banggakne<br />Tak pamer-pamerke<br />Jebule aku mung dadi badute</p><p><br />Tiwas tak gondeli tenanan<br />Sayangku wes ora kurang-kurang<br />Jebul mung dadi pelampiasan</p><p><br />Tiwas tak banggakne<br />Tak pamer-pamerke<br />Jebule aku mung dadi badute<br />Jebule koe milih ro liyane<br />Ujung-ujunge mung kisinan dewe</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "JAWA HITS",
+      "title": "SADAR POSISI",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p>Wes tak cubo nguatke ati<br />Nompo kasunyatan iki<br />Nadyan perih rasane<br />Aku kudu sadar diri..</p><p><br />Mbiyen kowe ninggal lungo<br />Tanpo pamit karo aku<br />Saiki we teko ning ngarepku<br />Mung ngeterke undangan rabimu.</p><p><br />Aku kudu sadar posisi<br />Ra bakal biso nduweni<br />Mergo kowe sing tak tresno<br />Malah milih wong liyo..</p><p><br />Mung iso tak pendem ning ati<br />Roso sayang ro tresnoku iki<br />Aku tresno kowe<br />Kowe tresno liyane.</p><p><br />Remuk atiku nompo layang<br />Undangan rabimu<br />Mbubrahke crito tresno iki<br />Marang sliramu</p><p><br />Gandeng wes suwe<br />Jebul aku dudu jodone<br />Matursuwun.. Kowe wes tau<br />Gawe kisah ning uripku</p><p><br />Aku kudu sadar posisi<br />Ra bakal biso nduweni</p><p><br />Remuk atiku<br />Remuk atiku nompo layang<br />Undangan rabimu<br />Mbubrahke crito tresno iki<br />Marang sliramu</p><p><br />Gandeng wes suwe<br />Jebul aku dudu jodone<br />Matursuwun.. Kowe wes tau<br />Gawe kisah ning uripku</p><p><br />Remuk atiku nompo layang<br />Undangan rabimu<br />Mbubrahke crito tresno iki<br />Marang sliramu</p><p><br />Gandeng wes suwe<br />Jebul aku dudu jodone<br />Matursuwun.. Kowe wes tau<br />Gawe kisah ning uripku"
+	  },
+	  {
+      "id": 24,
+      "name_category": "JAWA HITS",
+      "title": "NEMEN HAPPY",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p>Kudune kowe ngerti <br />Tresnoku nomer siji<br />Penak e leh mu blenjani janji<br />Kowe tego nglarani</p><p><br />Usahaku wes ra kurang kurang<br />Gematiku wes pol polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendak an</p><p><br />Ngomongo... Jalokmu pie? <br />Tak turutane , tak usahakne <br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Ngomongo... Jalokmu pie? <br />Tak turutane , tak usahakne <br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane<br />Kowe malah ngebot i liane"
+	  },
+	  {
+      "id": 25,
+      "name_category": "JAWA HITS",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu"
+	  },
+	  {
+      "id": 26,
+      "name_category": "JAWA HITS",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi"
+	  },
+	  {
+      "id": 27,
+      "name_category": "JAWA HITS",
+      "title": "EGO",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo"
+	  },
+	  {
+      "id": 28,
+      "name_category": "JAWA HITS",
+      "title": "KEMBANG WANGI",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p>Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Matur nuwun Gusti pun maringi tresno gemati<br />Seng tak sayang ra iso keganti<br />Masio akeh alangan seng awakdewe adepi<br />Iso dirampungi mergo tulus ati</p><p><br />Bebasan koyo langit<br />Dikebaki lintang-lintang<br />Seng madangi petenge atiku<br />Matur nuwun wes dadi mawar seng wangi<br />Titipane Gusti seng tak jagani</p><p><br />Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Hoouuu hooo hooo<br />Hoouuu hooo hooo<br />Ra iso keganti selawase kowe</p><p><br />Bakal koyo langit<br />Dikebaki lintang-lintang<br />Seng madangi petenge atiku<br />Matur nuwun wes dadi mawar seng wangi<br />Titipane Gusti seng tak jagani</p><p><br />Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati<br />Dadi tondo tresno sejati<br />Kembang seng wangi"
+	  },
+	  {
+      "id": 29,
+      "name_category": "JAWA HITS",
+      "title": "PAMBASILET",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p>Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua. Suka main di belakang<br />Pam pam pam basilet</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua suka main di belakang<br />Pam pam pam basilet</p><p><br />Dua tahun<br />Ngana sa tinggal<br />Ngana pigi<br />Bertahan....<br />Basiksa.<br />Basiksa basiksa lagi<br />Mati mati rasa<br />Rasa mo mati<br />Mo mati mo mati</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua, suka main di belakang<br />Pam pam pam basilet</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua, suka main di belakang<br />Pam pam pam basilet</p><p><br />Dua tahun<br />Ngana sa tinggal<br />Ngana pigi<br />Bertahan....<br />Basiksa.<br />Basiksa basiksa lagi<br />Mati mati rasa<br />Rasa mo mati<br />Mo mati mo mati</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga<br />Kalau torang dua, suka main di belakang<br />Pam pam pam basilettt</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga<br />Kalau torang dua suka main di belakang<br />Pam pam pam basilet<br />Pam pam pam basilet<br />Pam pam pam basilet"
+	  },
+	  {
+      "id": 30,
+      "name_category": "JAWA HITS",
+      "title": "RAISO DADI SIJI",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "JAWA HITS",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/JH.jpg",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu, sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu, dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu, kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />Ho-uh-oh, tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan selalu menjagamu<br />Ho-oh-oh-uh</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu, dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu, dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Hu-uh-oh<br />Diriku tak seburuk itu<br />Di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu<br />Semata karna ku tak mampu hidup tanpamu"
+	  }
+  ]
+}
