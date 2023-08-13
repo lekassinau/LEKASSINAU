@@ -1,0 +1,236 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SEDIH A",
+      "image": "file:///android_asset/image/SA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SEDIH B",
+      "image": "file:///android_asset/image/SB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SEDIH A",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI1.mp3",
+      "lyrics": "<p>Ilahanaa.. Yaa Ilahanaa<br />Yasir Lanaa Umuuronaa<br />Ilahanaa.. Yaaa ilahanaa<br />Mindiininaa wadun yaanaa..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u..<br />Yaa Fattaa?u, <br />Yaa Aliimu..<br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan<br />Waf-ta? Quluubanaa.. <br />Wafta? Quluubanaa.. <br />Ala Ta&rsquo;alumil Uluumi<br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Allah Yaa Robb.. Allah Yaa Robbi..<br />Mudahkanlah Urusan Kami<br />Agama Kami Dunia Kami<br />Wahai Allah Yang Mengetahui</p><p><br />Buka Hati Kami.. Buka Hati Kami..<br />Untuk Membaca Al Qur&rsquo;an..<br />Bacalah Al Qur&rsquo;an.. Bacalah Al Qur&rsquo;an..<br />Al Qur&rsquo;an Sumber Kehidupan..</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Ifta? Quluubanaa..<br />Ifta? Quluubanaa..<br />Ala Tilawatil Qur&rsquo;aan</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu</p><p><br />Yaa Robbanaa Yaa Robbanaa.. <br />Yaa Fattaa?u.. Yaa Aliimu"
+	  },
+    {
+      "id": 2,
+      "name_category": "SEDIH A",
+      "title": "ISTIGFAR",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SEDIH A",
+      "title": "LAA ILAHA ILLA ALLAH",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SEDIH A",
+      "title": "ITIRAF",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI4.mp3",
+      "lyrics": "<p>Ilaahii lastu lil firdausi ahlaan<br />wa laa aqwaa alaa naaril jahiimi<br />Fa hablii taubatan waghfir zunuubii<br />fa innaka ghaafirudzdzambil azhiimi<br />Dzunuubii mitslu adaadir rimaali<br />fa hablii taubatan yaa dzaaljalaali</p><p><br />Wa umrii naaqishun fii kulli yaumi<br />wa dzambii zaa-idun kaifah timaali<br />Ilaahii abdukal aashii ataaka<br />muqirran bidzdzunuubi wa qad daaaka</p><p><br />Ilaahii lastu lil firdausi ahlaan<br />wa laa aqwaa alaa naaril jahiimi"
+	  },
+	  {
+      "id": 5,
+      "name_category": "SEDIH A",
+      "title": "HUWANNUR",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SEDIH A",
+      "title": "UMMI TSUMA UMMI",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SEDIH A",
+      "title": "SYAIKHONA",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI7.mp3",
+      "lyrics": "<p>Ma as-salaamah fii amaanih Syaikhonaa<br />Allaahu Robbi-rham murobbii ruuhinaa Yaa Robbanaa</p><p><br />Ma as-salaamah fii amaanih Syaikhonaa<br />Allaahu Robbi-rham murobbii ruuhinaa Yaa Robbanaa</p><p><br />ya badrotimmin ha za kulla kamaali<br />Maaza yu a maaza yu abbiru an ulaaka maqoalii</p><p><br />ya badrotimmin ha za kulla kamaali<br />Maaza yu a maaza yu abbiru an ulaaka maqoalii</p><p><br />Ma as-salaamah fii amaanih Syaikhonaa<br />Allaahu Robbi-rham murobbii ruuhinaa Yaa Robbanaa</p><p><br />Ma as-salaamah fii amaanih Syaikhonaa<br />Allaahu Robbi-rham murobbii ruuhinaa Yaa Robbanaa</p><p><br />Solla alaikallahu robbii robbii daa iman<br />Abadan ma al ibkaari wal asoalii</p><p><br />Solla alaikallahu robbii robbii daa iman<br />Abadan ma al ibkaari wal asoalii</p><p><br />Ma as-salaamah fii amaanih Syaikhonaa<br />Allaahu Robbi-rham murobbii ruuhinaa Yaa Robbanaa"
+	  },
+	  {
+      "id": 8,
+      "name_category": "SEDIH A",
+      "title": "NATAWAS SALBUK HUBABA",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SEDIH A",
+      "title": "AL QOLBU MUTTAYAM",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI9.mp3",
+      "lyrics": "<p>Alqolbu mutayyam bithohannabi<br />Wa sholla wasallam ala Thohan-nabi<br />Nabinal mukarrom nabinal musyarrof<br />Thohal arobi Thohal arobi</p><p><br />Ahmadun hadana walmaula qod sya<br />Bil khoiri atana wa bilhaqqi ja<br />Ahmadun hadana walmaula qod sya<br />Bil khoiri atana wa bilhaqqi ja</p><p><br />Littaqwa da&rsquo;ana lidarbirroja<br />Wal maula aghnana biThohan-nabi</p><p><br />Ya Rosulallah jita bil Qur&rsquo;an<br />Min wahyil ilah maulanar-rohman<br />Ya Rosulallah jita bil Qur&rsquo;an<br />Min wahyil ilah maulanar-rohman</p><p><br />Wa bi&rsquo;aunillah nasyartal iman<br />Ya habiballah Ya Thohan-nabi</p><p><br />Alqolbu mutayyam bithohannabi<br />Wa sholla wasallam ala Thohan-nabi<br />Nabinal mukarrom nabinal musyarrof<br />Thohal arobi Thohal arobi"
+	  },
+	  {
+      "id": 10,
+      "name_category": "SEDIH A",
+      "title": "BUSYROLANA",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SEDIH A",
+      "title": "SADUNA FIDDUNYA",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI11.mp3",
+      "lyrics": "<p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal maruuf<br />Wal Athoil maluuf<br />Ghoroota lilmalhuuf<br />Innakum bihiadroo</p><p><br />Ya Uhailal mathluub<br />Wal Athoil mauhuub<br />Ghoroota lilmakruub<br />Innakum bihiadroo</p><p><br />Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Bikhoodijataal kubroo<br />Wa faatimatazzahroo</p><p><br />Ya Uhailal ihsaan<br />Wal Atho walghufroon<br />Ghorootal lilkhairoon<br />Innakum bihiadroo</p><p><br />Ya Uhailal Isaad<br />Wal Atho walirfaan<br />Ghoroota yaasyaad<br />Innakum bihiadroo</p><p><br />Saduu-naa fiddunyaa<br />Fauzuu-naa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo</p><p>Saduunaa fiddunyaa<br />Fauzuunaa filukhroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo<br />Bi,khoodijataal kubroo<br />Wa faatimatazzahroo"
+	  },
+    {
+      "id": 12,
+      "name_category": "SEDIH A",
+      "title": "ADFAITA",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/DISHOTI12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SEDIH B",
+      "title": "AL HIJROT",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SEDIH B",
+      "title": "INNAL HABBIB",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SEDIH B",
+      "title": "MAN ANA",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI15.mp3",
+      "lyrics": "<p>Man ana man ana, man ana laulaakum</p><p><br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Maa siwaaya wa laa ghoirokum siwaakum<br />Laa wa man fiil mahabbah &lsquo;alayya wulaakum</p><p><br />Antum antum muroodii wa antum qoshdii<br />Laisa ahadun fiil mahabbati siwaakum &lsquo;indii</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Kullamaa zaadanii fii hawaakum wajdii<br />Qultu yaa saadatii muhjatii tafdaakum<br />Lau qotho&rsquo;tum wariidii bihaddi maadlii<br />Qultu wallaahi ana fii hawaakum roodlii</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum</p><p><br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum<br />Man ana man ana, man ana laulaakum<br />Kaifa maa hubbukum kaifa maa ahwaakum"
+	  },
+	  {
+      "id": 16,
+      "name_category": "SEDIH B",
+      "title": "MIFTAHUL JANNAH",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SEDIH B",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI17.mp3",
+      "lyrics": "<p>Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Jamalak ma fits-nain <br />Masyafit mitsluh ain <br />Asar fuadi Wizad widadi <br />Badrid-duja ya zain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p>Abyadh hulwil-khoddin <br />Ya wasial-ainain <br />Ahlab-tisamah <br />Biabha alamah <br />Ya sayyidal-kaunain</p><p><br />Imta habibi arok <br />Wal-qok wafroh binadak</p><p><br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah <br />Thoha jud binadroh ilayya <br />Thoha ya adhimal-jah</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh</p><p><br />Mughrom.. Qolbi bihubbika mughrom <br />Ya musthofanal mukarrom <br />Ya Rosulalloh"
+	  },
+	  {
+      "id": 18,
+      "name_category": "SEDIH B",
+      "title": "QOD KAFANI",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "SEDIH B",
+      "title": "ROHMAKA YA ROBBAL IBADI",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SEDIH B",
+      "title": "SHOLLUALA KHOIRIL ANAM",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SEDIH B",
+      "title": "WAQTU SAHAR",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "SEDIH B",
+      "title": "YA AYYUHAN NABI",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "SEDIH B",
+      "title": "YA SAYYIDI",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI23.mp3",
+      "lyrics": "<p>Yaa Sayyidi Yaa Rasulallaah <br />Yaa man lahul jaahu indallaah</p><p>Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Ya sayyidar-rusli Haadinaa<br />Hayya bighaarah ilainal-an <br />Yaa Himmatas-saadaatil aqthaab <br />Ma&rsquo;aadina-shidqi was-sirri</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman <br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim</p><p>&nbsp;</p><p>Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa</p><p><br />Yaa Sayyidi Yaa Rasulallaah<br />Yaa man lahul jaahu indallaah</p><p><br />Innal musii-iina qod ja-uuk<br />Lidz-dzanbi yastaghfiruunallaah</p><p><br />Hatiku yang resah<br />Imanku yang goyah<br />Berilah hidayah<br />Bila hamba salah</p><p><br />Allaahu yaa Rohman<br />Allaahu yaa Rahim<br />Allaahumma Shalli&rsquo;alaihi wasallim<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa<br />Astaghfirullaah rabbal baraayaa<br />Astaghfirullaah minal khatayaa"
+	  },
+	  {
+      "id": 24,
+      "name_category": "SEDIH B",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/SB.jpg",
+      "link_mp3": "mp3/DISHOTI24.mp3",
+      "lyrics": "<p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Baldatun al-Auliya<br />Baldatun al-Auliya<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Bijahi Ba &lsquo;Alawi<br />Bijahi Ba &lsquo;Alawi<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>Habibunal karim<br />Habibunal karim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Saqqofuna waliyyun<br />Saqqofuna waliyyun<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p>&nbsp;</p><p>Al-Muhdlor wal &lsquo;Aydarus<br />Al-Muhdlor wal &lsquo;Aydarus<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Al-Haddad wal &lsquo;Aththos<br />Al-Haddad wal &lsquo;Aththos<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Wa jamiil wali<br />Wa jamiil wali<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai lillah.. Syai lillah..<br />Syai lillah.. Syai lillah.."
+	  }
+  ]
+}
