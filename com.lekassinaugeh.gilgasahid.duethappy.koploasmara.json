@@ -1,0 +1,324 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "GILGA SAHID",
+      "image": "file:///android_asset/image/GFS.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "HAPPY ASMARA",
+      "image": "file:///android_asset/image/GFH.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "GILGA SAHID",
+      "title": "GINIO",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA1.mp3",
+      "lyrics": "<p>Aku kelingan sliramu<br />Medot tresno segampang iku<br />Opo koe uwis lali<br />Marang sumpah seng mbok sanggupi<br />Janji sing mbien jarene mbok tepati</p><p><br />Opo pancen aku kleru<br />Opo wes duwe sing luih aku<br />Aku lilo nompo, tapi atiku ora trimo<br />Nyawang sliramu disanding wong liyo</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Matursembahnuwun ninggal loro ning ati<br />Cerito ngeneki ora bakal tak baleni"
+	  },
+    {
+      "id": 2,
+      "name_category": "GILGA SAHID",
+      "title": "TAKKAN BERPISAH",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA2.mp3",
+      "lyrics": "<p>Mbengi iki aku kelingan<br />Pertama kali dhewe kenalan<br />Niatku arep tak gawe pelarian<br />Soyo suwe aku ngeroso nyaman</p><p><br />Ora gampang ngadhepi aku<br />Ra gampang ngerteni sikapku<br />Sabarmu tak akoni hebat<br />Sliramu jan ra tau sambat<br />Mugo wae tresnone dhewe kuat</p><p><br />Matur nuwun<br />Sampun nggawe nyaman<br />Aku percoyo sliramu tenanan<br />Janjiku bakal selalu setia<br />Mugo Gusti nyandingno neng pelaminan</p><p><br />Ngapurane<br />Yen aku akeh salah<br />Sabarmu neng aku ora kenal lelah<br />Kupertahankan dengan susah payah<br />Kita takkan berpisah</p><p><br />Takkan berpisah<br />Semua pasti akan indah</p><p><br />Matur nuwun<br />Sampun nggawe nyaman<br />Aku percoyo tresnamu tenanan<br />Janjiku bakal selalu setia<br />Mugo Gusti nyandingno neng pelaminan</p><p><br />Ngapurane<br />Yen aku akeh salah<br />Sabarmu neng aku ora kenal lelah<br />Kupertahankan dengan susah payah<br />Kita takkan berpisah, oh</p><p><br />Kupertahankan dengan susah payah, oh<br />Kita takkan berpisah"
+	  },
+	  {
+      "id": 3,
+      "name_category": "GILGA SAHID",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA3.mp3",
+      "lyrics": "<p>Kudune kowe ngerti<br />Tresnoku nomer siji<br />Penak e leh mu blenjani janji<br />Kowe tego nglarani</p><p><br />Usahaku wes ra kurang kurang<br />Gematiku wes pol polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendak an</p><p><br />Ngomongo... Jalokmu pie<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Pikiren bahagiamu , aku gampang</p><p><br />Ngomongo... Jalokmu pie<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane<br />KOWE MALAH MILIH WONG KAE<br />JEBUL AKU TOK ANGGAP SEPELE"
+	  },
+	  {
+      "id": 4,
+      "name_category": "GILGA SAHID",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA4.mp3",
+      "lyrics": "<p>Nemu koe pas ati ambyar ambyare<br />Pacar seng tak tresnani ninggal aku golek liane<br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani"
+	  },
+	  {
+      "id": 5,
+      "name_category": "GILGA SAHID",
+      "title": "MANOT",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA5.mp3",
+      "lyrics": "<p>Aku sayang koe, tapi koe sayang dek e<br />Loro atiku mbok sia-sia ne<br />Kadung nibo nangi<br />Merjuangne kowe kui<br />Nanging nyatane kowe golek pengganti</p><p><br />Getun rasane, wes tak upayakne<br />Ginio kok koyo ngene akhire</p><p><br />Sedih mbok tinggal lungo<br />Karepku yo wes rapopo<br />Ning nyatane saben wengi<br />Aku sek kerep ngimpeni<br />Iki lagu teko ati dudu cerito ngapusi<br />Jujur tresnoku seh gedi</p><p><br />Tulung ngertenono aku sayang<br />Tresnoku tenanan dudu mung dinggo dolanan<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku</p><p><br />Aku pengene ro kowe</p><p><br />Getun rasane, wes tak upayakne<br />Ginio kok koyo ngene akhire</p><p><br />Sedih mbok tinggal lungo<br />Karepku yo wes rapopo<br />Ning nyatane saben wengi<br />Aku sek kerep ngimpeni<br />Iki lagu teko ati dudu cerito ngapusi<br />Jujur tresnoku seh gedi</p><p><br />Tulung ngertenono aku sayang<br />Tresnoku tenanan dudu mung dinggo dolanan<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku</p><p><br />Sedih mbok tinggal lungo<br />Karepku yo wes rapopo<br />Ning nyatane saben wengi<br />Aku sek kerep ngimpeni<br />Iki lagu teko ati dudu cerito ngapusi<br />Jujur tresnoku seh gedi</p><p><br />Tulung ngertenono aku sayang<br />Tresnoku tenanan dudu mung dinggo dolanan<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku<br />Sumpah aku seh tresno sliraku<br />Tapi tresnomu dudu nggo aku"
+	  },
+	  {
+      "id": 6,
+      "name_category": "GILGA SAHID",
+      "title": "GINIO",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA6.mp3",
+      "lyrics": "<p>Aku kelingan sliramu<br />Medot tresno segampang iku<br />Opo koe uwis lali<br />Marang sumpah seng mbok sanggupi<br />Janji sing mbien jarene mbok tepati</p><p><br />Opo pancen aku kleru<br />Opo wes duwe sing luih aku<br />Aku lilo nompo, tapi atiku ora trimo<br />Nyawang sliramu disanding wong liyo</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Matursembahnuwun ninggal loro ning ati<br />Cerito ngeneki ora bakal tak baleni</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "GILGA SAHID",
+      "title": "JAJALEN AKU",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA7.mp3",
+      "lyrics": "<p>Rasah mbok angen-angen<br />Wong sing mbiyen ngalarani<br />Timbang ngeboti<br />Ning nyatane mung di apusi</p><p><br />Jajalen aku<br />Wong sing opo anane iki<br />Gemati...Ngangeni...<br />Ra mungkin ngelarani</p><p><br />Siji sing tak temoni genah<br />Jelas ning adepanku<br />Uayumu gawe aku sarwo salah tingkah<br />Neng ngarepanmu</p><p><br />Wit witan do ngingeti<br />Lintang lintange nyekseni<br />Gemricike banyu mili<br />Koyo to njelaske roso senengku</p><p><br />Rasah mbok angen-angen<br />Wong sing mbiyen ngalarani<br />Timbang ngeboti<br />Ning nyatane mung di apusi</p><p><br />Jajalen aku<br />Wong sing opo anane iki<br />Gemati...Ngangeni...<br />Ra mungkin ngelarani</p><p><br />Pripun mas<br />pripon dek<br />Yen sios ngersaake sampun katresnan<br />Heyy... niki sampun cemepak wujude</p><p><br />Wit witan do ngingeti<br />Lintang lintange nyekseni<br />Gemricike banyu mili<br />Koyo to njelaske roso senengku</p><p><br />Rasah mbok angen-angen<br />Wong sing mbiyen ngalarani<br />Timbang ngeboti<br />Ning nyatane mung di apusi</p><p><br />Jajalen aku<br />Wong sing opo anane iki<br />Gemati...Ngangeni...<br />Gemati...Ngangeni...<br />Ra mungkin ngelarani</p><p><br />Uayumu nggawe aku sarwo salah<br />Salahmu ayu"
+	  },
+	  {
+      "id": 8,
+      "name_category": "GILGA SAHID",
+      "title": "SANES",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA8.mp3",
+      "lyrics": "<p>Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo"
+	  },
+	  {
+      "id": 9,
+      "name_category": "GILGA SAHID",
+      "title": "JANJI MENAKNE",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA9.mp3",
+      "lyrics": "<p>Mas ojo ngrayu wae<br />Sak mestine roso tresno ora mung abang lambe<br />Wes dadi pilihan ati<br />Sayangku yo mung kanggo koe</p><p>&nbsp;</p><p>Dek rungokno kandaku<br />Opo sek kurang nyoto roso tresnoku<br />Opo sek kurang bukti janji seng neng lati<br />Insya Allah bakal tak wusanani</p><p>&nbsp;</p><p>Umur bakal tuo, ayuku ilang ra kroso<br />Aku wedi koe waleh wedi kencantol wong liyo</p><p>Percoyo aku, cintaku hanya padamu<br />Janji tak penakne nganti anak putu</p><p>&nbsp;</p><p>Janji menakne, janji ngenakne</p><p>Ojo janji kari janji yen amung sewates lambe</p><p>Janji menakne, janji ngenakne<br />Mugi Gusti tansah ngrekso selawase</p><p>&nbsp;</p><p>Umur bakal tuo, ayuku ilang ra kroso<br />Aku wedi koe waleh wedi kencantol wong liyo</p><p>Percoyo aku, cintaku hanya padamu<br />Janji tak penakne nganti anak putu</p><p>&nbsp;</p><p>Janji menakne, janji ngenakne</p><p>Ojo janji kari janji yen amung sewates lambe</p><p>Janji menakne, janji ngenakne<br />Mugi Gusti tansah ngrekso selawase</p><p>&nbsp;</p><p>Janji menakne, janji ngenakne</p><p>Ojo janji kari janji yen amung sewates lambe</p><p>Janji menakne, janji ngenakne<br />Mugi Gusti tansah ngrekso selawase</p><p>Mugi Gusti tansah ngrekso selawase"
+	  },
+	  {
+      "id": 10,
+      "name_category": "GILGA SAHID",
+      "title": "ALOLOLO SAYANG",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "GILGA SAHID",
+      "title": "DEMI KOWE",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "GILGA SAHID",
+      "title": "NEMEN FT DENNY",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA12.mp3",
+      "lyrics": "<p>Kudune kowe ngerti<br />Tresnoku nomer siji<br />Penak e leh mu blenjani janji<br />Kowe tego nglarani</p><p><br />Usahaku wes ra kurang kurang<br />Gematiku wes pol polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendak an</p><p><br />Ngomongo... Jalokmu pie?<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Pikiren bahagiamu , aku gampang</p><p><br />Ngomongo... Jalokmu pie?<br />Tak turutane , tak usahakne<br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih dek'e<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p>kowe malah wong kae<br />jebule aku mbok anggap sepele"
+	  },
+	  {
+      "id": 13,
+      "name_category": "GILGA SAHID",
+      "title": "NGELARANI RA KIRO KIRO",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA13.mp3",
+      "lyrics": "<p>Tresno tulusku mbok sio-sio<br />Lorone sempurna neng jero dodo<br />Kok koyok ngene akhire<br />Aku mbok anggep sepele<br />Tresno ojo nggo guyonan<br />Iki ati duk dagelan</p><p><br />Nanging untunge bakoh atiku<br />Masyo loro ati tetep guyu<br />Suk neh ojo dibaleni<br />Cukup ku yang tersakiti<br />Aku pamit undur diri<br />Terima kasih tentang luka ini</p><p><br />Ayumu ora sepiro<br />Nglarani ra kiro-kiro<br />Wes cukup, wes ndang ngaliho<br />Tak cubo sabar nerimo</p><p><br />Ora bakal tak baleni<br />Tresno koyo ngene iki<br />Janji tulus teko ati<br />Jebul janji mbok blenjani</p><p><br />Jare pengen dihalalkan<br />Malah we ngajak pisahan<br />Yowis aku cukup tau<br />Cukup sadar diri, aku dudu idamanmu</p><p><br />Aku dianggep sepele</p><p><br />Ayumu ora sepiro<br />Nglarani ra kiro-kiro<br />Wes cukup, wes ndang ngaliho<br />Tak cubo sabar nerimo</p><p><br />Ora bakal tak baleni<br />Tresno koyo ngene iki<br />Janji tulus teko ati<br />Jebul janji mbok blenjani</p><p><br />Jare pengen dihalalkan<br />Malah we ngajak pisahan<br />Yowis aku cukup tau<br />Cukup sadar diri, aku dudu idamanmu</p><p><br />Ora bakal tak baleni<br />Tresno koyo ngene iki<br />Janji tulus teko ati<br />Jebul janji mbok blenjani</p><p><br />Jare pengen dihalalkan<br />Malah we ngajak pisahan<br />Yowis aku cukup tau<br />Cukup sadar diri, aku dudu idamanmu</p><p><br />Aku sadar diri, Aku dudu Idamanmu"
+	  },
+	  {
+      "id": 14,
+      "name_category": "GILGA SAHID",
+      "title": "TAK LELAKNE KOWE",
+      "image": "file:///android_asset/image/GFS.jpg",
+      "link_mp3": "mp3/HAGIPYLA14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "HAPPY ASMARA",
+      "title": "SADAR POSISI",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA15.mp3",
+      "lyrics": "<p>Wes tak cubo nguatke ati<br />Nompo kasunyatan iki<br />Nadyan perih rasane<br />Aku kudu sadar diri..</p><p><br />Mbiyen kowe ninggal lungo<br />Tanpo pamit karo aku<br />Saiki we teko ning ngarepku<br />Mung ngeterke undangan rabimu.</p><p><br />Aku kudu sadar posisi<br />Ra bakal biso nduweni<br />Mergo kowe sing tak tresno<br />Malah milih wong liyo..</p><p><br />Mung iso tak pendem ning ati<br />Roso sayang ro tresnoku iki<br />Aku tresno kowe<br />Kowe tresno liyane.</p><p><br />Remuk atiku nompo layang<br />Undangan rabimu<br />Mbubrahke crito tresno iki<br />Marang sliramu</p><p><br />Gandeng wes suwe<br />Jebul aku dudu jodone<br />Matursuwun.. Kowe wes tau<br />Gawe kisah ning uripku</p><p><br />Aku kudu sadar posisi<br />Ra bakal biso nduweni</p><p><br />Remuk atiku<br />Remuk atiku nompo layang<br />Undangan rabimu<br />Mbubrahke crito tresno iki<br />Marang sliramu</p><p><br />Gandeng wes suwe<br />Jebul aku dudu jodone<br />Matursuwun.. Kowe wes tau<br />Gawe kisah ning uripku</p><p><br />Remuk atiku nompo layang<br />Undangan rabimu<br />Mbubrahke crito tresno iki<br />Marang sliramu</p><p><br />Gandeng wes suwe<br />Jebul aku dudu jodone<br />Matursuwun.. Kowe wes tau<br />Gawe kisah ning uripku"
+	  },
+	  {
+      "id": 16,
+      "name_category": "HAPPY ASMARA",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA16.mp3",
+      "lyrics": "<p>Kudune kowe ngerti <br />Tresnoku nomer siji<br />Penak e leh mu blenjani janji<br />Kowe tego nglarani</p><p><br />Usahaku wes ra kurang kurang<br />Gematiku wes pol polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendak an</p><p><br />Ngomongo... Jalokmu pie? <br />Tak turutane , tak usahakne <br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Ngomongo... Jalokmu pie? <br />Tak turutane , tak usahakne <br />Aku ramasalah... yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane</p><p><br />Nanging ngopo , walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku ninggal tatu<br />Kurang opo , nek ku mertahanke kowe<br />Kowe malah ngebot i liane<br />Kowe malah ngebot i liane"
+	  },
+	  {
+      "id": 17,
+      "name_category": "HAPPY ASMARA",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA17.mp3",
+      "lyrics": "<p>Nemu koe pas ati ambyar ambyare<br />Pacar seng tak tresnani ninggal aku golek liane<br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani<br />yang pergi biarlah pergi ono koe seng ngancani</p>"
+	  },
+	  {
+      "id": 18,
+      "name_category": "HAPPY ASMARA",
+      "title": "GINIO",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA18.mp3",
+      "lyrics": "<p>Aku kelingan sliramu<br />Medot tresno segampang iku<br />Opo koe uwis lali<br />Marang sumpah seng mbok sanggupi<br />Janji sing mbien jarene mbok tepati</p><p><br />Opo pancen aku kleru<br />Opo wes duwe sing luih aku<br />Aku lilo nompo, tapi atiku ora trimo<br />Nyawang sliramu disanding wong liyo</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Kurangku opo jajal kowe ngomongo<br />Masalah sepele ojo di gawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing sugeh kae<br />Yo jelas nemen aku ra mampu</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke, Karo wong sing elek atine<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Matursembahnuwun ninggal loro ning ati<br />Cerito ngeneki ora bakal tak baleni</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "HAPPY ASMARA",
+      "title": "PAMBASILET",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA19.mp3",
+      "lyrics": "<p>Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua. Suka main di belakang<br />Pam pam pam basilet</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua suka main di belakang<br />Pam pam pam basilet</p><p><br />Dua tahun<br />Ngana sa tinggal<br />Ngana pigi<br />Bertahan....<br />Basiksa.<br />Basiksa basiksa lagi<br />Mati mati rasa<br />Rasa mo mati<br />Mo mati mo mati</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua, suka main di belakang<br />Pam pam pam basilet</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga..<br />Kalau torang dua, suka main di belakang<br />Pam pam pam basilet</p><p><br />Dua tahun<br />Ngana sa tinggal<br />Ngana pigi<br />Bertahan....<br />Basiksa.<br />Basiksa basiksa lagi<br />Mati mati rasa<br />Rasa mo mati<br />Mo mati mo mati</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga<br />Kalau torang dua, suka main di belakang<br />Pam pam pam basilettt</p><p><br />Kambing deng kambing mo baku dapa<br />Ayam ayam pam pam pam basilet<br />Mar ternyata binatang<br />Memang kita sa curiga<br />Kalau torang dua suka main di belakang<br />Pam pam pam basilet<br />Pam pam pam basilet<br />Pam pam pam basilet"
+	  },
+	  {
+      "id": 20,
+      "name_category": "HAPPY ASMARA",
+      "title": "NOT YOU",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "HAPPY ASMARA",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA21.mp3",
+      "lyrics": "<p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu"
+	  },
+    {
+      "id": 22,
+      "name_category": "HAPPY ASMARA",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA22.mp3",
+      "lyrics": "<p>Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi"
+	  },
+	  {
+      "id": 23,
+      "name_category": "HAPPY ASMARA",
+      "title": "LUNGAMU NINGGAL KEANNGAN 2",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA23.mp3",
+      "lyrics": "<p>Demi ayangku tak tulisne tembang rindu<br />Lewat sepi wengi iki tak titipne roso kangenku<br />Ora keroso nete iluh banyu moto <br />Amergo kowe tego ningal aku demi wong liyo</p><p><br />Aku ikhlas aku lilo snajan ati iki loro<br />Aku iklas aku lilo mugo kowe biso bahagio</p><p><br />Langit peteng katon mendung <br />Kowe gawe aku bingung <br />Arep njalok tulung <br />Bingung angonku nembung</p><p><br />Aku wes ikhlas berjuang <br />Kowe bilang dada sayang <br />Aku ora ngiro lungamu ningal kenangan</p><p><br />Demi ayangku tak tulisne tembang rindu<br />Lewat sepi wengi iki tak titipne roso kangenku</p><p><br />Ora keroso nete iluh banyu moto <br />Amergo kowe tego ningal aku demi wong liyo</p><p><br />Aku ikhlas aku lilo snajan ati iki loro<br />Aku iklas aku lilo mugo kowe biso bahagio</p><p><br />Langit peteng katon mendung <br />Kowe gawe aku bingung <br />Arep njalok tulung <br />Bingung angonku nembung</p><p><br />Aku wes ikhlas berjuang <br />Kowe bilang dada sayang <br />Aku ora ngiro lungamu ningal kenangan</p><p><br />Langit peteng katon mendung <br />Kowe gawe aku bingung <br />Arep njalok tulung <br />Bingung angonku nembung</p><p><br />Aku wes ikhlas berjuang <br />Kowe bilang dada sayang <br />Aku ora ngiro lungamu ningal kenangan <br />Aku ora ngiro lungamu ningal kenangan"
+	  },
+	  {
+      "id": 24,
+      "name_category": "HAPPY ASMARA",
+      "title": "KEMBANG WANGI",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA24.mp3",
+      "lyrics": "<p>Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Matur nuwun Gusti pun maringi tresno gemati<br />Seng tak sayang ra iso keganti<br />Masio akeh alangan seng awakdewe adepi<br />Iso dirampungi mergo tulus ati</p><p><br />Bebasan koyo langit<br />Dikebaki lintang-lintang<br />Seng madangi petenge atiku<br />Matur nuwun wes dadi mawar seng wangi<br />Titipane Gusti seng tak jagani</p><p><br />Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Hoouuu hooo hooo<br />Hoouuu hooo hooo<br />Ra iso keganti selawase kowe</p><p><br />Bakal koyo langit<br />Dikebaki lintang-lintang<br />Seng madangi petenge atiku<br />Matur nuwun wes dadi mawar seng wangi<br />Titipane Gusti seng tak jagani</p><p><br />Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Kembang seng wangi<br />Nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati<br />Dadi tondo tresno sejati<br />Kembang seng wangi"
+	  },
+	  {
+      "id": 25,
+      "name_category": "HAPPY ASMARA",
+      "title": "DUMES",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA25.mp3",
+      "lyrics": "<p>Sepine ro aku, senengmu karo liyane<br />Arep cemburu kok dudu sopo sopone<br />Sing awale perhatian<br />ning akhire sliramu sing malah ngilang.</p><p><br />Ra pengen... liane... pengenku siji mung koe<br />Kenyataan e dudu aku, neng njero atimu</p><p><br />Isih sok kelingan.<br />Kabeh kenangan sing tau dilakoni<br />Kebayang bayang nganti kegowo ngimpi</p><p><br />Iso gawe nyaman, ra jaminan, duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Kroso sliramu wong sing paling gemati<br />Ora nyongko koe, sing paling nglarani.</p><p><br />Ra pengen... liane... pengenku siji mung koe<br />Kenyataan e dudu aku, neng njero atimu</p><p><br />Isih sok kelingan.<br />Kabeh kenangan sing tau dilakoni<br />Kebayang bayang nganti kegowo ngimpi</p><p><br />Iso gawe nyaman, ra jaminan, duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Kroso sliramu wong sing paling gemati<br />Ora nyongko koe, sing paling nglarani</p><p><br />Isih sok kelingan.<br />Kabeh kenangan sing tau dilakoni<br />Kebayang bayang nganti kegowo ngimpi</p><p><br />Iso gawe nyaman, ra jaminan, duweni atimu</p><p>Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Kroso sliramu wong sing paling gemati<br />Ora nyongko koe, sing paling nglarani</p><p>&nbsp;</p>"
+	  },
+	  {
+      "id": 26,
+      "name_category": "HAPPY ASMARA",
+      "title": "DADI SIJI",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA26.mp3",
+      "lyrics": "<p>Pandongaku tekan tuo<br />Nganti sing misah ke nyowo<br />Kang mas aku percoyo<br />Koe ra gampang keno godo</p><p><br />Bebarengan jogo ati<br />Ojo ngasi ngelarani<br />Yo mung siji yo mung koe tekan mati</p><p><br />Wes tak pasrahke kabeh karo gusti<br />Udane sore sing dadi saksi<br />Naliko kabeh iki tak lakoni ikhlas ati<br />Mugo gusti maringi dalan sing tak pingini</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki uwis ilang salah siji<br />Rabakal ono sing iso ganteni</p><p><br />Pandongaku tekan tuo<br />Nganti sing misah ke nyowo<br />Kang mas aku percoyo<br />Koe ra gampang keno godo</p><p><br />Bebarengan jogo ati<br />Ojo ngasi ngelarani<br />Yo mung siji yo mung koe tekan mati</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki uwis ilang salah siji<br />Rabakal ono sing iso ganteni</p><p><br />Seko aku karo koe iso dadi awakdewe<br />Maturnuwun wis ngancani selama iki<br />Tak temokke kabeh bahagiaku sing tak karepke<br />Karo koe kabeh wes dadi takdir e<br />Karo koe kabeh wes dadi dalane</p>"
+	  },
+	  {
+      "id": 27,
+      "name_category": "HAPPY ASMARA",
+      "title": "EGO",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA27.mp3",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo"
+	  },
+	  {
+      "id": 28,
+      "name_category": "HAPPY ASMARA",
+      "title": "GUSTI KULO LOS",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "HAPPY ASMARA",
+      "title": "KOK ISO YO",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA29.mp3",
+      "lyrics": "<p>Kok iso yo, kok tegel yo<br />Opo salahku, nengdi luputku<br />Wong sing ra sepiro koyo aku iki<br />Masalah asmoro mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti tulung paringono ati sing kuat<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Tibo wayah mongso udan teko<br />Hawa adem featuringan loro<br />Durung siap nompo kenyataan<br />Koe disanding wong liyo</p><p><br />Durung nganti garing loroning atiku Uwis<br />Mbok tambani kenyataan<br />Ngadepi sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging koe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo, kok tegel yo<br />Opo yo aku, Masalah asmoro mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adem featuringan loro<br />Durung siap nompo kenyataan<br />Koe disanding wong liyo</p><p><br />Durung nganti garing loroning atiku Uwis<br />Mbok tambani kenyataan<br />Ngadepi sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging koe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Durung nganti garing loroning atiku Uwis<br />Mbok tambani kenyataan<br />Ngadepi sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging koe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine"
+	  },
+	  {
+      "id": 30,
+      "name_category": "HAPPY ASMARA",
+      "title": "OJO GETUN",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA30.mp3",
+      "lyrics": "<p>saiki kowe oleh nyiakke<br />tresnoku sing tulus kanggo awakmu<br />kowe oleh ngguyu diatas penderitaanku<br />tapi kelingono karma menunggumu</p><p><br />derita yang aku rasa<br />ketika kubersamamu<br />semua 'kan ada balasnya<br />takkan bisa kau hindarinya</p><p><br />yen sok emben kowe getun, ojo bali karo aku<br />mergo iso wae aku wis bahagia ro liyane<br />yen sok emben kowe susah, ojo kelingan salahmu<br />belajaro tekan masalalu, yen kowe iso dadi sing luwih apik</p><p><br />saiki kowe oleh nyiakke<br />tresnoku sing tulus kanggo awakmu<br />kowe oleh ngguyu diatas penderitaanku<br />tapi kelingono karma menunggumu</p><p><br />derita yang aku rasa<br />ketika kubersamamu<br />semua 'kan ada balasnya<br />takkan bisa kau hindarinya</p><p><br />yen sok emben kowe getun, ojo bali karo aku<br />mergo iso wae aku wis bahagia ro liyane<br />yen sok emben kowe susah, ojo kelingan salahmu<br />belajaro tekan masalalu, yen kowe iso dadi sing luwih apik</p><p><br />yen sok emben kowe getun, ojo bali karo aku<br />mergo iso wae aku wis bahagia ro liyane<br />yen sok emben kowe susah, ojo kelingan salahmu<br />belajaro tekan masalalu, yen kowe iso dadi sing luwih apik<br />yen kowe iso dadi sing luweh apik"
+	  },
+	  {
+      "id": 31,
+      "name_category": "HAPPY ASMARA",
+      "title": "ORA ISO",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA31.mp3",
+      "lyrics": "<p>Udane sore sing tau dadi saksi<br />nalikone sampeyan medot janji<br />saben lungo anane mung kalap ro salah<br />soyo suwe mboten betah</p><p><br />cukup semanten nggonku berjuang<br />tresnoku saiki pun kadung ilang</p><p><br />sakdurunge, sayang, aku jaluk ngapuro<br />aku wes gawe atimu loro<br />saktenane, sayang, kabeh wes tak getuni<br />saktenane aku seh pengen bali</p><p><br />wes lalekke kabeh kenangan sing tau ono<br />tak cobo kuat iso nompo<br />ora popo sayang, kabeh wes tak ngapuro<br />lek kon mbaleni sori wes ora iso</p><p><br />cukup semanten nggonku berjuang<br />tresnoku saiki pun kadung ilang</p><p><br />sakdurunge, sayang, aku jaluk ngapuro<br />aku wes gawe atimu loro<br />saktenane, sayang, kabeh wes tak getuni<br />saktenane aku seh pengen bali</p><p><br />wes lalekke kabeh kenangan sing tau ono<br />tak cobo kuat iso nompo<br />ora popo sayang, kabeh wes tak ngapuro<br />lek kon mbaleni sori wes ora iso<br />lek kon mbaleni sori wesss.... ora iso"
+	  },
+    {
+      "id": 32,
+      "name_category": "HAPPY ASMARA",
+      "title": "PINGAL",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA32.mp3",
+      "lyrics": "<p>Piye sek jelaske karo wongtuwo<br />Wes ngelakoni tekan semene<br />Nek akhire bakal bubar pisahan<br />Kowe kegudo tresno karo wong liyo</p><p><br />Ngelali kowe sing tau ngomong dewe<br />Ngelakoni tresno tekan tuwo<br />Ora ngeliyo mung aku ning atimu<br />Nanging saiki atimu ono wong liyo</p><p><br />Ibarat esuk mendung, awan aku kudanan<br />Sore mbok larani, bengi tak tangisi</p><p><br />Mung iso bayangke kabeh kenangan<br />Kowe tak boncengke, turut dalan kekepan kudanan<br />Saiki nyatane kowe malah milih<br />Dikekep wong liyo</p><p><br />Opo kowe ra kroso abote atiku<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ibarat esuk mendung, awan aku kudanan<br />Sore mbok larani, bengi tak tangisi</p><p><br />Mung iso bayangke kabeh kenangan<br />Kowe tak boncengke, turut dalan kekepan kudanan<br />Saiki nyatane kowe malah milih<br />Dikekep wong liyo</p><p><br />Opo kowe ra kroso abote atiku<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang"
+	  },
+	  {
+      "id": 33,
+      "name_category": "HAPPY ASMARA",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA33.mp3",
+      "lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu, sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu, dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu, kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />Ho-uh-oh, tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan selalu menjagamu<br />Ho-oh-oh-uh</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu, dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu, dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Hu-uh-oh<br />Diriku tak seburuk itu<br />Di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu<br />Semata karna ku tak mampu hidup tanpamu"
+	  },
+	  {
+      "id": 34,
+      "name_category": "HAPPY ASMARA",
+      "title": "TEGO TENAN",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA34.mp3",
+      "lyrics": "<p>Tega tenan kowe<br />Ngelarani ati<br />Kowe sing tak tresnani<br />Nanging, ninggalne janji</p><p><br />Berharap kembali<br />Namun, tersakiti<br />Tak jaga rasa iki<br />Kowe tega ngapusi</p><p><br />Sadar, aku mung tresna sliramu<br />Nyatane kok gawe tatu</p><p><br />Sing penting aku uwis tau tulus<br />Senajan atiku kok larani terus<br />Sing penting aku uwis tau tresna<br />Senajan akhire kok sia-sia</p><p><br />Berharap kembali<br />Namun, tersakiti<br />Tak jaga rasa iki<br />Kowe tega ngapusi</p><p><br />Sadar, aku mung tresna sliramu<br />Nyatane kok gawe tatu</p><p><br />Sing penting aku uwis tau tulus<br />Senajan atiku kok larani terus<br />Sing penting aku uwis tau tresna<br />Senajan akhire kok sia-sia</p><p><br />Udan deres, ra terang-terang<br />Ati ngenes, ra isa ilang<br />Banyu kali mili ning segara<br />Kowe lali karo aku sing wis tau tresna</p><p><br />Sing penting aku uwis tau tulus<br />Senajan atiku kok larani terus<br />Sing penting aku uwis tau tresna<br />Senajan akhire kok sia-sia</p><p><br />Sing penting aku uwis tau tresna<br />Senajan akhire kok sia-sia<br />Senajan akhire kok sia-sia<br />Senajan akhire kok sia-sia</p><p><br />Tega tenan</p>"
+	  },
+	  {
+      "id": 35,
+      "name_category": "HAPPY ASMARA",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/GFH.jpg",
+      "link_mp3": "mp3/HAGIPYLA35.mp3",
+      "lyrics": "<p>wes tak cobo ngempet lara<br />wes tak cobo njogo tresno<br />loro sing tok jalari ora tak rasake<br />senadyan aku ngerti koe karo liyane</p><p><br />cobo koe ono ning posisiku<br />opo koe iso kuat atimu<br />ngrasakke tok larani ning saben dinoku<br />koe ra ngroso, kok malah suloyo</p><p><br />kulo pun angkat tangan, atinipun ajur-ajuran<br />kulo tak milih pamit, ati kulo pun roso sakit</p><p><br />ngapurane sayang aku udu wong top topan<br />ora koyo idamanmu sing gampang nerobos atimu<br />aku jane ngerti koe ghosting ati<br />tak cobo goblok tetep mencintai sepenuh hati</p><p><br />kulo pun angkat tangan, atinipun ajur-ajuran<br />kulo tak milih pamit, ati kulo pun roso sakit</p><p><br />ngapurane sayang aku udu wong top topan<br />ora koyo idamanmu sing gampang nerobos atimu<br />aku jane ngerti koe ghosting ati<br />tak cobo goblok tetep mencintai sepenuh hati</p><p><br />ngapurane sayang aku udu wong top topan<br />ora koyo idamanmu sing gampang nerobos atimu<br />aku jane ngerti koe ghosting ati<br />tak cobo goblok tetep mencintai sepenuh hati</p><p><br />ngapurane sayang aku udu wong top topan<br />ora koyo idamanmu sing gampang nerobos atimu<br />aku jane ngerti koe ghosting ati<br />tak cobo goblok tetep mencintai sepenuh hati<br />tak cobo goblok tetep mencintai sepenuh hati, sepenuh hati"
+	  }
+  ]
+}
