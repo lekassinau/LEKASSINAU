@@ -1,0 +1,284 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ DANGDUT",
+      "image": "file:///android_asset/image/DD.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ KOPLO",
+      "image": "file:///android_asset/image/DK.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ PECAH SERIBU",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ SEBUJUR BANGKAI",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ SAKIT GIGI",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ PANTUN JANDA",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ NGOPI MASE",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ KURINDU GAYAMU",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ JATUH BANGUN",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ DUA KURSI",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ ANGGUR MERAH",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ PERTEMUAN",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ BENANG BIRU",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ GUBUK BAMBU",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ MAHAL",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ PENGANTIN BARU",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ SAKIT HATI",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ TERLANJUR BASAH",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "DJ DANGDUT",
+      "title": "DJ YANG TERSAYANG",
+      "image": "file:///android_asset/image/DD.jpg",
+      "link_mp3": "mp3/RALDUTJ18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "DJ KOPLO",
+      "title": "DJ BOJO LORO",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "DJ KOPLO",
+      "title": "DJ BOJOMU SESOK TAK SILIE",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "DJ KOPLO",
+      "title": "DJ DADI SIJI",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "DJ KOPLO",
+      "title": "DJ GINIO",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "DJ KOPLO",
+      "title": "DJ KEMBANG WANGI",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "DJ KOPLO",
+      "title": "DJ NEMEN",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "DJ KOPLO",
+      "title": "DJ NEMU",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "DJ KOPLO",
+      "title": "DJ ORA ISO",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "DJ KOPLO",
+      "title": "DJ RA ISO DADI SIJI",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "DJ KOPLO",
+      "title": "DJ RUNGKAD",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "DJ KOPLO",
+      "title": "DJ SADAR POSISI",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "DJ KOPLO",
+      "title": "DJ SANES",
+      "image": "file:///android_asset/image/DK.jpg",
+      "link_mp3": "mp3/RALDUTJ30.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
