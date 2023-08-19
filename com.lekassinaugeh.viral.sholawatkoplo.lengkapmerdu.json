@@ -1,0 +1,308 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "SHOLAWAT A",
+      "image": "file:///android_asset/image/SKA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT B",
+      "image": "file:///android_asset/image/SKB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SHOLAWAT B",
+      "title": "ALAMATE ANAK SHOLEH",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT A",
+      "title": "AL QOLBU MUTAYYAM",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "SHOLAWAT A",
+      "title": "YA TARIM",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "SHOLAWAT A",
+      "title": "YASIR LANA",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "SHOLAWAT A",
+      "title": "MUGHROM",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "SHOLAWAT A",
+      "title": "AL ITIROF",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "SHOLAWAT A",
+      "title": "SHOLAWAT JIBRIL",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "SHOLAWAT A",
+      "title": "SHOLAWAT BADAR",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "SHOLAWAT A",
+      "title": "BIROSULILLAH",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SHOLAWAT A",
+      "title": "NABI PUTRA ABDULAH",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SHOLAWAT A",
+      "title": "ROBBI KHOLAQ",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "SHOLAWAT A",
+      "title": "SHOLLAALAIKALLAH",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SHOLAWAT A",
+      "title": "YA RASULALLAH",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SHOLAWAT A",
+      "title": "QOD KHAFANI",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SHOLAWAT A",
+      "title": "ISFALANA",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SHOLAWAT A",
+      "title": "HADZAL HADI",
+      "image": "file:///android_asset/image/SKA.jpg",
+      "link_mp3": "mp3/KOSHOVI16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "SHOLAWAT B",
+      "title": "AR ROBBU SHOLLA",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SHOLAWAT B",
+      "title": "AHLUDZIMAM",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "SHOLAWAT B",
+      "title": "AISYAH ISTRI RASULULLAH",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SHOLAWAT B",
+      "title": "AL MADAD",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SHOLAWAT B",
+      "title": "ANAWINTA",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "SHOLAWAT B",
+      "title": "ANTASALAM",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "SHOLAWAT B",
+      "title": "ASTAGFIRULLAH",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "SHOLAWAT B",
+      "title": "BISMILLAH",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SHOLAWAT B",
+      "title": "SAHLULINAS",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "SHOLAWAT B",
+      "title": "SHOLALLAHU ALA YASIN",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "SHOLAWAT B",
+      "title": "SHOLAWAT DUIT",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "SHOLAWAT B",
+      "title": "SHOLLALAHU WASSALAM",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "SHOLAWAT B",
+      "title": "SHOLLATULLAH SALAMULLAH",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "SHOLAWAT B",
+      "title": "THOHIROL QOLBI",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "SHOLAWAT B",
+      "title": "YA HABIBALLAH",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI31.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 32,
+      "name_category": "SHOLAWAT B",
+      "title": "YA ROBIBIL MUSTOFA",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "SHOLAWAT B",
+      "title": "ZAINAL AMBYA",
+      "image": "file:///android_asset/image/SKB.jpg",
+      "link_mp3": "mp3/KOSHOVI33.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
