@@ -1,0 +1,407 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "BIRDSONG",
+      "image": "file:///android_asset/image/SKBN.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BIRDSONG",
+      "title": "AVOCET",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA1.ogg",
+	  "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "BIRDSONG",
+      "title": "BLUE BIRD",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA2.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "BIRDSONG",
+      "title": "BLUE JAY",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA3.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "BIRDSONG",
+      "title": "COCKATOO",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA4.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "BIRDSONG",
+      "title": "CRANE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA5.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "BIRDSONG",
+      "title": "CROW",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA6.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "BIRDSONG",
+      "title": "CUCKOO",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA7.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "BIRDSONG",
+      "title": "DOVE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA8.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "BIRDSONG",
+      "title": "DRAKE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA9.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "BIRDSONG",
+      "title": "DUCK",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA10.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "BIRDSONG",
+      "title": "DUCKLING",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA11.ogg",
+	  "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "BIRDSONG",
+      "title": "EAGLE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA12.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "BIRDSONG",
+      "title": "FALCOM",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA13.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "BIRDSONG",
+      "title": "FLAMINGGO",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA14.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "BIRDSONG",
+      "title": "GOOSE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA15.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "BIRDSONG",
+      "title": "GULL",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA16.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "BIRDSONG",
+      "title": "HEN",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA17.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "BIRDSONG",
+      "title": "HERON",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA18.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "BIRDSONG",
+      "title": "HOOPOE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA19.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "BIRDSONG",
+      "title": "HORNBILL",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA20.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "BIRDSONG",
+      "title": "HUMMING BIRD",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA21.ogg",
+	  "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "BIRDSONG",
+      "title": "KING FISHER",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA22.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "BIRDSONG",
+      "title": "KITE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA23.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "BIRDSONG",
+      "title": "MYNAH",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA24.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "BIRDSONG",
+      "title": "OSTRICH",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA25.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "BIRDSONG",
+      "title": "OWL",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA26.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "BIRDSONG",
+      "title": "PARROT",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA27.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "BIRDSONG",
+      "title": "PARTRIDGE",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA28.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "BIRDSONG",
+      "title": "PEACOCK",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA29.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "BIRDSONG",
+      "title": "PELICAN",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA30.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "BIRDSONG",
+      "title": "PENGUIN",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA31.ogg",
+	  "lyrics": ""
+	  },
+    {
+      "id": 32,
+      "name_category": "BIRDSONG",
+      "title": "PIGEON",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA32.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "BIRDSONG",
+      "title": "QUAIL",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA33.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 34,
+      "name_category": "BIRDSONG",
+      "title": "ROBIN",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA34.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 35,
+      "name_category": "BIRDSONG",
+      "title": "ROOSTER",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA35.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 36,
+      "name_category": "BIRDSONG",
+      "title": "SANDPIPER",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA36.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 37,
+      "name_category": "BIRDSONG",
+      "title": "SEA GULL",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA37.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 38,
+      "name_category": "BIRDSONG",
+      "title": "SPARROW",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA38.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 39,
+      "name_category": "BIRDSONG",
+      "title": "STORK",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA39.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 40,
+      "name_category": "BIRDSONG",
+      "title": "SWALLOW",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA40.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 41,
+      "name_category": "BIRDSONG",
+      "title": "SWAN",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA41.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 42,
+      "name_category": "BIRDSONG",
+      "title": "TAILORBIRD",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA42.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 43,
+      "name_category": "BIRDSONG",
+      "title": "TURKEY",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA43.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 44,
+      "name_category": "BIRDSONG",
+      "title": "WAGTAIL",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA44.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 45,
+      "name_category": "BIRDSONG",
+      "title": "WEAVER",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA45.ogg",
+	  "lyrics": ""
+	  },
+	  {
+      "id": 46,
+      "name_category": "BIRDSONG",
+      "title": "WOOD PECKER",
+      "image": "file:///android_asset/image/SKBN.jpg",
+      "link_mp3": "mp3/NASUCORUKA46.ogg",
+	  "lyrics": ""
+	  }
+  ]
+}
