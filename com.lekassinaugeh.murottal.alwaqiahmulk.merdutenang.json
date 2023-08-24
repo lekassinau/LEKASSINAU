@@ -1,0 +1,135 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "MUROTTAL",
+      "image": "file:///android_asset/image/MRD.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AL FATIHAH",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AL WAQIAH",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AL MULK",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AR RAHMAN",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "MUROTTAL",
+      "title": "SURAH YASIN",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AL KAHFI",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "MUROTTAL",
+      "title": "SURAH MARYAM",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "MUROTTAL",
+      "title": "SURAH YUSUF",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AL FALAQ",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AL IKHLAS",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AN NAS",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "MUROTTAL",
+      "title": "SURAH AD DHUHA",
+      "image": "file:///android_asset/image/MRD.jpg",
+      "link_mp3": "mp3/MUWAMU12.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
