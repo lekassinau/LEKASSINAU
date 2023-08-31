@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SIDE A",
+      "image": "file:///android_asset/image/.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SIDE B",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SIDE A",
+      "title": "MANUSIA KUAT",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA1.mp3",
+      "lyrics": "<p>Kau bisa patahkan kakiku<br />Tapi tidak mimpi-mimpiku<br />Kau bisa lumpuhkan tanganku<br />Tapi tidak mimpi-mimpiku</p><p><br />Kau bisa merebut senyumku<br />Tapi sungguh tak akan lama<br />Kau bisa merobek hatiku<br />Tapi aku tahu obatnya</p><p><br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita<br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita</p><p><br />Kau bisa hitamkan putihku<br />Kau takkan gelapkan apapun<br />Kau bisa runtuhkan jalanku<br />'Kan ku temukan jalan yang lain</p><p><br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita<br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita</p><p><br />Bila bukan kehendak-Nya<br />Tidak satu pun culasmu akan bawa bahagia</p><p><br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita<br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita</p><p><br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita<br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita</p><p><br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita<br />Manusia-manusia kuat itu kita<br />Jiwa-jiwa yang kuat itu kita</p><p><br />Kita sinergi tamu di dunia<br />Kita sinergi tamu di dunia<br />Kita sinergi tamu di dunia<br />Kita sinergi tamu di dunia<br />Kita sinergi tamu di dunia</p><p><br />Kau bisa patahkan kakiku<br />Patah tanganku rebut senyumku<br />Hitamkan putihnya hatiku<br />Tapi tidak mimpi-mimpiku</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "SIDE A",
+      "title": "KITA SELAMANYA",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA2.mp3",
+      "lyrics": "<p>Hey-yo, it's not the end<br />It's just the beginning, yow, okay</p><p><br />Detak-detik tirai mulai menutup panggung<br />Tanda skenario-eyo baru harus diusung<br />Lembaran kertas barupun terbuka<br />Tinggalkan yang lama, biarkan sang pena berlaga uh-huh</p><p><br />Kita pernah sebut itu kenangan tempo dulu<br />Pernah juga hilang atau takkan pernah berlalu<br />Masa jaya putih biru atau abu-abu<br />Memori cerita cinta aku, dia dan kamu</p><p><br />Saat dia dia, dia masuki alam pikiran<br />Ilmu bumi dan sekitarnya jadi kudapan<br />Cinta masa sekolah yang pernah terjadi<br />That was the moment a part of sweet memory</p><p><br />Kita membumi, melangkah berdua<br />Kita ciptakan hangat sebuah cerita<br />Mulai dewasa, cemburu dan bunga<br />Finally, now it's our time to make a history</p><p><br />Bergegaslah kawan 'tuk sambut masa depan<br />Tetap berpegang tangan, saling berpelukan<br />Berikan senyuman 'tuk sebuah perpisahan<br />Kenanglah sahabat, kita untuk selamanya</p><p><br />Satu alasan kenapa kau kurekam dalam memori<br />Satu cerita teringat di dalam hati<br />Karena kau berharga dalam hidupku, teman<br />Untuk satu pijakan menuju masa depan</p><p><br />Saat duka bersama, tawa bersama<br />Berpacu dalam prestasi, huh, hal yang biasa<br />Satu persatu memori terekam<br />Di dalam api semangat yang tak mudah padam</p><p><br />Kuyakin kau pasti sama dengan diriku<br />Pernah berharap agar waktu ini tak berlalu<br />Kawan, kau tahu, kawan, kau tahu, kan?<br />Beri pupuk terbaik untuk bunga yang kau simpan</p><p><br />Bergegaslah kawan 'tuk sambut masa depan<br />Tetap berpegang tangan, saling berpelukan<br />Berikan senyuman 'tuk sebuah perpisahan<br />Kenanglah sahabat, kita untuk selamanya, yea-yeah</p><p><br />Bergegaslah kawan 'tuk sambut masa depan<br />Tetap berpegang tangan dan saling berpelukan<br />Berikan senyuman 'tuk sebuah perpisahan<br />Kenanglah sahabat, yeah</p><p><br />Bergegaslah kawan 'tuk sambut masa depan<br />Tetap berpegang tangan, saling berpelukan<br />Berikan senyuman 'tuk sebuah perpisahan<br />Kenanglah sahabat, kita untuk selamanya</p><p><br />Kita untuk selamanya<br />Berikan senyuman 'tuk sebuah perpisahan Oh<br />Kenanglah sahabat, kita untuk selamanya Yeah</p><p><br />Oh, yeah, kita untuk selamanya</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "SIDE A",
+      "title": "CERIA",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA3.mp3",
+      "lyrics": "<p>Hari ini kudendangkan<br />Lagu yang ingin kunyanyikan<br />Terkenang semua kenangan<br />Yang t'lah kualami</p><p><br />Ingin kubuka lembar baru<br />Untuk meneruskan hidupku<br />Tak mau lagi kesedihan<br />S'limuti diriku</p><p><br />Semua orang ingin bahagia<br />Menjalani hidup di dunia ini<br />Ingin kubukakan jawaban<br />Misteri kesenangan sejati</p><p><br />Hari ini kudendangkan<br />Lagu yang ingin kunyanyikan<br />Terkenang semua kenangan<br />Yang t'lah kualami</p><p><br />Menari dan terus bernyanyi<br />Mengikuti irama sang mentari<br />Tertawa dan s'lalu ceria<br />Berikanku arti hidup ini</p><p><br />Menari dan terus bernyanyi<br />Mengikuti irama sang mentari<br />Tertawa dan s'lalu ceria<br />Berikanku arti hidup ini</p><p><br />Menari dan terus bernyanyi<br />Mengikuti irama sang mentari<br />Tertawa dan s'lalu ceria<br />Berikanku arti hidup ini</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "SIDE A",
+      "title": "LASKAR PELANGI",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA4.mp3",
+      "lyrics": "<p>Mimpi adalah kunci<br />Untuk kita menaklukkan dunia<br />Berlarilah tanpa lelah<br />Sampai engkau meraihnya</p><p><br />Laskar pelangi<br />Takkan terikat waktu<br />Bebaskan mimpimu di angkasa<br />Warnai bintang di jiwa</p><p><br />Menarilah dan terus tertawa<br />Walau dunia tak seindah surga<br />Bersyukurlah pada Yang Kuasa<br />Cinta kita di dunia<br />Selamanya</p><p><br />Cinta kepada hidup<br />Memberikan senyuman abadi<br />Walau hidup kadang tak adil<br />Tapi cinta lengkapi kita</p><p><br />Laskar pelangi<br />Takkan terikat waktu<br />Jangan berhenti mewarnai<br />Jutaan mimpi di bumi, oh</p><p><br />Menarilah dan terus tertawa<br />Walau dunia tak seindah surga<br />Bersyukurlah pada Yang Kuasa<br />Cinta kita di dunia, ho-oh</p><p><br />Menarilah dan terus tertawa<br />Walau dunia tak seindah surga<br />Bersyukurlah pada Yang Kuasa<br />Cinta kita di dunia<br />Selamanya<br />Selamanya</p><p><br />Laskar pelangi<br />Takkan terikat waktu</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "SIDE A",
+      "title": "MERAIH BINTANG",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA5.mp3",
+      "lyrics": "<p>Setiap saat, setiap waktu<br />Keringat basahi tubuh<br />Ini saat yang kutunggu<br />Hari ini kubuktikan</p><p><br />Ku yakin, aku 'kan menang<br />Hari ini 'kan dikenang<br />Semua doa kupanjatkan<br />Sejarah kupersembahkan</p><p><br />Terus fokus satu titik<br />Hanya itu, titik itu<br />Tetap fokus, kita kejar<br />Lampaui batas</p><p><br />Terus fokus satu titik<br />Hanya itu, titik itu<br />Tetap fokus, kita kejar<br />Dan raih bintang</p><p><br />Yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Yo-ayo-yo, yo, wo-oh-oh</p><p><br />Yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Kita datang, kita lihat, kita menang</p><p><br />Kalau menang, berprestasi<br />Kalau kalah, jangan frustrasi<br />Kalah-menang solidaritas<br />Kita galang sportivitas</p><p><br />Kalau menang, berprestasi<br />Kalau kalah, jangan frustrasi<br />Kalah-menang solidaritas<br />Kita galang sportivitas, hu-wo-oh-oh</p><p><br />Terus fokus satu titik<br />Hanya itu, titik itu<br />Tetap fokus, kita kejar<br />Dan raih bintang</p><p><br />Yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Yo-ayo-yo, yo, wo-oh-oh</p><p><br />Yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Yo-ayo-yo-yo-ayo<br />Kita datang, kita lihat, kita menang</p><p><br />Hanya itu, titik itu yo-ayo-yo-yo-ayo<br />Tetap fokus, kita kejar yo-ayo-yo, yo, wo-oh-oh</p><p><br />Hanya itu, titik itu yo-ayo-yo-yo-ayo<br />Tetap fokus, kita kejar kita datang, kita lihat<br />Dan raih bintang kita menang</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "SIDE A",
+      "title": "MELOMPAT LEBIH TINGGI",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA6.mp3",
+      "lyrics": "<p>Kita berlari dan teruskan bernyanyi<br />Kita buka lebar pelukan mentari<br />Bila ku terjatuh nanti kau siap mengangkat aku lebih tinggi<br />Seperti pedih yang telah kita bagi<br />Layaknya luka yang telah terobati<br />Bila kita jatuh nanti kita siap tuk melompat lebih tinggi<br />Bersama kita bagai hutan dan hujan<br />Aku ada karna engkau telah tercipta</p><p><br />Kupetik bintang untuk kau simpan<br />Cahayanya tenang berikan kau perlindungan<br />Sebagai pengingat teman<br />Juga sbagai jawaban<br />Semua tantangan</p><p><br />Kupetik bintang untuk kau simpan<br />Cahayanya tenang berikan kau perlindungan<br />Sebagai pengingat teman<br />Juga sbagai jawaban<br />Semua tantangan</p><p><br />Sebelum waktu memisahkan detikku detikmu<br />Sebelum dewasa menua memisahkan kita<br />Degupan jantung kita akan slalu seirama<br />Bila kau rindu aku</p><p><br />Kupetik bintang untuk kau simpan<br />Cahayanya tenang berikan kau perlindungan<br />Sebagai pengingat teman<br />Juga sbagai jawaban<br />Semua tantangan</p><p><br />Kupetik bintang untuk kau simpan<br />Cahayanya tenang berikan kau perlindungan<br />Sebagai pengingat teman<br />Juga sbagai jawaban<br />Semua tantangan</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "SIDE A",
+      "title": "JADILAH LEGENDA",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA7.mp3",
+      "lyrics": "<p>Hembus angin yang terasa panas<br />Keringat menetes di dada<br />Tiada henti kau bekerja keras<br />Berjuang demi cinta</p><p><br />Untuk Indonesia, teruslah bertahan<br />Walau dihancurkan, disakiti<br />Kau tetap berdiri di sini<br />Untuk Indonesia, jadilah legenda<br />Kita bisa dan percaya</p><p><br />Lihat laut dan indahnya ombak<br />Gemulainya pohon kelapa<br />Para gadis yang mulai menari<br />Kibarkan merah putih</p><p><br />Untuk Indonesia, kita punya semua<br />Seribu budaya dan kekayaan alam<br />Yang takkan terkalahkan<br />Untuk Indonesia, jadilah legenda<br />Kita bisa dan percaya</p><p><br />Darah Indonesia, akulah halilintarmu<br />Darah Indonesia menggelegar 'tuk selamanya<br />Darah Indonesia, walau badai menghadang<br />Kau takkan pernah hilang<br />Walau badai menghadang</p><p><br />Lihat laut dan indahnya ombak<br />Gemulainya pohon kelapa<br />Para gadis yang mulai menari<br />Kibarkan merah putih</p><p><br />Untuk Indonesia, kita punya semua<br />Seribu budaya dan kekayaan alam<br />Yang takkan terkalahkan<br />Untuk Indonesia, jadilah legenda<br />Kita bisa dan percaya</p><p><br />Darah Indonesia, akulah halilintarmu<br />Darah Indonesia menggelegar 'tuk selamanya<br />Darah Indonesia, walau badai menghadang<br />Kau takkan pernah hilang<br />Walau badai menghadang</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "SIDE A",
+      "title": "ESOK KAN BAHAGIA",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA8.mp3",
+      "lyrics": "<p>Kesedihan hari ini<br />Bisa saja jadi bahagia esok hari<br />Walau kadang kenyataan<br />Tak selalu seperti apa yang diinginkan</p><p><br />Kan ku ikhlaskan segalanya<br />Keyakinkan ini membuatku bertahan</p><p><br />Hidup yang ku jalani masalah yang ku hadapi<br />Semua yang terjadi pasti ada hikmahnya</p><p><br />Walau kadang kenyataan<br />Tak selalu seperti apa yang diinginkan</p><p><br />Kan ku serahkan semuanya<br />Keyakinan pada-Nya menjadikanku tenang</p><p><br />Hidup yang ku jalani masalah yang ku hadapi<br />Semua yang terjadi pasti ada hikmahnya pasti ada hikmahnya<br />Ku kan terus berjuang ku kan terus bermimpi<br />Tuk hidup yang lebih baik tuk hidup yang lebih indah lebih indah</p><p><br />Harus yakin harus yakin<br />Pasti bisa pasti bisa</p><p><br />Hidup yang ku jalani masalah yang ku hadapi<br />Semua yang terjadi pasti ada hikmahnya pasti ada hikmahnya<br />Ku kan terus berjuang ku kan terus bermimpi<br />Tuk hidup yang lebih baik tuk hidup yang lebih indah lebih indah</p><p><br />Ku kan terus berjuang ku kan terus bermimpi<br />Tuk hidup yang lebih baik tuk hidup yang lebih indah<br />Tuk hidup yang lebih baik tuk hidup yang lebih indah</p><p><br />Kesedihan hari ini<br />Bisa saja jadi bahagia esok hari</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "SIDE A",
+      "title": "WALAU HABIS TERANG",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA9.mp3",
+      "lyrics": "<p>Ku terbiasa<br />Tersenyum tenang walau ah<br />Hatiku menangis</p><p><br />Kaulah cerita<br />Tertulis dengan pasti<br />Selamanya dalam pikiranku</p><p><br />selamanya</p><p><br />Peluk tubuhku untuk sejenak<br />Dan biarkan kita<br />Memudar dengan pasti<br />Biarkan semua<br />Seperti seharusnya<br />Takkan pernah<br />Menjadi milikku</p><p><br />Lupakan semua<br />Tinggalkan ini<br />Ku kan tenang<br />Dan kau kan pergi</p><p><br />Berjalanlah walau habis terang<br />Ambil cahaya cinta<br />Kuterangi jalanmu</p><p><br />Di antara beribu lainnya<br />Kau tetap<br />Kau tetap<br />Kau tetap benderang</p><p><br />Lupakan semua<br />Tinggalkan ini<br />Ku kan tenang<br />Dan kau kan pergi</p><p><br />Berjalanlah walau habis terang<br />Ambil cahaya cinta<br />Kuterangi jalanmu</p><p><br />Di antara beribu lainnya<br />Kau tetap<br />Kau tetap<br />Kau tetap benderang</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "SIDE A",
+      "title": "SAHABAT KECIL",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA10.mp3",
+      "lyrics": "<p>Baru saja berakhir<br />Hujan di sore ini<br />Menyisakan keajaiban<br />Kilauan indahnya pelangi</p><p><br />Tak pernah terlewatkan<br />Dan tetap mengaguminya<br />Kesempatan seperti ini<br />Tak akan bisa di beli</p><p><br />Bersamamu kuhabiskan waktu<br />Senang bisa mengenal dirimu<br />Rasanya semua begitu sempurna<br />Sayang untuk mengakhirinya</p><p><br />Melawan keterbatasan<br />Walau sedikit kemungkinan<br />Tak akan menyerah untuk hadapi<br />Hingga sedih tak mau datang lagi yeah</p><p><br />Bersamamu kuhabiskan waktu<br />Senang bisa mengenal dirimu<br />Rasanya semua begitu sempurna<br />Sayang untuk mengakhirinya</p><p><br />Janganlah berganti<br />Janganlah berganti<br />Janganlah berganti<br />Tetaplah seperti ini oh</p><p><br />Janganlah berganti<br />Janganlah berganti<br />Tetaplah seperti ini</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "SIDE A",
+      "title": "KAMU GAK SENDIRIAN",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA11.mp3",
+      "lyrics": "<p>Bila ku tak di sini<br />Tetaplah kau bernyanyi<br />Dan bila ku t'lah pergi<br />Kenanglah yang terjadi</p><p><br />Pastikan padaku bahwa kamu<br />Kan baik-baik saja<br />Karna di setiap mimpiku<br />Pasti selalu ada kamu</p><p><br />Dengarkan dan rasakan<br />Lagu yang ku ciptakan untukmu<br />Walau mungkin terdengar gak merdu<br />Tapi hanya untukmu</p><p><br />Kita pernah bersama di sini<br />Lalui hari penuh warna-warni<br />Meski tak seindah pelangi<br />Tapi kita pernah bermimpi</p><p><br />Percayalah padaku meski di gelap malam<br />Kamu nggak sendirian<br />Dan semua bintang yang ku tinggalkan<br />Temani kau sampai akhir malam</p><p><br />Dengarkan dan rasakan<br />Lagu yang ku ciptakan untukmu<br />Walau mungkin terdengar gak merdu<br />Tapi hanya untukmu</p><p><br />Kita pernah bersama di sini<br />Lalui hari penuh warna-warni<br />Meski tak seindah pelangi<br />Tapi kita pernah bermimpi</p><p><br />Percayalah padaku meski di gelap malam<br />Kamu nggak sendirian<br />Dan semua bintang yang ku tinggalkan<br />Temani kau sampai akhir malam</p><p><br />Mungkin ini hanya sementara<br />Mungkin juga untuk selamanya<br />Tapi nanti jika ku kembali<br />Kau harus ada di sini</p><p><br />Percayalah padaku meski di gelap malam<br />Kamu nggak sendirian<br />Dan semua bintang yang ku tinggalkan<br />Temani kau sampai akhir malam</p><p><br />Percayalah padaku meski di gelap malam<br />Kamu nggak sendirian<br />Dan semua bintang yang ku tinggalkan<br />Temani kau sampai akhir malam</p>"
+	  },
+    {
+      "id": 12,
+      "name_category": "SIDE A",
+      "title": "INGATLAH HARI INI",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA12.mp3",
+      "lyrics": "<p>Kawan dengarlah yang akan aku katakan<br />Tentang dirimu setelah selama ini<br />Ternyata kepalamu akan selalu botak<br />Eh kamu kaya gorila</p><p><br />Cobalah kamu ngaca tu bibir balapan<br />Daripada gigi lo kaya kelinci<br />Yang ini udah gendut suka marah-marah<br />Kau cacing kepanasan</p><p><br />Tapi ku tak peduli<br />Kau selalu di hati</p><p><br />Kamu sangat berarti istimewa di hati<br />Selamanya rasa ini<br />Jika tua nanti kita telah hidup masing-masing<br />Ingatlah hari ini</p><p><br />Ketika kesepian menyerang diriku<br />Nggak enak badan resah nggak menentu<br />Kutahu satu cara sembuhkan diriku<br />Ingat teman-temanku</p><p><br />Don't you worry just be happy<br />Temanmu di sini</p><p><br />Kamu sangat berarti istimewa di hati<br />Selamanya rasa ini<br />Jika tua nanti kita telah hidup masing-masing<br />Ingatlah hari ini</p><p><br />Don't you worry don't be angry<br />Mending happy-happy</p><p><br />Kamu sangat berarti istimewa di hati<br />Selamanya rasa ini<br />Jika tua nanti kita telah hidup masing-masing<br />Ingatlah hari ini</p><p><br />Kamu sangat berarti istimewa di hati<br />Selamanya rasa ini<br />Jika tua nanti kita telah hidup masing-masing<br />Ingatlah hari ini</p><p><br />Kamu sangat berarti istimewa di hati<br />Selamanya rasa ini<br />Jika tua nanti kita telah hidup masing-masing<br />Ingatlah hari ini</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "SIDE A",
+      "title": "GAJAH",
+      "image": "file:///android_asset/image/LSA.jpg",
+      "link_mp3": "mp3/SEJAKTA13.mp3",
+      "lyrics": "<p>Setidaknya punya tujuh puluh tahun<br />Tak bisa melompat kumahir berenang<br />Bahagia melihat kawanan betina<br />Berkumpul bersama sampai ajal<br />Besar dan berani berperang sendiri<br />Yang aku hindari hanya semut kecil<br />Otak ini cerdas kurakit perangkat<br />Wajahmu tak akan pernah kulupa</p><p><br />Waktu kecil dulu<br />Mereka menertawakan<br />Mereka panggilku gajah<br />Ku marah ku marah<br />Kini baru ku tahu<br />Puji didalam olokan<br />Mereka ingatku marah<br />Jabat tanganku panggil aku gajah</p><p><br />Kau temanku kau doakan aku<br />Punya otak cerdas aku harus tangguh<br />Bila jatuh gajah lain membantu<br />Tubuhmu disituasi rela jadi tamengku</p><p><br />Kecil kita tak tahu apa-apa<br />Wajar bila terlalu cepat marah<br />Kecil kita tak tahu apa-apa<br />Yang terburuk kelak bisa jadi yang terbaik<br />Yang terburuk kelak bisa jadi yang terbaik</p><p><br />Kau temanku kau doakan aku<br />Punya otak cerdas aku harus tangguh<br />Bila jatuh gajah lain membantu<br />Tubuhmu disituasi rela jadi tamengku<br />Kau temanku kau doakan aku<br />Punya otak cerdas aku harus tangguh<br />Bila jatuh gajah lain membantu<br />Tubuhmu disituasi rela jadi tamengku</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "SIDE B",
+      "title": "ADA AKU DISINI",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA14.mp3",
+      "lyrics": "<p>Biarkan aku jadi sesuatu yang berarti untukmu<br />Tapi tidak sesaat</p><p><br />Biarkan aku jadi sesuatu yang berarti untukmu<br />Tapi tidak sesaat<br />Biarkan aku jadi tempat untuk bersandar<br />Di saat kau terpuruk rapuh</p><p><br />Jangan sampai kau lemah<br />Ku yakin kau pasti bisa bangkit<br />Jangan anggap kau sendiri hadapi<br />Ada aku di sini</p><p><br />Walau dia kini telah lama di hidupmu<br />Namun sampai kini tak bahagiakan kamu<br />Lupakan semuanya tinggalkan saja percuma</p><p><br />Bukalah matamu selebar dunia ini<br />Dan rasakan banyak orang yang peduli<br />Jangan ingat lagi jangan kau sesali ada aku di sini</p><p><br />Jangan sampai kau lemah<br />Ku yakin kau pasti bisa bangkit<br />Jangan anggap kau sendiri hadapi<br />Ada aku di sini</p><p><br />Walau dia kini telah lama di hidupmu<br />Namun sampai kini tak bahagiakan kamu<br />Lupakan semuanya tinggalkan saja percuma</p><p><br />Bukalah matamu selebar dunia ini<br />Dan rasakan banyak orang yang peduli<br />Jangan ingat lagi jangan kau sesali ada aku di sini<br />Jangan ingat lagi jangan kau sesali ada aku di sini<br />Jangan ingat lagi jangan kau sesali ada aku di sini</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "SIDE B",
+      "title": "BAHAGIA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "SIDE B",
+      "title": "BUKA SEMANGAT BARU",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA16.mp3",
+      "lyrics": "<p>Hello, teman semua<br />Ayo kita sambut<br />Hari baru telah tiba</p><p><br />Apa yang ku rasakan<br />Ku ingin engkau tahu<br />Dan berbagi bersama</p><p><br />Buka kita buka hari yang baru<br />Sebarkan semangat langkah ke depan<br />Jadi pribadi baru<br />Buka kita buka jalan yang baru<br />Tebarkan senyum wajah gembira<br />Dalam suasana baru</p><p><br />Bukalah bukalah semangat baru<br />Bukalah bukalah semangat baru<br />Bukalah bukalah semangat baru</p><p><br />Coba diam walau hanya 'tuk sejenak<br />Dengarkan kata dari segala yang ku ucap<br />Ku jelang pagi ini nikmati damai di hati<br />Dalam waktu penuh arti karena aku dicintai<br />Ku ingat kemarin suasana tak bersemangat<br />Namun kini ku jalani dan semua rasanya tepat<br />Bersama kita coba wujudkan harapan<br />Membuka jalan dalam gapai setiap tujuan</p><p><br />Mentari bersinar selalu<br />Ini yang ku minta penuh semangat tertawa<br />Bersamamu teman semua<br />Karena ini saatnya kita nyanyi bersama</p><p><br />Buka kita buka hari yang baru<br />Sebarkan semangat langkah ke depan<br />Jadi pribadi baru jadi pribadi baru<br />Buka kita buka jalan yang baru<br />Tebarkan senyum wajah gembira<br />Dalam suasana baru</p><p><br />Dengarkan hatimu, pastikan pilihanmu<br />Esok mentari 'kan datang, bawa sejuta harapan<br />Kita jumpa di sana berbagi bersama<br />Dan kita tahu pelangi yang satukan kita</p><p><br />Buka kita buka hari yang baru<br />Sebarkan semangat langkah ke depan<br />Jadi pribadi baru<br />Buka kita buka hari yang baru<br />Sebarkan semangat langkah ke depan<br />Jadi pribadi baru</p><p><br />Bukalah bukalah semangat baru bukalah<br />Bukalah bukalah semangat baru bukalah<br />Bukalah bukalah semangat baru<br />Oh bukalah s'mangat baru</p><p><br />Bukalah bukalah semangat baru bukalah<br />Bukalah bukalah semangat baru bukalah<br />Bukalah bukalah semangat baru</p><p><br />Bukalah bukalah semangat baru<br />Bukalah bukalah semangat baru<br />Bukalah semangat baru</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "SIDE B",
+      "title": "JANGAN TAKUT",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SIDE B",
+      "title": "JIKA KAMI BERSAMA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA18.mp3",
+      "lyrics": "<p>Jika kami bersama, nyalakan tanda bahaya<br />Jika kami berpesta, hening akan terpecah<br />Aku, dia dan mereka memang gila, memang beda<br />Tak perlu berpura-pura, memang begini adanya</p><p><br />Dan kami di sini<br />Akan terus bernyanyi</p><p><br />Dan jika kami bersama, nyalakan tanda bahaya<br />Musik akan menghentak, anda akan tersentak<br />Dan kami tahu engkau bosan dijejali rasa yang sama<br />Kami adalah kamu, muda, beda dan berbahaya</p><p><br />Lepaskan semua belenggu yang melingkari hidupmu<br />Berdiri tegak menantang di sana di garis depan<br />Aku berteriak lantang untuk jiwa yang hilang<br />Untuk mereka yang selalu tersingkirkan</p><p><br />Ketika tiada tempat lagi untuk berlari<br />Ketika tiada orang yang akan peduli<br />Aku dan dia selalu menunggumu di sini<br />Angkat sekali lagi, hey</p><p><br />Dan kami di sini, oh<br />Akan terus bernyanyi</p><p><br />Dan jika kami bersama, nyalakan tanda bahaya<br />Musik akan menghentak, anda akan tersentak<br />Aku, dia dan mereka memang gila, memang beda<br />Aku adalah kamu, kita muda dan berbahaya</p><p><br />Yeah-hey-hey<br />Allright</p><p><br />Dan kami di sini, oh<br />Akan terus bernyanyi, yow</p><p><br />Dan jika kami bersama, nyalakan tanda bahaya<br />Musik akan menghentak, anda akan tersentak<br />Dan kami tahu engkau bosan dijejali rasa yang sama<br />Kami adalah kamu, muda, beda dan berbahaya</p><p><br />Dan jika kami bersama, nyalakan tanda bahaya<br />Musik akan menghentak, anda akan tersentak<br />Dan kami tahu engkau bosan dijejali rasa yang sama<br />Kami adalah kamu, muda, beda dan berbahaya</p>"
+	  },
+	  {
+      "id": 19,
+      "name_category": "SIDE B",
+      "title": "KAMULAH SATU SATUNYA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SIDE B",
+      "title": "LAPANG DADA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SIDE B",
+      "title": "MENAKLUKAN DUNIA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "SIDE B",
+      "title": "MENGEJAR MATAHARI",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA22.mp3",
+      "lyrics": "<p>Di sini ada satu kisah<br />Cerita tentang anak manusia<br />Menantang hidup bersama<br />Mencoba menggali makna cinta</p><p><br />Tetes air mata<br />Mengalir di sela derai tawa<br />Selamanya kita<br />Tak akan berhenti mengejar matahari</p><p><br />Tajamnya pisau takkan sanggup<br />Goyahkan cinta antara kita<br />Menembus ruang dan waktu<br />Menyatu di dalam jiwaku</p><p><br />Tetes air mata<br />Mengalir di sela derai tawa<br />Selamanya kita<br />Tak akan berhenti mengejar terus mengejar matahari</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "SIDE B",
+      "title": "PASTI KAU BISA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA23.mp3",
+      "lyrics": "<p>Lihat apa yang terjadi<br />Dengan semua rencanaku<br />Hancur semua berantakan</p><p><br />Dia berjalan keluar dari lingkaran hidupku<br />Bebas kulepaskan dia<br />Akupun mulai berdendang</p><p><br />Pasti ku bisa melanjutkannya<br />Pasti ku bisa menerima dan melanjutkannya<br />Oh pasti ku bisa menyembuhkannya<br />Cepat bangkit dan berfikir<br />Semua tak berakhir disini</p><p><br />Merasakan pandanganmu<br />Penuh cerita dan luka<br />Memang begitulah semua</p><p><br />Jangan pernah kau menunggu<br />Keajaiban dunia<br />Bukalah satu tujuan</p><p><br />Pasti kau bisa melanjutkannya<br />Pasti kau bisa menerima dan melanjutkannya<br />Oh pasti kau bisa menyembuhkannya<br />Cepat bangkit dan berfikir<br />Semua tak berakhir disini</p><p><br />Pasti ku bisa melanjutkannya<br />Pasti ku bisa menerima dan melanjutkannya<br />Oh pasti ku bisa menyembuhkannya<br />Cepat bangkit dan berfikir<br />Semua tak berakhir disini</p>"
+	  },
+	  {
+      "id": 24,
+      "name_category": "SIDE B",
+      "title": "SECUKUPNYA",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SIDE B",
+      "title": "SUNSET TANAH",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "SIDE B",
+      "title": "TERUSLAH BERKIMPI",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA26.mp3",
+      "lyrics": "<p>Apa yang kau takutkan<br />Dengan semua ini<br />Bukankah kesedihan<br />Sering kita alami<br />Keadaan ini<br />Buat kita terbiasa</p><p><br />Dengarkan ku bicara<br />Teruslah bermimpi<br />Walau kenyataannya jauh berbeda<br />Teruslah bermimpi<br />Jangan berhenti</p><p><br />Percayalah<br />Lelah ini hanya sebentar saja<br />Jangan menyerah<br />Walaupun tak mudah meraihnya</p><p><br />Menghentikan pikiran dengan mata terpejam<br />Menunggu malam bisa hapus kenyataan<br />Biar saja mimpi jauh membawa kita</p><p><br />Percayalah<br />Lelah ini hanya sebentar saja<br />Jangan menyerah<br />Walaupun tak mudah meraihnya</p><p><br />Tetap tersenyumlah<br />Biar semakin mudah<br />Karena kesedihan pun<br />Ternyata hanya sementara</p><p><br />Percayalah<br />Lelah ini hanya sebentar saja<br />Jangan menyerah<br />Walaupun tak mudah meraihnya</p><p><br />Tetap tersenyumlah<br />Biar semakin mudah<br />Karena kesedihan pun<br />Ternyata hanya sementara</p>"
+	  },
+	  {
+      "id": 27,
+      "name_category": "SIDE B",
+      "title": "YANG PATAH TUMBUH",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "SIDE B",
+      "title": "ZOMA NYAMAN",
+      "image": "file:///android_asset/image/LSB.jpg",
+      "link_mp3": "mp3/SEJAKTA28.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
