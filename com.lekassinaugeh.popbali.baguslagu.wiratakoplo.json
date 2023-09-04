@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BAGUS W 1",
+      "image": "file:///android_asset/image/BWA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "BAGUS W 2",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BAGUS W 1",
+      "title": "BATUR KINTAMANI",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Kebus kebusan lahar gunung agung e<br />Nu kebusan keneh beli<br />Rikala adi sing nu di sisin beli<br />Ulian pelih beli pedidi</p><p><br />Desiran angin di batur kintamani<br />Ngingetang ken ragan adi<br />Ne jani sube ngalain dewek beli<br />Milih nak muani medasi</p><p><br />Pidan mule saje beli campah ken adi<br />Sing bise beli ngajiang tresna<br />Ne jani mare beli merase kilangan<br />Diolas adi mewali</p><p>&nbsp;</p><p><strong>Reff :</strong><br />Kal jumunin kal jumunin beli<br />Yen adi nyak mewali mai<br />Kal sayangang kal tresnain beli<br />Sing kanti adi menyakit hati</p><p><br />Ampure beli, sing ngidaang tyang mewali<br />Mewali buin care ipidan<br />Ulian jani tyang lakar mejalan<br />Mejalan kepelaminan</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "BAGUS W 1",
+      "title": "MEGALENG RINDU",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Sube mekelo dini aku ngantosang<br />Megaleng rindu<br />Rindu candamu rindu senyummu<br />Dije kamu jani</p><p><br />Terbayang bayang kenangan<br />saat bersamamu<br />Terlalu manis untuk di lupakan<br />Untuk di akhiri<br />Aku ingin bersamamu</p><p><br />Sing ngidaang hidup tanpa dirimu<br />Semua terasa hampa<br />Sing mampu tanpa kehadiranmu<br />Sing kuat ban naenang</p><p><br />Jani irage sube tusing taen ketemu<br />Ejoh di mate paek di hati<br />Sing ngidaang aku ngengsapang<br />Rase tusing percaya kamu tega ninggalin aku<br />Sing ade hujan sing ade angin sing tawang ape mekade<br />Kamu megedi</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "BAGUS W 1",
+      "title": "SING MAIN MAIN",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Ne lagu penyemangat<br />Konyang ajak berjuang<br />Untuk masa depan<br />Siapkan rencana<br />Sing main-main</p><p><br />Sing ade ne metungkas<br />Ditu gass dini lagass<br />Fokus pada tujuan<br />Mesuang tenaga<br />Sing main main</p><p><br />Mekejang ajak nyama<br />Jele lan melah nyama gelah<br />Rukun ajak metimpal<br />Mari bangkitkan semeton lokal Astungkara Widhine ngicen pemargi</p><p><br />Bayune gede<br />Sing main-main<br />Kenehe gede<br />Sing main-main<br />Semangat megae<br />Sing main-main<br />Semangatne gede<br />Sing main-main</p><p><br />Ne lagu penyemangat<br />Konyang ajak berjuang<br />Untuk masa depan<br />Siapkan rencana<br />Sing main-main</p><p><br />Sing ade ne metungkas<br />Ditu gass dini lagass<br />Fokus pada tujuan<br />Mesuang tenaga<br />Sing main main</p><p><br />Mekejang ajak nyama<br />Jele lan melah nyama gelah<br />Rukun ajak metimpal<br />Mari bangkitkan semeton lokal Astungkara Widhine ngicen pemargi</p><p><br />Bayune gede<br />Sing main-main<br />Kenehe gede<br />Sing main-main<br />Semangat megae<br />Sing main-main<br />Semangatne gede<br />Sing main-main</p><p><br />Bayune gede<br />Sing main-main<br />Kenehe gede<br />Sing main-main<br />Semangat megae<br />Sing main-main<br />Semangatne gede<br />Sing main-main.</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "BAGUS W 1",
+      "title": "SALEM BADENG MEPIPIS",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Seleme selem badeng<br />Badenge cara adeng<br />Diapin beli badeng<br />Yang penting beli ganteng</p><p><br />Mesambel batun undis<br />Mekecrit misi lengis<br />Yadiastun beli melengis<br />Ne penting kenyeme manis</p><p><br />Gumi care jani sampunang iluh aksi<br />Apalagi misi gengsi<br />Ngejohin dewek beli<br />Maakin anak tua<br />Pragat sing maan ape</p><p><br />Beli suba nawang kengken gaya iluhe<br />Hidup care anak mewah<br />Sube ade beli<br />Kanggoang bodo gigis<br />Yang penting mepipis</p><p><br />Gadang gadang buah bonine<br />Ngadep be kebo ke banyuatis<br />Bajang bajang care janine<br />Sing mandang bodo yang penting mepipis</p><p><br />Seleme selem badeng<br />Badenge cara adeng<br />Diapin beli badeng<br />Yang penting beli ganteng</p><p><br />Mesambel batun undis<br />Mekecrit misi lengis<br />Yadiastun beli melengis<br />Ne penting kenyeme manis</p><p><br />Gumi care jani sampunang iluh aksi<br />Apalagi misi gengsi<br />Ngejohin dewek beli<br />Maakin anak tua<br />Pragat sing maan ape</p><p><br />Beli suba nawang kengken gaya iluhe<br />Hidup care anak mewah<br />Sube ade beli<br />Kanggoang bodo gigis<br />Yang penting mepipis</p><p><br />Gadang gadang buah bonine<br />Ngadep be kebo ke banyuatis<br />Bajang bajang care janine<br />Sing mandang bodo yang penting mepipis</p><p><br />Gadang gadang buah bonine<br />Ngadep be kebo ke banyuatis<br />Bajang bajang care janine<br />Sing mandang bodo yang penting mepipis</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "BAGUS W 1",
+      "title": "DEMEN PEDIDI",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Uling jani beli dini mejanji<br />Suud monto bli ngarepang adi<br />Yen saget bin mani beli tusing nu dini<br />Ditu mare adi kal ngerti</p><p><br />Pelih beli berharap jak adi<br />Kene rasane yening demen pedidi<br />Pocol beli sayang percuma berjuang<br />Nanging adi sing mengerti</p><p><br />Seharusne beli pidan ngerti<br />Yening adi tusing taen peduli<br />Modal beli tuah tresna sujati<br />Beli sing ngelah materi<br />Engsapang ne taen terjadi</p><p><br />Uling jani beli dini mejanji<br />Suud monto bli ngarepang adi<br />Yen saget bin mani beli tusing nu dini<br />Ditu mare adi kal ngerti</p><p><br />Seharusne beli pidan ngerti<br />Yening adi tusing taen peduli<br />Modal beli tuah tresna sujati<br />Beli sing ngelah materi<br />Engsapang ne taen terjadi</p><p><br />Uling jani beli dini mejanji<br />Suud monto bli ngarepang adi<br />Yen saget bin mani beli tusing nu dini<br />Ditu mare adi kal ngerti</p><p><br />Nresnain adi ngaenang sakit hati<br />Pedih sekadi tebek belati<br />Timbang jani nyakit hati pedidi<br />Luung ne beli nyadar diri<br />Luung ne beli nyadar diri<br />Luung ne beli nyadar diri</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "BAGUS W 1",
+      "title": "PADE GELAHANG",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Bedik-bedik adi ngambul<br />Bedik-bedik adi nyerah<br />Ngejalanin cinta ini<br />Ngejalanin cinta yang kuberi</p><p><br />Beli tusing lakar<br />Naduanin tresnan adi<br />Beli tusing lakar<br />Berpaling hati</p><p><br />Depang suba<br />Bintange kal menilai<br />Depang suba<br />Bulane menyaksiang<br />Dini iraga<br />Tresna lan saling sayang</p><p><br />Adi harus nawang<br />Beli tusing kal menghilang<br />Adi harus selalu nawang<br />Beli tetep di samping adi</p><p><br />Da adi ngrasa jejeh<br />Da adi ngrasayang takut<br />Beli slalu ada<br />Di samping adi</p><p><br />Depang suba<br />Bintang kal menilai<br />Depang suba<br />Bulane menyaksiang<br />Dini iraga<br />Tresna lan saling sayang</p><p><br />Unduk rasa tresnane di hati<br />Lan bareng-bareng melajah jak dadua<br />Lan saling mengerti<br />Lan saling pahami<br />Jele melah pada gelahang</p><p><br />Depang suba<br />Bintang kal menilai<br />Depang suba<br />Bulane menyaksiang<br />Dini iraga<br />Tresna lan saling sayang</p><p><br />Depang suba<br />Bintang kal menilai<br />Depang suba<br />Bulane menyaksiang<br />Dini iraga<br />Tresna lan saling sayang</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "BAGUS W 1",
+      "title": "METATU SING MEGETIH",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "BAGUS W 1",
+      "title": "DOSA TERINDAH",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "BAGUS W 1",
+      "title": "PEJALAN TRESNA",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": "<p>Nglewatin tis panese dini<br />Sing ade rasa kenjel adi nampingin beli<br />Raseyang beli yening jani tanpa tresnan adine dini<br />Buka pejalan mobile sing enteg tanpa sopirne</p><p><br />Unduk tresnan ne jani jalanang<br />Liu kenyem pedihne suba rasayang<br />Rasayang beli napi beli tanpa hadir adine dini<br />Buka pindekane sing meputer tanpa angin</p><p><br />Ngesyurin ngetisin keneh beli, adi<br />Ampurang keneh beli ampurang tresnan beline<br />Liu janjine konden mebukti<br />Suksma keneh adi suksma ngerti adine<br />Nyalanin kenyem pedih jak beli</p><p><br />Tresnan ne jani jalanang<br />Liu kenyem pedihne suba rasayang<br />Rasayang beli napi beli tanpa hadir adine dini<br />Buka pindekane sing meputer tanpa angin</p><p><br />Ngesyurin ngetisin keneh beli, adi<br />Ampurang keneh beli ampurang tresnan beline<br />Liu janjine konden mebukti<br />Suksma keneh adi suksma ngerti adine<br />Nyalanin kenyem pedih jak beli</p><p><br />Ampurang keneh beli ampurang tresnan beline<br />Liu janjine konden mebukti<br />Suksma keneh adi suksma ngerti adine<br />Nyalanin kenyem pedih jak beli</p><p><br />Gumine nedeng terjepit<br />Ekonomine sulit astungkara jok tresnane tetep mekilit<br />Astungkara jok tresnane tetep mekilit</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "BAGUS W 1",
+      "title": "LATIHAN HATI",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p>Limang tiban suba, tresnane majalan<br />Kadasarin tresna suci ring manah<br />Dadi hati adi jani mogbogin beli<br />Kone ditu adi ngelah pengganti<br />Be jelas beli menyakit hati</p><p><br />Depang suba keto kone pejalane<br />Anggep beli ento latihan hati<br />Kayang buin pidan, beli ngelah pengganti<br />Tusing perlu nyakit hati dua kali<br />Kerana beli suba taen nyakit hati</p><p><br />Belog saja belog<br />Beli ngugu munyin manis adine ipidan<br />Ngelanenin<br />Kal ngorahang sayang, kal ngorahang satya<br />Kapin ragan beli</p><p><br />Dumadak buin mani, adi masi ngerasayang<br />Sakit cara beli, dikhianati<br />Kal jalanin jani, beli percaya<br />Karmane majalan</p><p><br />Depang suba keto kone pejalane<br />Anggep beli ento latihan hati<br />Kayang buin pidan, beli ngelah pengganti<br />Tusing perlu nyakit hati dua kali<br />Kerana beli suba taen nyakit hati</p><p><br />Belog saja belog<br />Beli ngugu munyin manis adine ipidan<br />Ngelanenin<br />Kal ngorahang sayang, kal ngorahang satya<br />Kapin ragan beli</p><p><br />Dumadak buin mani, adi masi ngerasayang<br />Sakit cara beli, dikhianati<br />Kal jalanin jani, beli percaya<br />Karmane majalan</p><p><br />Ooh, beli percaya<br />Karmane majalan</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "BAGUS W 1",
+      "title": "LANGGENG RIWEKASAN",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "BAGUS W 1",
+      "title": "CELEK DOGEN",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "BAGUS W 1",
+      "title": "CINTA SEGITIGA",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p>Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan kamu ne pidan</p><p><br />Tegarang, je orahang<br />Ape ne kamu pikirkan<br />Pang sing pelih kamu mejalan<br />Pang sing pelih kamu melangkah</p><p><br />Tegarang, je orahang<br />Ape yang kamu pikirkan<br />Pang melah iraga berjuang<br />Pang melah iraga megatang</p><p><br />Lan jani iraga putuskan<br />Pang sing ada kata menyesal<br />Nyalanin tresna segitiga</p><p><br />Lan jani satukan pikiran<br />Mencari solusi kedepan<br />Pang tusing</p><p><br />Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan, kamu ne pidan<br />Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan, kamu ne pidan</p><p><br />Lan jani iraga putuskan<br />Pang sing ada kata menyesal<br />Nyalanin tresna segitiga<br />Lan jani satukan pikiran<br />Mencari solusi kedepan<br />Pang tusing</p><p><br />Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan, kamu ne pidan<br />Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan, kamu ne pidan</p><p><br />Nanging beli tusing kal menyerah<br />Beli dini kel tetap berjuang<br />Meskipun bapa ragu menyerang<br />Kita beli tusing kal menghilang</p><p><br />Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan, kamu ne pidan<br />Disaat beli, benar-benar sayang<br />Ditu kamu bermain cinta<br />Ngajak tunangan, kamu ne pidan</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "BAGUS W 1",
+      "title": "DE KUAL",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p>Demen nuturang jelek timpal<br />Ngalih-ngalihin pelih timpal<br />De kual, de kual tusing dadi nakal<br />De kual, de kual ngukir tundun timpal</p><p><br />Tepuk pisage ne ngidaang<br />Sepanan suba ngiriang<br />Sing tawang, sing tawang dije maan meutang<br />Sing tawang, sing tawang dije meulehan</p><p><br />Sepanan suba negak diwang<br />Apang maan nuturang jelek timpal<br />Ngelah timpal demen memacul<br />Ngidang muncul orahange ngubuh tuyul</p><p><br />Dimalu ngaku metimpal<br />Nanging di duri ye nyempal<br />Timpale sukses dadi pemborong<br />Orahange ulian ngubuh bererong</p><p><br />Satwane gebuh memunyi kangin kauh<br />Jeg ngandang nganjuh<br />Keto sesai tepuk unduke di sisi<br />Nuturang timpal engsap jeleke pedidi</p><p><br />Sepanan suba negak diwang<br />Apang maan nuturang jelek timpal<br />Ngelah timpal demen memacul<br />Ngidang muncul orahange ngubuh tuyul</p><p><br />Dimalu ngaku metimpal<br />Nanging di duri ye nyempal<br />Timpale sukses dadi pemborong<br />Orahange ulian ngubuh bererong</p><p><br />Satwane gebuh memunyi kangin kauh<br />Jeg ngandang nganjuh<br />Keto sesai tepuk unduke di sisi<br />Nuturang timpal engsap jeleke pedidi<br />Nuturang timpal engsap jeleke pedidi</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "BAGUS W 1",
+      "title": "DEK RASA SAYANG",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "BAGUS W 1",
+      "title": "BELI SADAR",
+      "image": "file:///android_asset/image/BWA.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "BAGUS W 2",
+      "title": "BUNGA TRESNA",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "BAGUS W 2",
+      "title": "KANGGOANG MALU",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "BAGUS W 2",
+      "title": "NGUGUL HATI MANIK",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "BAGUS W 2",
+      "title": "PAN LARA",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "BAGUS W 2",
+      "title": "PULANG KAMPUNG",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "BAGUS W 2",
+      "title": "RAJA PALA MENGHAYAL",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "BAGUS W 2",
+      "title": "RINDU",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "BAGUS W 2",
+      "title": "SELAMAT TINGGAL MASA LALU",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "BAGUS W 2",
+      "title": "TAKUT KETARA",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "BAGUS W 2",
+      "title": "TRALALA TRILILI",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "BAGUS W 2",
+      "title": "DANAU BUYAN",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "BAGUS W 2",
+      "title": "DESIRAN ANGIN",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "BAGUS W 2",
+      "title": "PATAH HATI",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "BAGUS W 2",
+      "title": "PIPISE MEKADENG BAGUS",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "BAGUS W 2",
+      "title": "SEBET",
+      "image": "file:///android_asset/image/BWB.jpg",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
