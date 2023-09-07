@@ -1,0 +1,300 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "DUET",
+      "image": "file:///android_asset/image/GD.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SOLO",
+      "image": "file:///android_asset/image/GS.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DUET",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO1.mp3",
+      "lyrics": "<p>Percuma, sia-sia<br />Diriku mengharap cinta darimu<br />Kini kusadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku tak pernah bernilai di matamu<br />Cintaku seakan tak berharga<br />Dalam tangismu, akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan getaran cinta yang telah kuberikan<br />Ataukah kau sengaja permainkan diriku<br />Haruskah kurelakan dirimu yang selama ini kuharapkan<br />Jujur aku terluka melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini tenanglah kau bersamanya<br />Tinggal aku di dalam sepi</p><p><br />Kini kusadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku tak pernah bernilai di matamu<br />Cintaku seakan tak berharga<br />Dalam tangismu, akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan getaran cinta yang telah kuberikan<br />Ataukah kau sengaja permainkan diriku<br />Haruskah kurelakan dirimu yang selama ini kuharapkan<br />Jujur aku terluka melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini tenanglah kau bersamanya<br />Tinggal aku di dalam sepi</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini tenanglah kau bersamanya<br />Tinggal aku di dalam sepi</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "DUET",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO2.mp3",
+      "lyrics": "<p>Nemu koe pas ati ambyar ambyare<br />Pacar seng tak tresnani ninggal aku golek liane<br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani<br />ono koe seng ngancani</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "DUET",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO3.mp3",
+      "lyrics": "<p>Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu, hari ini ku mencintaimu<br />Yang kutahu, ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "DUET",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO4.mp3",
+      "lyrics": "<p>Saat bintang bertahta<br />Dan rembulan tersenyum manja<br />Di saat malam itu<br />Kau dan aku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia<br />Janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik, sempurna dirimu<br />Begitu baiknya hatimu, cintaku</p><p><br />Kita berbagi cerita<br />Bersenandung tawa dan canda<br />Mengucap janji setia<br />Janji cinta</p><p><br />Hatimu dan hatiku<br />Telah menjadi satu<br />Bersatu dalam cinta<br />Semoga selamanya</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik, sempurna dirimu<br />Begitu baiknya hatimu, cintaku</p><p><br />Tak bosan-bosan aku memandangmu<br />Tak puas-puas aku merindumu<br />Begitu cantik, sempurna dirimu<br />Begitu baiknya hatimu, cintaku</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "DUET",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO5.mp3",
+      "lyrics": "<p>Kuda yang mana kuda yang mana tuan senangi<br />Kuda yang putih kuda yang putih di dalam kandang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut panjang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut panjang</p><p><br />Kuda yang mana kuda yang mana tuan senangi<br />Kuda yang putih kuda yang putih di dalam kandang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut panjang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut panjang</p><p><br />Naik sepeda naik sepeda mati lampunya<br />Jalan terus jalan terus lambat sampainya<br />Ada janda ada janda kabur lakinya<br />Mau dilamar mau dilamar banyak anaknya<br />Ada janda ada janda kabur lakinya<br />Mau dilamar mau dilamar banyak anaknya</p><p><br />Bagaimana bagaimana menggoreng lada<br />Ambil minyaknya ambil minyaknya tuang tuangkan<br />Bagaimana bagaimana merayu janda<br />Ambil anaknya ambil anaknya timang-timangkan<br />Bagaimana bagaimana merayu janda<br />Ambil anaknya ambil anaknya timang-timangkan</p><p><br />Kampung krukut kampung krukut di pinggir kali<br />Anak cina anak cina berkawan-kawan<br />Hati takut hati takut jadi berani<br />Lihat janda lihat janda kayak perawan<br />Hati takut hati takut jadi berani<br />Lihat janda lihat janda kayak perawan</p><p><br />Kucing kurus kucing kurus mandi dipapan<br />Papan dibawa papan dibawa dari marunda<br />Badan kurus badan kurus bukan tak makan<br />Kurus mikirin kurus mikirin si janda muda<br />Badan kurus badan kurus bukan tak makan<br />Kurus mikirin kurus mikirin si janda muda</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "DUET",
+      "title": "KALIH WELASKU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO6.mp3",
+      "lyrics": "<p>Anane mung tresna kalih welasku<br />Anane mung iki sing tak nduweni<br />Daya-daya ngganduli, daya-daya nangisi<br />Kesandhung-sandhung aku maksane atimu</p><p><br />Gapuk, meh tumbang, tak gawe-gawe dhewe<br />Ra isa ngukur, kurang kesadharanku</p><p><br />Kekarepanku, yen pancen dadi siji<br />Isa ngrumat lan baturi<br />Tekan besok nganti pethuk pati<br />Urung kewujud, kowe kesusu mutusi</p><p><br />Aku sembrana ning ra sepira<br />Malah dadi perkara<br />Nanging ra papa ketula-tula<br />Dadi tulisan kanggo cerita tuwa</p><p><br />Anane mung tresna kalih welasku<br />Anane mung iki sing tak nduweni<br />Daya-daya ngganduli, daya-daya nangisi<br />Kesandhung-sandhung aku maksane atimu</p><p><br />Gapuk, meh tumbang, tak gawe-gawe dhewe<br />Ra isa ngukur, kurang kesadharanku</p><p><br />Kekarepanku, yen pancen dadi siji<br />Isa ngrumat lan baturi<br />Tekan besok nganti pethuk pati<br />Urung kewujud, kowe kesusu mutusi</p><p><br />Aku sembrana ning ra sepira<br />Malah dadi perkara<br />Nanging ra papa ketula-tula<br />Dadi tulisan kanggo cerita tuwa</p><p><br />Aku sembrana ning ra sepira<br />Malah dadi perkara<br />Nanging ra papa ketula-tula<br />Dadi tulisan kanggo cerita tuwa</p><p><br />Anane mung tresna kalih welasku</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "DUET",
+      "title": "CRITO MUSTAHIL",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO7.mp3",
+      "lyrics": "<p>Aku wes tau<br />Ngrasane jerune kedanan<br />Ngrasane bundase kelaran<br />Ngrasane nangisi ning ra ketaran</p><p><br />Aku ngiyani<br />Omongmu sing kesel jalani<br />Misal memang keputusanmu<br />Tak lilak-lilakne kelangan awakmu</p><p><br />Mung pengen ngandani<br />Sadar aku du seleramu saiki<br />Mung pengen negesi<br />Ati-ati yen kangen kabari</p><p><br />Ra meksane niat gandengmu ro aku<br />Crito iki crito mustahil nggo aku<br />Karep ati mastekne kabeh senengmu<br />Ning sandingmu ra bakal ngilang<br />Kembang ngimpi saben wengi<br />Ra nyongko luput tak nduweni<br />Mugo lungoku nglegakne atimu</p><p><br />Mung pengen ngandani<br />Sadar aku du seleramu saiki<br />Mung pengen negesi<br />Ati-ati yen kangen kabari</p><p><br />Ra meksane niat gandengmu ro aku<br />Crito iki crito mustahil nggo aku<br />Karep ati mastekne kabeh senengmu<br />Ning sandingmu ra bakal ngilang</p><p><br />Ra meksane niat gandengmu ro aku<br />Crito iki crito mustahil nggo aku<br />Karep ati mastekne kabeh senengmu<br />Ning sandingmu ra bakal ngilang</p><p><br />Kembang ngimpi saben wengi<br />Ra nyongko luput tak nduweni<br />Mugo lungoku nglegakne atimu<br />Mugo lungoku nglegakne atimu</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "DUET",
+      "title": "RAISO DADI SIJI",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO8.mp3",
+      "lyrics": "<p>Aku tresno ro kowe<br />Tresno seng sak tenane<br />Kabeh wes tak kekne ro kowe atine</p><p><br />Senajan aku wes nduwe<br />Bojo seng sak tenane<br />Nanging aku tresnone yo mung ro kowe</p><p><br />Roso ati ra tenang mikirke selingkuhan<br />Tansah tak awang2 mabur koyo layangan<br />Padahal bojo neng omah Mikirke dadi susah<br />Opo seng kudu dilakoni aku bingung sendiri</p><p><br />Pancen tak akoni tresnoku setengah mati<br />Tapi aku ra wani ngingkari janji suci<br />Mungkin kowe udu jodoku tapi aku sayang padamu<br />Jujur seko jero atiku</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgoooo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />cincin wes ngelingker neng jari manisku<br />Janji yo wes tak ucap neng ngarep penghulu<br />Saiki yo uwes telat arep ngomongke cidro<br />Aku mong ameh ndungo kowe iso bahagio</p><p><br />Senajan setatusku saiki ora dewe<br />Tapi ojo nganti leren tresnaku karo kowe<br />Mugo2 kabeh dikei dalan supoyo dadi padang<br />Anggone awak dewe lek gendakan</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgoooo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />Aku mung iso nerimo<br />Kowe gone wong liyo<br />Tresno raiso dipeksano</p><p><br />Aku tetep sayang kowe<br />Tekane sak lawase<br />Aku bahagia nyawang kowe</p><p><br />Tanganku wes ono cincin<br />Janji setio lan suci<br />Aku raiso nepati</p><p><br />Kowe pancen tak tresnani<br />Biyen tekan saiki<br />Tapi raiso dadi siji<br />Tapi raiso dadi siji</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "DUET",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO9.mp3",
+      "lyrics": "<p>Deraian demi deraian air mata<br />Ku peluk mesra saat kita berpisah<br />Satu yang ku pinta, setialah padaku<br />Hanya dirimu ku cinta</p><p><br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p><br />Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p><br />Tiada satu yang terindah<br />Selain dirimu yang ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p><br />Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p><br />Tiada satu yang terindah<br />Selain dirimu yang 'ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />Sabarlah, adindaku<br />Pasti ku kembali<br />Sabarlah, oh, kasihku<br />Pasti ku kembali</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "DUET",
+      "title": "GURAUAN BERKASIH",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO10.mp3",
+      "lyrics": "<p>Usik mengusik semakin lama menjadi rindu<br />Hati merindu, asyik merindu tersentuh rasa<br />Tidak terduga timbullah sayang<br />Andai tak jumpa menjadi gundah</p><p><br />Gurau-gurauan masih terasa dalam bayangan<br />Setiap detik ingin bersama memadu kasih<br />Apakah hati dah gila bayang?<br />Merindu kasih darimu, sayang</p><p><br />Andai kata rajuk di hati<br />Jangan sampai merosak cinta<br />Andai payah merawat rindu<br />Hadirlah, hadirlah, sayang</p><p><br />Rindu, dendam bisa terubat<br />Andai sudah bertentang mata<br />Pasti kasih berpadu<br />Terlerai rindu di hati</p><p><br />Indah dirasa waktu berkasih<br />Kita saling merayu, merindu di angin lalu</p><p><br />Ingin ku sentuh hatimu, sayang, dalam rinduku<br />Moga kau tahu hebatnya cinta di hati ini<br />Sekian lama memendam cinta<br />Payah ku rasa menyiksa jiwa</p><p><br />Andai kata rajuk di hati<br />Jangan sampai merosak cinta<br />Andai payah merawat rindu<br />Hadirlah, hadirlah, sayang</p><p><br />Rindu dendam bisa terubat<br />Andai sudah bertentang mata<br />Pasti kasih berpadu<br />Terlerai rindu di hati</p><p><br />Indah dirasa waktu berkasih<br />Kita saling merayu, merindu di angin lalu</p><p><br />Ingin ku sentuh hatimu, sayang, dalam rinduku<br />Moga kau tahu hebatnya cinta di hati ini<br />Sekian lama memendam cinta<br />Payah ku rasa menyiksa jiwa</p><p><br />Gelora cinta mengkhayal rasa dalam anganku<br />Setiap waktu hanya namamu mekar di kalbu<br />Sayang menyayang ceria rasa<br />Antara kita tersimpul kasih</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "DUET",
+      "title": "MEMORI BERKASIH",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO11.mp3",
+      "lyrics": "<p>Telah ku cuba meminta kasihmu<br />Biar menjadi ikatan abadi<br />Namun apa daya terlerai janji kita<br />Mungkin takdir yang meminta<br />Namun apa daya terlerai janji kita<br />Mungkin takdir yang meminta</p><p><br />Bermusim kita bersama<br />Menyemai ikatan cinta<br />Tak mungkin kasihku hilang<br />Ku kunci hati untukmu</p><p><br />Himpunkan kenangan indah<br />Simpanlah senda gurauan<br />Andainya kau kerinduan<br />Itulah jadi penawar</p><p><br />Sungguh ku terharu dan pilu<br />Kasihku semai kau abaikan<br />Putusnya ikatan cinta<br />Mungkin tiada jodoh kita</p><p><br />Menangis hati ini<br />Ku juga bersimpati<br />Hancurnya harapanku<br />Maafkan sayang<br />Kasihmu yang berubah<br />Aku pun tak menyangka<br />Itulah alasanmu<br />Pergilah sayang<br />Biarlah rindu di kejauhan<br />Menemani hati yang gelisah<br />Semoga bertemu jua kebahagiaan</p><p><br />Bermusim kita bersama<br />Menyemai ikatan cinta<br />Tak mungkin kasihku hilang</p><p><br />Ku kunci hati untukmu<br />Himpunkan kenangan indah<br />Simpanlah senda gurauan<br />Andainya kau kerinduan</p><p><br />Itulah jadi penawar<br />Sungguh ku terharu dan pilu<br />Kasihku semai kau abaikan<br />Putusnya ikatan cinta<br />Mungkin tiada jodoh kita</p><p><br />Menangis hati ini<br />Ku juga bersimpati<br />Hancurnya harapanku<br />Maafkan sayang<br />Kasihmu yang berubah<br />Aku pun tak menyangka<br />Itulah alasanmu<br />Pergilah sayang</p><p><br />Biarlah rindu di kejauhan<br />Menemani hati yang gelisah<br />Semoga bertemu jua kebahagiaan</p><p><br />Telah ku cuba meminta kasihmu<br />Biar menjadi ikatan abadi<br />Namun apa daya terlerai janji kita<br />Mungkin takdir yang meminta<br />Namun apa daya terlerai janji kita<br />Mungkin takdir yang meminta</p>"
+	  },
+    {
+      "id": 12,
+      "name_category": "DUET",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO12.mp3",
+      "lyrics": "<p>Rembulan malam berbalut sepi<br />Suasana dingin merayu hati<br />Cah'ya di bulan ikut menghiasi<br />Nuansa misteri menyelimuti</p><p><br />Hilang pandangan di dalam mata<br />Bayanganmu menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehingga diriku ingin bersua</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Pada malam kutitipkan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita 'kan abadi<br />Sampai mati ku akan menanti</p><p><br />Hilang pandangan di dalam mata<br />Bayanganmu menepi di angkasa<br />Entah berapa lama kau di sana<br />Sehingga diriku ingin bersua</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Korbankan diri dalam ilusi<br />Hilangkan rindu yang membelenggu<br />Membuang waktu bersama mimpi<br />Walaupun sepi takkan berlalu</p><p><br />Pada malam kutitipkan salam<br />Untuk dirimu yang aku sayang<br />Semoga cinta kita 'kan abadi<br />Sampai mati ku akan menanti</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "DUET",
+      "title": "ARJUN",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO13.mp3",
+      "lyrics": "<p>Mengapa dalam perjalanan cintaku<br />Selalu ada yang merintangi<br />Pada diriku yang hina</p><p><br />Takkan lagi ada satu<br />Runcingnya bambu menusuk hatimu<br />Karena aku tak terima engkau dihina</p><p><br />Oo manis, biarkanlah aku<br />Aku ini orang kecil<br />Harus hitung-hitung kecil</p><p><br />Pagi sore aku selalu menimbang diri<br />Memang tak pantas bersanding denganmu<br />Kucinta padamu kasih<br />Pria idaman kucari<br />Jangan pergi tinggalkanku sendiri</p><p><br />Sekuat apa pun tulang di punggungmu<br />Tak mungkin mampu membuntutiku<br />Kita tak berdaya walau saling cinta<br />Berpisah itu jalan yang utama</p><p><br />Jubah hitam ini tongkat panjang ini<br />Menjadi teman sependeritaanku<br />Kerudungmu yang cantik bersulam bermanik<br />Tak mungkin bersatu dalam koperku</p><p><br />Hai lelaki pengembara<br />Biarkan kuikut serta<br />Mati pun aku rela bagai Rama dan Shinta<br />Seiya dan sekata</p><p><br />Takkan lagi ada satu<br />Runcingnya bambu menusuk hatimu<br />Karena aku tak terima engkau dihina</p><p><br />Sekuat apa pun tulang di punggungmu<br />Tak mungkin mampu membuntutiku<br />Kita tak berdaya walau saling cinta<br />Berpisah itu jalan yang utama</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "DUET",
+      "title": "APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "DUET",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "DUET",
+      "title": "LUKA HATI LUKA DIRI",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "DUET",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "DUET",
+      "title": "BENANG BIRU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "DUET",
+      "title": "DASI DAN GINCU",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "DUET",
+      "title": "MENGAPA DUA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "DUET",
+      "title": "SEKALI SEUMUR HIDUP",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "DUET",
+      "title": "TAK DAPAT TIDUR",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "DUET",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/GD.jpg",
+      "link_mp3": "mp3/LADUGERSO23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "SOLO",
+      "title": "BADAI BIRU",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SOLO",
+      "title": "BUKAN YANG KUPINTA",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "SOLO",
+      "title": "CINCIN PUTIH",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "SOLO",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "SOLO",
+      "title": "ISTRI SHOLEHAH",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "SOLO",
+      "title": "KULEPAS DENGAN IKHLAS",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "SOLO",
+      "title": "MENGEJAR BADAI",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "SOLO",
+      "title": "PERMATA HATI",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO31.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 32,
+      "name_category": "SOLO",
+      "title": "TABIR KEPALSUAN",
+      "image": "file:///android_asset/image/GS.jpg",
+      "link_mp3": "mp3/LADUGERSO32.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
