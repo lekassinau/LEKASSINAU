@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "ADE ASTRID A",
+      "image": "file:///android_asset/image/ADA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "ADE ASTRID B",
+      "image": "file:///android_asset/image/ADB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ADE ASTRID A",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR1.mp3",
+      "lyrics": "<p>Percuma sia sia<br />Diriku mengharap cinta darimu<br />Kini ku sadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku<br />Tak pernah bernilai di matamu<br />Cintaku seakan tak berharga</p><p><br />Dalam tangismu<br />Akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah kurelakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p><p><br />Kini ku sadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku<br />Tak pernah bernilai di matamu<br />Cintaku seakan tak berharga</p><p><br />Dalam tangismu<br />Akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah kurelakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah kurelakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "ADE ASTRID A",
+      "title": "DOMBA KURING",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR2.mp3",
+      "lyrics": "<p>Miara domba teh dua<br />Domba bikang duanana<br />Ayeuna geus ngalobaan<br />Ngalobaan, aranakan<br />Ka balad-balad di desa<br />Ka dulur anu di lembur<br />Ulah kaget, ulah heran<br />Ulah nanyakeun jaluna<br />Bisi jadi masalah, bisi jadi fitnah<br />Ulah turut campur<br />Sabab domba, domba kuring<br />Domba, domba kuring<br />Diangon-angon ku kuring<br />Diparaban ku kuring<br />Anakna ge anak kuring<br />Domba, domba kuring<br />Diangon-angon ku kuring<br />Dimandian ku kuring<br />Anakna ge anak kuring<br />Saha jaluna<br />Mana jaluna<br />Saha jaluna<br />Jaluna mah, domba adu asal Garut</p><p><br />Miara domba teh dua<br />Domba bikang duanana<br />Ayeuna geus ngalobaan<br />Ngalobaan, aranakan<br />Ka balad-balad di desa<br />Ka dulur anu di lembur<br />Ulah kaget, ulah heran<br />Ulah nanyakeun jaluna<br />Bisi jadi masalah, bisi jadi fitnah<br />Ulah turut campur<br />Sabab domba, domba kuring<br />Domba, domba kuring<br />Diangon-angon ku kuring<br />Diparaban ku kuring<br />Anakna ge anak kuring<br />Domba, domba kuring<br />Diangon-angon ku kuring<br />Dimandian ku kuring<br />Anakna ge anak kuring<br />Saha jaluna<br />Mana jaluna<br />Saha jaluna<br />Jaluna mah, domba adu asal Garut<br />Domba, domba kuring<br />Diangon-angon ku kuring<br />Diparaban ku kuring<br />Anakna ge anak kuring<br />Domba, domba kuring<br />Diangon-angon ku kuring<br />Dimandian ku kuring<br />Anakna ge anak kuring<br />Saha jaluna<br />Mana jaluna<br />Saha jaluna<br />Jaluna mah, domba adu asal Garut</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "ADE ASTRID A",
+      "title": "RUNTAH",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR3.mp3",
+      "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti harep ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sidikna unggal minggu</p><p><br />Naha kunaon nu geulis loba nu bangor e<br />Naha kunaon nu bangor loba nu geulis e<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah e<br />Geblek hirup daek jadi Runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti harep ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sidikna unggal minggu</p><p><br />Naha kunaon nu geulis loba nu bangor e<br />Naha kunaon nu bangor loba nu geulis e<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah e<br />Geblek hirup daek jadi Runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti harep ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sidikna unggal minggu</p><p><br />Naha kunaon nu geulis loba nu bangor e<br />Naha kunaon nu bangor loba nu geulis e<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah e<br />Geblek hirup daek jadi Runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti harep ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga setan<br />Gunta-ganti jalu teu sidikna unggal minggu</p><p><br />Naha kunaon nu geulis loba nu bangor e<br />Naha kunaon nu bangor loba nu geulis e<br />Sigana mah ngarasa asa aing hade rupa<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah e<br />Geblek hirup daek jadi Runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah e<br />Geblek hirup daek jadi Runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Kulit kelir koneng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jawer hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah e<br />Geblek hirup daek jadi Runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "ADE ASTRID A",
+      "title": "MIDUA CINTA",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR4.mp3",
+      "lyrics": "<p>Itu langlayangan nu pegat kapakan<br />Di langit lenglang ngaboleang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan.</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana (kamana)<br />Naha cintana bet lila<br />Kapakan duka teuing kamana (kapakan-kapakan, kamana).</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Itu langlayangan nu pegat kapakan<br />Di langit l&eacute;nglang ngabol&eacute;ang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan.</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana (kamana)<br />Naha cintana bet lila<br />Kapakan duka teuing kamana (kapakan-kapakan, kamana).</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana dimana<br />Ku teu sangka salira midua cinta.</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "ADE ASTRID A",
+      "title": "DUA LALAKI",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR5.mp3",
+      "lyrics": "<p>Anjeun lalaki kuring lalaki<br />Pada mikaharep miboga dirina<br />Kembang nu jadi impian<br />Tos lami mapaes ati duh diri micinta</p><p><br />Pasti sarua miboga cinta<br />Pada mikahayang tur metik atina<br />Iraha bakal laksana<br />Rek metik kembang katresna<br />Nu jadi ceungceuman</p><p><br />Diri nandangan kasiksa<br />Gering pikir ngalanglayung<br />Horeng micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun nu jadi rebutan<br />Antara dua lalaki<br />Nu sami-sami micinta<br />Ka diri salira</p><p><br />Rasana diri geus teu daya<br />Akang micinta anjeuna<br />Harepan ngan ukur harepan<br />Nu ayeuna ngan tinggal lamunan</p><p><br />Pasti sarua miboga cinta<br />Pada mikahayang tur metik atina<br />Iraha bakal laksana<br />Rek metik kembang katresna<br />Nu jadi ceungceuman</p><p><br />Diri nandangan kasiksa<br />Gering pikir ngalanglayung<br />Horeng micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun nu jadi rebutan<br />Antara dua lalaki<br />Nu sami-sami micinta<br />Ka diri salira<br />Rasana diri geus teu daya<br />Akang micinta anjeuna<br />Harepan ngan ukur harepan<br />Nu ayeuna ngan tinggal lamunan</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "ADE ASTRID A",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR6.mp3",
+      "lyrics": "<p>Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu, hari ini ku mencintaimu<br />Yang kutahu, ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga 'kan mekar meski kemarau melanda<br />Bunga 'kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tent'ram<br />Biarlah berada di sampingku<br />Kar'na diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga 'kan mekar meski kemarau melanda<br />Bunga 'kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tent'ram<br />Biarlah berada di sampingku<br />Kar'na diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu s'bagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "ADE ASTRID A",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR7.mp3",
+      "lyrics": "<p>Kuda yang mana kuda yang mana tuan senangi<br />Kuda yang putih kuda yang putih didalam kandang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut pirang</p><p><br />Naik sepeda naik sepeda mati lampunya<br />Jalan terus jalan terus lambat sampainya<br />Ada janda ada janda mati lakinya<br />Mau dilamar mau dilamar banyak anaknya</p><p><br />Ada janda ada janda mati lakinya<br />Mau dilamar mau dilamar banyak anaknya</p><p><br />Bagaimana bagaimana menggoreng peda<br />Ambil minyaknya ambil minyaknya tuang tuangkan<br />Bagaimana bagaimana merayu janda<br />Ambil anaknya ambil anaknya timang timangkan</p><p><br />Bagaimana bagaimana merayu janda<br />Ambil anaknya ambil anaknya timang timangkan</p><p><br />Kampung krukut kampung krukut dipinggir kali<br />Anak cina anak cina dan kawan kawan<br />Hati takut hati takut jadi berani</p><p><br />Lihat janda lihat janda kayak perawan<br />Hati takut hati takut jadi berani<br />Lihat janda lihat janda kayak perawan</p><p><br />Kucing kurus kucing kurus mandi dipapan<br />Papan dibawa papan dibawa dari marunda</p><p><br />Badan kurus badan kurus bukan tak makan<br />Kurus mikirin kurus mikirin si janda muda<br />Badan kurus badan kurus bukan tak makan<br />Kurus mikirin kurus mikirin si janda muda.</p><p><br />Kuda yang mana kuda yang mana tuan senangi<br />Kuda yang putih kuda yang putih didalam kandang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut pirang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut pirang<br />Janda yang mana janda yang mana tuan senangi<br />Janda yang putih janda yang putih berambut pirang</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "ADE ASTRID A",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "ADE ASTRID A",
+      "title": "INGET KA MANTAN",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR9.mp3",
+      "lyrics": "<p>Isuk-isuk hudang sare lulunguh keneh<br />Kuring indit ka dapur mawa gelas ninyuh kopi<br />Gek diuk dina korsi ngamparkeun udud jeung kopi<br />Pas kuring ngaregot kopi sakolebat asa ngimpi</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan</p><p><br />Isuk-isuk hudang sare lulunguh keneh<br />Kuring indit ka dapur mawa gelas ninyuh kopi<br />Gek diuk dina korsi ngamparkeun udud jeung kopi<br />Pas kuring ngaregot kopi sakolebat asa ngimpi</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan</p><p><br />Isuk-isuk hudang sare lulunguh keneh<br />Kuring indit ka dapur mawa gelas ninyuh kopi<br />Gek diuk dina korsi ngamparkeun udud jeung kopi<br />Pas kuring ngaregot kopi sakolebat asa ngimpi</p><p><br />Jadi inget ka mantan, jadi inget ka mantan<br />Aduh inget ka mantan<br />Timana asalna timana mimitina<br />Ujug-ujug inget mantan</p><p><br />Lir&hellip; cai caah na walungan<br />Kapikiran kabayang rarayna mantan</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "ADE ASTRID A",
+      "title": "DURIAN PEGAT",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR10.mp3",
+      "lyrics": "<p>Bumi nu anjeun-Na<br />Langit nu anjeun-Na<br />Sapangeusi alam dunya<br />Mungguh kersaning anjeun-Na</p><p><br />Tur sagala mahluk-Na<br />Kalebet urang sadaya<br />Teu aya nu jadi kajaba<br />Eta kagungan anjeun-Na</p><p><br />Jodo nu anjeun-Na<br />Pati nu anjeun-Na<br />Susah senang, lara bagja<br />Gumantung kana kodrat-Na</p><p><br />Kitu deui jodo urang<br />Kapan kahayang mah manjang<br />Buktina geuning papegat<br />Najan kabeungkeut duriat</p><p><br />Ya Allah, mugia abdi sing kiat<br />Dina nampi ieu kodrat<br />Panginten ieu tos gurat<br />Duriat kedah papegat<br />Abdi pasrah hamo nolak</p><p><br />Ya Allah, abdi panceg kayakinan<br />Salira nu Maha Rohman<br />Tangtos aya kasaean<br />Sagedengeun kapeurihan<br />Ya Allah, Salira nu murbeng alam</p><p><br />Jodo nu anjeun-Na<br />Pati nu anjeun-Na<br />Susah senang, lara bagja<br />Gumantung kana kodrat-Na</p><p><br />Kitu deui jodo urang<br />Kapan kahayang mah manjang<br />Buktina geuning papegat<br />Najan kabeungkeut duriat</p><p><br />Ya Allah, mugia abdi sing kiat<br />Dina nampi ieu kodrat<br />Panginten ieu tos gurat<br />Duriat kedah papegat<br />Abdi pasrah hamo nolak</p><p><br />Ya Allah, abdi panceg kayakinan<br />Salira nu Maha Rohman<br />Tangtos aya kasaean<br />Sagedengeun kapeurihan<br />Ya Allah, Salira nu murbeng alam</p><p><br />Ya Allah, Salira nu murbeng alam</p>"
+	  },
+	  {
+      "id": 11,
+      "name_category": "ADE ASTRID A",
+      "title": "BEBENDE",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "ADE ASTRID A",
+      "title": "MAWAR BODAS",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR12.mp3",
+      "lyrics": "<p>Mapay jalan satapak<br />Ngajugjug ka hiji lembur<br />Henteu karasa capena<br />Sabab aya nu diteang</p><p><br />Hujan angin dor dar gelap<br />Hunteu aya keur ngiuhan<br />Sanajan awak rancucut<br />Teu paduli kajeun teuing</p><p><br />Nu penting mah asal nepi<br />Ka tempat anu di tuju<br />Rek ngalongok mawar bodas<br />Nu moal lila ka ala</p><p><br />Sugan tea moal gagal<br />Kembang geus aya nu boga<br />Balik teh asa hoream leumpang ge asa ngalayang</p><p><br />Teu kasawang ti anggalna<br />Teu kapikir ti tadina<br />Lamun bakal nyeri hate<br />Hoream teu sudi teuing<br />Mikiran pipanyakiteun<br />Mikiran pipanyakiteun</p>"
+	  },
+	  {
+      "id": 13,
+      "name_category": "ADE ASTRID A",
+      "title": "LALEUR HEJO",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR13.mp3",
+      "lyrics": "<p>Boga kabogoh hayang nu geulis<br />Boga kabogoh hayang nu modis<br />Beungeutna nu mulus siga artis<br />Jeung seueur acis</p><p><br />Gayana mah emang siga sultan<br />Tapi geuningan loba sametan<br />Disampeurkeun kalah bebelecetan<br />Jeung poho ingetan</p><p><br />Matak wajar lamun manehna<br />Dirunghal ku kabeh saantraganna<br />Dipoyokan ku kabeh babaturanna</p><p><br />Teu kaop ningali nu herang saeutik<br />Panonna ngadadak cenghar buncelik<br />Teu kaop nempoan awakna montok<br />Ngahuleng teu ngicep bari olohok</p><p><br />Kabeukina unggal poe kur lalajo<br />Scroll TikTok, ngahayal jiga nu boloho<br />Maneh mah emang dasar laleur hejo<br />Lalaki lieur hese jodo</p><p><br />Boga kabogoh hayang nu geulis<br />Boga kabogoh hayang nu modis<br />Beungeutna nu mulus siga artis<br />Jeung seueur acis</p><p><br />Gayana mah emang siga sultan<br />Tapi geuningan loba sametan<br />Disampeurkeun kalah bebelecetan<br />Jeung poho ingetan</p><p><br />Matak wajar lamun manehna<br />Dirunghal ku kabeh saantraganna<br />Dipoyokan ku kabeh babaturanna</p><p><br />Teu kaop ningali nu herang saeutik<br />Panonna ngadadak cenghar buncelik<br />Teu kaop nempoan awakna montok<br />Ngahuleng teu ngicep bari olohok</p><p><br />Kabeukina unggal poe kur lalajo<br />Scroll TikTok, ngahayal jiga nu boloho<br />Maneh mah emang dasar laleur hejo<br />Lalaki lieur hese jodo</p><p><br />Boga kabogoh hayang nu geulis<br />Boga kabogoh hayang nu modis<br />Beungeutna nu mulus siga artis<br />Jeung seueur acis</p><p><br />Gayana mah emang siga sultan<br />Tapi geuningan loba sametan<br />Disampeurkeun kalah bebelecetan<br />Jeung poho ingetan</p><p><br />Boga kabogoh hayang nu geulis<br />Boga kabogoh hayang nu modis<br />Beungeutna nu mulus siga artis<br />Jeung seueur acis</p><p><br />Gayana mah emang siga sultan<br />Tapi geuningan loba sametan<br />Disampeurkeun kalah bebelecetan<br />Jeung poho ingetan</p><p><br />Matak wajar lamun manehna<br />Dirunghal ku kabeh saantraganna<br />Dipoyokan ku kabeh babaturanna</p><p><br />Teu kaop ningali nu herang saeutik<br />Panonna ngadadak cenghar buncelik<br />Teu kaop nempoan awakna montok<br />Ngahuleng teu ngicep bari olohok</p><p><br />Kabeukina unggal poe kur lalajo<br />Scroll TikTok, ngahayal jiga nu boloho<br />Maneh mah emang dasar laleur hejo<br />Lalaki lieur hese jodo</p><p><br />Maneh mah emang dasar laleur hejo<br />Lalaki lieur hese jodo</p>"
+	  },
+	  {
+      "id": 14,
+      "name_category": "ADE ASTRID A",
+      "title": "KALAH MATERI",
+      "image": "file:///android_asset/image/ADA.jpg",
+      "link_mp3": "mp3/DELASTR14.mp3",
+      "lyrics": "<p>Senajan masih demen<br />Sun rela nglepasaken<br />Senajan batin lara<br />Kita kudu nerima</p><p><br />Kita sih mawas diri<br />Kalah kenang materi<br />Duwene cuma cinta<br />Harta mah kula langka</p><p><br />Cintane kula segede gunung<br />Tapi akhire kandas bli tepung</p><p><br />Bandinganane langit lan bumi<br />Senajan maksa bli mungkin nduweni</p><p><br />Demen memang demen<br />Sayang memang sayang<br />Tapi ora mungkin<br />Wong loro bisa barengan</p><p><br />Kita sih mawas diri<br />Kalah kenang materi<br />Duwene cuma cinta<br />Harta mah kula langka</p><p><br />Cintane kula segede gunung<br />Tapi akhire kandas bli tepung</p><p><br />Bandinganane langit lan bumi<br />Senajan maksa bli mungkin nduweni</p><p><br />Demen memang demen<br />Sayang memang sayang<br />Tapi ora mungkin<br />Wong loro bisa barengan</p><p><br />Senajan masih demen<br />Sun rela nglepasaken<br />Senajan batin lara<br />Kita kudu nerima</p><p><br />Kita sih mawas diri<br />Kalah kenang materi<br />Duwene cuma cinta<br />Harta mah kula langka</p>"
+	  },
+	  {
+      "id": 15,
+      "name_category": "ADE ASTRID  B",
+      "title": "GALA GALA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "ADE ASTRID  B",
+      "title": "JALIR JANGJI",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR16.mp3",
+      "lyrics": "<p>Teu lami, sasasih deui<br />Asih urang bakal ngahiji<br />Teu weleh dianti-anti<br />Bakal nyorang laki rabi</p><p><br />Awas, ulah robih deui<br />Komo deui rek jalir jangji<br />estu cinta ukur hiji<br />Nepi ka dijemput pati</p><p><br />Nya abdi sareng salira<br />Pada-pada mikacinta<br />Susah-senang sasarengan<br />Pait-manisna duaan</p><p><br />Ulah jalir jangji, ulah jalir jangji<br />Komo deui aya niat nganyenyeri<br />Ulah jalir jangji, ulah jalir jangji<br />Komo deui aya niat gaduh deui</p><p><br />Kadeudeuh nu urang<br />Kaheman keur urang</p><p><br />Teu lami, sasasih deui<br />Asih urang bakal ngahiji<br />Teu weleh dianti-anti<br />Bakal nyorang laki rabi</p><p><br />Awas, ulah robih deui<br />Komo deui rek jalir jangji<br />estu cinta ukur hiji<br />Nepi ka dijemput pati</p><p><br />Nya abdi sareng salira<br />Pada-pada mikacinta<br />Susah-senang sasarengan<br />Pait-manisna duaan</p><p><br />Ulah jalir jangji, ulah jalir jangji<br />Komo deui aya niat nganyenyeri<br />Ulah jalir jangji, ulah jalir jangji<br />Komo deui aya niat gaduh deui</p><p><br />Kadeudeuh nu urang<br />Kaheman keur urang</p><p><br />Ulah jalir jangji, ulah jalir jangji<br />Komo deui aya niat nganyenyeri<br />Ulah jalir jangji, ulah jalir jangji<br />Komo deui aya niat gaduh deui</p><p><br />Kadeudeuh nu urang<br />Kaheman keur urang</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "ADE ASTRID  B",
+      "title": "JURAGAN EMPANG",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "ADE ASTRID  B",
+      "title": "KAGODA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "ADE ASTRID  B",
+      "title": "KAMANA CINTANA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "ADE ASTRID  B",
+      "title": "KUNAON ANJEUN",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "ADE ASTRID  B",
+      "title": "MADU MERAH",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "ADE ASTRID  B",
+      "title": "NISTA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "ADE ASTRID  B",
+      "title": "RANGKULAN SALIRA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "ADE ASTRID  B",
+      "title": "REGANG PANGHALANG",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "ADE ASTRID  B",
+      "title": "SESAH HILAPNA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR25.mp3",
+      "lyrics": "<p>Cinta kuring ka manehna<br />Cintaku kepadanya<br />Anggang kahalang sagara<br />Jauh terhalang Samudera<br />Moal luntur kaibunan<br />Takkan terkiris oleh air embun<br />Moal gedag kaanginan<br />Takkan goyah tertiup angin<br />Cinta ngan ukur salira<br />Cinta hanya untukmu</p><p><br />Cinta kuring nu ayeuna<br />Cintaku yang sekarang<br />Masih kawas anu baheula<br />Masih seperti yang dulu<br />Kasalira kuring cinta<br />Kepadamu aku cinta<br />Moal rek aya gentosna<br />Tidak aka nada gantinya<br />Asih urang salamina<br />Rasa sayang kita selamanya</p><p><br />Aduh Akang ieu abdi emut wae<br />Aduh Akang diriku selalu ingat<br />Ka salira teu weleh ka bayang-bayang<br />Dirimu selalu terbayang<br />Aduh sesah hilapna<br />Aduh Sulit untuk dilupakan</p><p><br />Sakolebat rerendengan<br />Sekilas jalan berdua<br />Bari ukur na impenan<br />Namun hanya dalam mimpi<br />Pinuh ku kembang hareupan<br />Penuh dengan bunga harapan<br />Nyorang jalan ka bagjaan<br />Berjalan menuju kebahagian<br />Kalah dikumaha adat urang anu beda<br />Harus bagaimana adat kita yang berbeda</p>"
+	  },
+	  {
+      "id": 26,
+      "name_category": "ADE ASTRID  B",
+      "title": "TALAK TILU",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "ADE ASTRID  B",
+      "title": "TERLALU SAYANG",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "ADE ASTRID  B",
+      "title": "TEUSANGKA",
+      "image": "file:///android_asset/image/ADB.jpg",
+      "link_mp3": "mp3/DELASTR28.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
