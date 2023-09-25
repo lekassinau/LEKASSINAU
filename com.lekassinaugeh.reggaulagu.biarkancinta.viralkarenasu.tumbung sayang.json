@@ -1,0 +1,300 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "REGGAE VIRAL",
+      "image": "file:///android_asset/image/RGV.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SALLSA BINTAN",
+      "image": "file:///android_asset/image/RGS.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "REGGAE VIRAL",
+      "title": "KARNA SU SAYANG",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT1.mp3",
+      "lyrics": "<p>Biasa sa cinta satu sa pinta<br />Jang terlalu mengekang rasa<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Jangan kau berulah sa trakan mendua<br />Cukup jaga hati biar tambah cinta<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Dan ini semua tentang hati<br />Jadi coba pikir kembali<br />Janji tra mungkin sa ingkari<br />Karna alasan tra kabari</p><p><br />Kasih ko begitu curiga<br />Berubah kini ko berbeda<br />Ikat sa kuat atas nama cinta<br />Sa tra suka ko paksa, itu masalahnya</p><p><br />Biarkan cinta tumbuh sebisanya<br />Cinta dan resah itu pelengkapnya<br />Jang hanya datang dan tinggalkan lara<br />Sa tetap cinta walo tra bersuara</p><p><br />Biasa sa cinta coba ko pahami<br />Sa su bilang sayang jaga sap hati<br />Tra mendua sa berhenti mencari<br />Cukup ko dalam mimpi, kini dan nanti</p><p><br />Biasa sa cinta satu sa pinta<br />Jang terlalu mengekang rasa<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Jangan kau berulah sa trakan mendua<br />Cukup jaga hati biar tambah cinta<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Bilang pada sa kalo rindu<br />Pasti sa ada jangan ragu<br />Tetapi bukannya begitu<br />Ko malah marah sampe lupa waktu</p><p><br />Tra balas sa pu pesan<br />Jujur sa sayang ko membingungkan<br />Sa cuma butuh sedikit sandaran<br />Ko pikir semua itu cuma jalan sa dekati selingkuhan</p><p><br />Dan coba renungkan kembali<br />Sap rasa tumbuh dan tra mati<br />Ko masih jadi kekasih<br />Jadi jang takut sa ke lain hati</p><p><br />Biasa sa cinta satu sa pinta<br />Jaga hati biar sa makin cinta<br />Percaya rasa jang dengar cerita<br />Pegang sap janji sa tra coba berpindah</p><p><br />Biasa sa cinta satu sa pinta<br />Jang terlalu mengekang rasa<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Jangan kau berulah sa trakan mendua<br />Cukup jaga hati biar tambah cinta<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Biasa sa cinta satu sa pinta<br />Jang terlalu mengekang rasa<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p><p><br />Jangan kau berulah sa trakan mendua<br />Cukup jaga hati biar tambah cinta<br />Karna kalau sa su bilang<br />Sa trakan berpindah karna su sayang</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "REGGAE VIRAL",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT2.mp3",
+      "lyrics": "<p>Nemu koe pas ati ambyar ambyare<br />Pacar seng tak tresnani ninggal aku golek liane</p><p><br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili</p><p><br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili</p><p><br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p><p>Matursuwun gusti mpun maringi seng gemati nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati yang pergi biarlah pergi ono koe seng ngancani</p>"
+	  },
+	  {
+      "id": 3,
+      "name_category": "REGGAE VIRAL",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT3.mp3",
+      "lyrics": "<p>Percuma sia sia<br />Diriku mengharap cinta darimu<br />Kini ku sadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku<br />Tak pernah bernilai di matamu<br />Cintaku seakan tak berharga</p><p><br />Dalam tangismu<br />Akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah ku relakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p><p><br />Kini ku sadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku<br />Tak pernah bernilai di matamu<br />Cintaku seakan tak berharga</p><p><br />Dalam tangismu<br />Akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah ku relakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "REGGAE VIRAL",
+      "title": "HAYANG JAJAN",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "REGGAE VIRAL",
+      "title": "MAWAR PUTIH",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT5.mp3",
+      "lyrics": "<p>Sudah ada mawar putih<br />Jangan cari yang merah<br />Sudah punya cinta suci<br />Jangan cari masalah</p><p><br />Mahkota cinta kuberikan<br />Benang sari janganlah bimbang<br />Jaga<br />Jaga<br />Jaga, jaga, jaga<br />Setia</p><p><br />Sudah ada mawar putih<br />Jangan cari yang merah<br />Sudah punya cinta suci<br />Jangan cari masalah</p><p><br />Bunga yang mekar ditaman<br />Jaga dan pelihara<br />Jangan engkau lalai terlena<br />Dipetik orang</p><p><br />Kemesraan menghangatkan<br />Hati yang dilanda cinta<br />Awas jangan sampai<br />Terbakar panasnya dusta</p><p><br />Jangan sampai putik berpaling<br />Kelain cinta<br />Jangan sampai engkau menyesal<br />Kemudian, terluka<br />Merana</p><p><br />Sudah ada mawar putih<br />Jangan cari yang merah<br />Sudah punya cinta suci<br />Jangan cari masalah</p><p><br />Bunga yang mekar ditaman<br />Jaga dan pelihara<br />Jangan engkau lalai terlena<br />Dipetik orang</p><p><br />Kemesraan menghangatkan<br />Hati yang dilanda cinta<br />Awas jangan sampai<br />Terbakar panasnya dusta<br />Jangan sampai putik berpaling<br />Kelain cinta</p><p><br />Jangan sampai engkau menyesal<br />Kemudian, terluka<br />Merana<br />Terluka<br />Merana</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "REGGAE VIRAL",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT6.mp3",
+      "lyrics": "<p>Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu, hari ini ku mencintaimu<br />Yang kutahu, ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "REGGAE VIRAL",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "REGGAE VIRAL",
+      "title": "HARUSKAH BERAKHIR",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT8.mp3",
+      "lyrics": "<p>Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p><p><br />Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p><p><br />Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p><p><br />Kalau harus berpisah, mengapa berjumpa?<br />Awal bahagia berakhir merana</p><p><br />Bukan karena salahmu, bukan karena salahku<br />Tetapi kita tiada bahagia</p><p><br />Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p><p><br />Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p><p><br />Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p><p><br />Kalau harus berpisah, mengapa berjumpa?<br />Awal bahagia berakhir merana</p><p><br />Bukan karena salahmu, bukan karena salahku<br />Tetapi kita tiada bahagia</p><p><br />Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p><p><br />Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p><p><br />Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "REGGAE VIRAL",
+      "title": "KUPUJA PUJA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "REGGAE VIRAL",
+      "title": "BERBEZA KASTA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "REGGAE VIRAL",
+      "title": "DI TINGGAL PAS SAYANG SAYNAGE",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "REGGAE VIRAL",
+      "title": "KUSIMPAN RINDU DIHATI",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "REGGAE VIRAL",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "REGGAE VIRAL",
+      "title": "APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "REGGAE VIRAL",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "REGGAE VIRAL",
+      "title": "RELA DEMI CINTA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "REGGAE VIRAL",
+      "title": "SAYANG 2",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "REGGAE VIRAL",
+      "title": "SECAWAN MADU",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "REGGAE VIRAL",
+      "title": "TERLENA",
+      "image": "file:///android_asset/image/RGV.jpg",
+      "link_mp3": "mp3/LAREBICNT19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "SALLSA BINTAN",
+      "title": "TANIA",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SALLSA BINTAN",
+      "title": "DUMES",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT21.mp3",
+      "lyrics": "<p>Sepine ro aku, senengmu karo, liyane<br />Arep cemburu kok dudu sopo sopone<br />Sing awale perhatian, ning akhire, sliramu sing malah ngilang.</p><p><br />Ra pengen... liane... pengenku siji mung koe<br />Kenyataan e dudu aku, neng njero atimu</p><p><br />Isih sok kelingan.<br />Kabeh kenangan sing tau dilakoni<br />Kebayang bayang nganti kegowo ngimpi</p><p><br />Iso gawe nyaman, ra jaminan, duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Kroso sliramu wong sing paling gemati<br />Ora nyongko koe, sing paling nglarani.</p><p><br />Ra pengen... liane... pengenku siji mung koe<br />Kenyataan e dudu aku, neng njero atimu</p><p><br />Isih sok kelingan.<br />Kabeh kenangan sing tau dilakoni<br />Kebayang bayang nganti kegowo ngimpi</p><p><br />Iso gawe nyaman, ra jaminan, duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Kroso sliramu wong sing paling gemati<br />Ora nyongko koe, sing paling nglarani</p>"
+	  },
+    {
+      "id": 22,
+      "name_category": "SALLSA BINTAN",
+      "title": "SANES",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT22.mp3",
+      "lyrics": "<p>Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p>"
+	  },
+	  {
+      "id": 23,
+      "name_category": "SALLSA BINTAN",
+      "title": "ALOLOLO SAYANG",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "SALLSA BINTAN",
+      "title": "KLEBUS",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "SALLSA BINTAN",
+      "title": "BUKAN CINTA 1 ATAU 2",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "SALLSA BINTAN",
+      "title": "CINTA DI PANTAI BALI",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "SALLSA BINTAN",
+      "title": "NGOPI MASE",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "SALLSA BINTAN",
+      "title": "PUNK ROCK JALANAN",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "SALLSA BINTAN",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "SALLSA BINTAN",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "SALLSA BINTAN",
+      "title": "SINGKONG KEJU",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT31.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 32,
+      "name_category": "SALLSA BINTAN",
+      "title": "TUHAN JAGAKAN DIA",
+      "image": "file:///android_asset/image/RGS.jpg",
+      "link_mp3": "mp3/LAREBICNT32.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
