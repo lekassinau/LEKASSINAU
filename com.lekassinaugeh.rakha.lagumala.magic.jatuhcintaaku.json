@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "LAGU MAGIC",
+      "image": "file:///android_asset/image/MMG.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "POP VIRAL",
+      "image": "file:///android_asset/image/PV.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LAGU MAGIC",
+      "title": "AKU JATUH CINTA",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p>Aku jatuh cinta<br />Dalam sunyi tanpa suara<br />Walau dekat sulit ku gapai<br />Aku tak ingin berhenti</p><p><br />Aku jatuh cinta<br />Dalam diam ku sampaikan<br />Walau berat jalan ku tertahan<br />Aku takk ingin berhenti</p><p><br />Cinta tak berujung<br />Kemana kah akan berlabuh<br />Tak cukup puja cinta yang agung<br />Hati butuh kepastian</p><p><br />Cinta tak bertepi<br />Bagaimana kah kumiliki<br />Bersamamu aku bahagia<br />Aku jatuh cinta</p><p><br />Aku jatuh cinta aku cinta<br />Dalam diam ku sampaikan<br />Walau berat jalan ku tertahan<br />Aku takk ingin berhenti</p><p><br />Tuhan bukankan cinta<br />Anugerah tapi ku takut tersesat<br />Bila salah bila salah</p><p><br />Cinta tak berujung<br />Kemana kah akan berlabuh<br />Tak cukup puja cinta yang agung<br />Hati butuh kepastian</p><p><br />Cinta tak bertepi<br />Bagaimana kah kumiliki<br />Bersamamu aku bahagia<br />Aku jatuh cinta</p><p><br />Tak cukup puja<br />Tak cukup kata<br />Hati butuh kepastian</p><p><br />Cinta tak bertepi<br />Bagaimana kah kumiliki<br />Bersamamu aku bahagia<br />Aku jatuh cinta</p>"
+	  },
+    {
+      "id": 2,
+      "name_category": "LAGU MAGIC",
+      "title": "BERTAUHID",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p>Laa ilaaha illallah<br />Laa ilaaha illallah<br />Laa ilaaha illallah<br />Laa ilaaha illallah</p><p><br />Engkau manusia harus berusaha<br />meski dunia tak bersahabat<br />Awal yang telah menghantui<br />tapi jika punya Allah<br />apalagi yang kau takuti</p><p><br />Awal yang terjang curam dan mendaki<br />tapi jika punya Allah<br />kau tak perlu khawatir lagi</p><p>Berlari berjalan ataupun berhenti<br />Selalu ingat Allah di dalam hati<br />Janganlah menyerah teruslah berdoa<br />Pertolongan Allah kan datang juga</p><p><br />Laa ilaaha illallah<br />Tiada Tuhan selain Allah<br />Hampirilah perintah hanya pada-Nya<br />Agar hidup selalu dekat bahagia</p><p><br />Laa ilaaha illallah<br />Tiada Tuhan selain Allah<br />Pasrahkan nafas hidup dan matimu<br />Agar hidup tenang dan damai selalu</p><p><br />Laa ilaaha illallah<br />Laa ilaaha illallah<br />Laa ilaaha illallah<br />Laa ilaaha illallah"
+	  },
+	  {
+      "id": 3,
+      "name_category": "LAGU MAGIC",
+      "title": "OH CINTA",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p>Dia Dia Dia<br />Dia Dia Dia</p><p><br />Oo cinta mengapa tiba-tiba<br />Ku pertanyakan karna aku tak siap<br />Tak siap untuk jatuh cinta<br />Yang hanya sepihak saja</p><p><br />Oo cinta kini aku curiga<br />Dia yang kudamba hanya pura-pura<br />Padahal aku bersungguh-sungguh<br />Menaruh hati bukan untuk bertaruh</p><p><br />Jika ada yang bilang aku buaya<br />Jangan kau dengar, janganlah kau percaya<br />Meski ada seribu gadis<br />Tapi kamulah satu-satunya</p><p><br />Bila nanti kau buka pintu hati<br />Ku buktikan aku setia menemani<br />Oh Tuhan bantu aku<br />Yakinkan cinta padanya</p><p>Dia Dia Dia<br />Yang membuat aku jatuh cinta<br />Dia Dia Dia<br />Yang buatku terpesona</p><p><br />Kalau ditanya apa yang buat suka<br />Mata hidung semuanya istimewa<br />Kalau dia cuek aku jadi shut down<br />Lama balas whatsapp aku</p><p>Oh baby aku rela Lomba lari keliling dunia<br />asalkan kamu yang menjadi garis finishnya<br />Kata orang sabtu minggu itu weekend<br />Tapi cintaku padamu will never end</p><p><br />Oh baby baby<br />kemanakah hatimu<br />Biar kubuka mendapatkan cinta darimu<br />Jangan naik turun jangan kaya yoyo<br />Tapi gimanapun</p><p>jika ada yang bilang aku buaya jangan kau dengar<br />Janganlah kau percaya<br />Meski ada seribu gadis tapi kamulah satu-satunya<br />Bila nanti kau buka pintu hati<br />Kubuktikan aku setia menemani<br />Oh Tuhan bantu aku yakinkan cinta padanya</p><p><br />Dia dia dia<br />yang membuat aku jatuh cinta<br />Dia dia dia<br />yang buatku terpesona<br />Dia dia dia<br />Yang membuatku jatuh cinta<br />Dia dia dia<br />yang buatku terpesona</p><p>&nbsp;</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "LAGU MAGIC",
+      "title": "TIBA TIBA CINTA DATANG",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p>Tiba-tiba cinta datang kepadaku<br />Saat kumulai mencari cinta<br />Tiba-tiba cinta datang kepadaku<br />Kuharap dia rasakan yang sama</p><p><br />Ada sesuatu saat kumelihat dia<br />Ada getaran membuatku rindu<br />Senang hatiku saat kudengar suaranya<br />Ingin selalu ada di dekatnya</p><p><br />Saat ku sendiri kubayangkan dia<br />Datang padaku dengan cinta<br />Di keramaian kumerasa sepi<br />Saat tak ada dirinya</p><p><br />Tiba-tiba cinta datang kepadaku<br />Saat ku mulai mencari cinta<br />Tiba-tiba cinta datang kepadaku<br />Ku harap dia rasakan yang sama</p><p><br />Ada sesuatu saat kumelihat dia<br />Ada getaran membuatku rindu<br />Senang hatiku saat kudengar suaranya<br />Ingin selalu ada di dekatnya</p><p><br />Saat ku sendiri kubayangkan dia<br />Datang padaku dengan cinta (Dengan cinta Ha-aa)<br />Di keramaian ku merasa sepi<br />Saat tak ada dirinya</p><p><br />Tiba-tiba cinta datang kepadaku<br />Saat ku mulai mencari cinta<br />Tiba-tiba cinta datang kepadaku<br />Ku harap dia rasakan yang sama</p><p><br />Tiba-tiba cinta datang kepadaku<br />Ku harap dia rasakan yang sama</p><p><br />Tiba-tiba cinta datang kepadaku<br />Saat ku mulai mencari cinta<br />Tiba-tiba cinta datang padaku<br />Ku harap dia rasakan yang sama<br />Ku harap dia rasakan yang sama<br />(Yang sama ha-aa)<br />(Ku harap dia)<br />Ku harap dia rasakan yang sama<br />Ku harap dia rasakan, rasakan yang sama"
+	  },
+	  {
+      "id": 5,
+      "name_category": "LAGU MAGIC",
+      "title": "KEMBANG PERAWAN",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p>Ketika surya menampakkan cahayanya<br />Kugapai hari terangku menanti sebuah cerita<br />Yang pasti akan terjadi di diriku<br />Kini kumulai mengerti artinya cinta<br />Walau senda tawa namun hatiku mulai merasa<br />Bila dekat lelaki aku pun malu<br />Akulah kembang perawan ingin mulai merasa<br />Perasaan yang pasti milik semua insan<br />Aku mulai jatuh cinta papa biarlah aku<br />Menikmati semua anugerah di hidupku<br />Kini kumulai mengerti artinya cinta<br />Walau senda tawa namun hatiku mulai merasa<br />Bila dekat lelaki aku pun malu<br />Akulah kembang perawan ingin mulai merasa<br />Perasaan yang pasti milik semua insan<br />Aku mulai jatuh cinta papa biarlah aku<br />Menikmati semua anugerah di hidupku<br />Aku mulai jatuh cinta papa biarlah aku<br />Menikmati semua anugerah di hidupku"
+	  },
+	  {
+      "id": 6,
+      "name_category": "LAGU MAGIC",
+      "title": "SEANDAINYA",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p>Kelak kau kan menjalani hidupmu sendiri<br />Melukai kenangan yang telah kita lalui<br />Yang tersisa hanya aku sendiri di sini<br />Kau akan terbang jauh menembus awan<br />Memulai kisah baru tanpa diriku</p><p><br />Seandainya kau tau ku tak ingin kau pergi<br />Meninggalkan ku sendiri bersama bayanganku<br />Seandainya kau tau aku kan selalu cinta<br />Jangan kau lupakan kenangan kita selama ini</p><p><br />Kelak kau kan menjalani hidupmu sendiri<br />Melukai kenangan yang telah kita lalui<br />Kau akan terbang jauh menembus awan<br />Memulai kisah baru tanpa diriku</p><p><br />Seandainya kau tau ku tak ingin kau pergi<br />Meninggalkan ku sendiri bersama bayanganku<br />Seandainya kau tau aku kan selalu cinta<br />Jangan kau lupakan kenangan kita selama ini</p><p><br />Selama ini</p><p><br />Seandainya kau tau ku tak ingin kau pergi oh<br />Meninggalkan ku sendiri bersama bayanganku<br />Seandainya kau tau aku kan selalu cinta<br />Jangan kau lupakan kenangan kita selama ini oh</p><p><br />Selama ini</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "LAGU MAGIC",
+      "title": "MATAHARIMU",
+      "image": "file:///android_asset/image/MMG.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "Ku selalu tersenyum karena dirimu<br />Selalu bersemangat karena sayangmu</p><p><br />Kaulah cintaku jiwaku bahagiaku<br />Kau segalanya didalam hidupku</p><p><br />Ku ingin menjadi mataharimu<br />Bersinar menerangi didalam hidupmu</p><p><br />Tuhan jagakan cintaku kumohon dalam doaku<br />Berikanlah bahagiamu yang terbaik dari dirimu<br />Untuk dia yang ku cinta demi dia yang tersayang<br />Kan kulakukan apa saja<br />Rela ku korban jiwa raga<br />Dia cinta sesungguhnya<br />Tanpanya ku tak berdaya</p><p><br />Apapun yang terjadi<br />Kau selalu di hati<br />Engkau cinta sejati tak akan terganti</p><p><br />Tuhan jagakan cintaku kumohon dalam doaku<br />Berikanlah bahagiamu yang terbaik dari dirimu<br />Untuk dia yang ku cinta demi dia yang tersayang<br />Kan kulakukan apa saja<br />Rela ku korban jiwa raga<br />Dia cinta sesungguhnya<br />Tanpanya ku tak berdaya</p><p><br />Ku selalu tersenyum karena dirimu<br />Selalu bersemangat karena sayangmu</p><p><br />Kaulah cintaku jiwaku bahagiaku<br />Kau segalanya didalam hidupku</p><p><br />Ku ingin menjadi mataharimu"
+	  },
+	  {
+      "id": 8,
+      "name_category": "POP VIRAL",
+      "title": "MERAYU TUHAN",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": "<p>Di saat ku menatap Langit<br />Apa engkau juga menatapnya<br />Cobalah kau pejamkan mata<br />Gerimis jatuh bagai air mata</p><p><br />Kuharap dirimu bisa menunggu<br />Besar harap aku ingin bertemu<br />Sumpah mati diriku sangat rindu</p><p><br />Aku coba merayu Tuhanku<br />Berdoa di dalam sujudku<br />Jika kita ditakdirkan bersatu<br />Betapa bahagianya aku</p><p><br />Memiliki kamu anugerah<br />Kau perhiasan yang ku punya<br />Kusebut namamu di dalam doa<br />Semoga kita bersama</p><p><br />Di saat ku menatap Langit<br />Apa engkau juga menatapnya<br />Cobalah kau pejamkan mata<br />Gerimis jatuh bagai air mata</p><p><br />Kuharap dirimu bisa menunggu<br />Besar harap aku ingin bertemu<br />Sumpah mati diriku sangat rindu</p><p><br />Aku coba merayu Tuhanku<br />Berdoa di dalam sujudku<br />Jika kita ditakdirkan bersatu<br />Betapa bahagianya aku</p><p><br />Memiliki kamu anugerah<br />Kau perhiasan yang ku punya<br />Kusebut namamu di dalam doa<br />Semoga kita bersama</p><p><br />Aku coba merayu Tuhanku<br />Berdoa di dalam sujudku<br />Jika kita ditakdirkan bersatu<br />Betapa bahagianya hatiku</p><p><br />Memiliki kamu anugerah<br />Kau perhiasan yang ku punya<br />Kusebut namamu di dalam doa<br />Semoga kita bersama</p><p><br />Kusebut namamu di dalam doa<br />Semoga kita bersama</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "POP VIRAL",
+      "title": "CINTA SEMPURNA",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": "<p>Kau kau yang teramat ku cinta<br />Yang ku sayang lebih dari apapun<br />Tak sekalipun aku pernah mengingkari<br />Janji hatiku padamu</p><p><br />Maafkanlah sayang aku belum bisa<br />Memberimu emas intan dan permata<br />Seperti inilah aku adanya<br />Hanya punya cinta</p><p><br />Kau kau yang teramat ku cinta<br />Yang ku sayang lebih dari apapun<br />Tak sekalipun aku pernah mengingkari<br />Janji hatiku padamu</p><p><br />Maafkanlah sayang aku belum bisa<br />Memberimu emas intan dan permata<br />Seperti inilah aku adanya<br />Hanya punya cinta sempurna</p><p><br />Janjiku sayang suatu hari nanti<br />Ku bisa memberimu yang terbaik<br />Apapun maumu Apapun yang kau suka</p><p><br />Maafkanlah sayang aku belum bisa<br />Memberimu emas intan dan permata<br />Seperti inilah aku adanya<br />Hanya punya cinta sempurna</p><p><br />Janjiku sayang suatu hari nanti<br />Ku bisa memberimu yang terbaik<br />Apapun maumu Apapun yang kau suka</p>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "POP VIRAL",
+      "title": "JIWA YANG BERSEDIH",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p>Kemarilah<br />Singgah dulu sebentar<br />Perjalananmu jauh<br />Tak ada tempat berteduh</p><p><br />Menangislah<br />Kan kau juga manusia<br />Mana ada yang bisa<br />Berlarut larut<br />Berpura pura sempurna</p><p><br />Sampaikan pada jiwa yang bersedih<br />Begitu dingin dunia yang kau huni<br />Jika tak ada tempatmu kembali<br />Bawa lukamu biar aku obati<br />Tidak kah letih kakimu berlari<br />Ada hal yang tak mereka mengerti<br />Beri waktu tuk bersandar sebentar<br />Selama ini kau hebat<br />Hanya kau tak didengar</p><p><br />Menangislah<br />Kan kau juga manusia<br />Mana ada yang bisa<br />Berlarut larut<br />Berpura pura sempurna</p><p><br />Sampaikan pada jiwa yang bersedih<br />Begitu dingin dunia yang kau huni<br />Jika tak ada tempatmu kembali<br />Bawa lukamu biar aku obati<br />Tidak kah letih kakimu berlari<br />Ada hal yang tak mereka mengerti<br />Beri waktu tuk bersandar sebentar<br />Selama ini kau hebat<br />Hanya kau tak didengar</p><p><br />Sampaikan pada jiwa yang bersedih<br />Begitu dingin dunia yang kau huni<br />Jika tak ada tempatmu kembali<br />Bawa lukamu biar aku obati<br />Tidak kah letih kakimu berlari<br />Ada hal yang tak mereka mengerti<br />Beri waktu tuk bersandar sebentar<br />Selama ini kau hebat<br />Hanya kau tak didengar</p><p><br />Tidak kah letih kakimu berlari<br />Ada hal yang tak mereka mengerti<br />Beri waktu tuk bersandar sebentar<br />Selama ini kau hebat<br />Hanya kau tak didengar</p><p><br />Selama ini kau hebat<br />Kau pasti kan didengar"
+	  },
+	  {
+      "id": 11,
+      "name_category": "POP VIRAL",
+      "title": "MASA MUDAKU HABIS",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p>Duduk dipangku di kala senja<br />Dinyanyikan dan dibuai manja<br />Telah berlalu<br />Masa kecilku habis</p><p><br />Menanti orang yang kudambakan<br />Hatiku berdebar tak karuan<br />Telah berlalu<br />Masa mudaku habis</p><p><br />Kemana perginya<br />Masa-masa yang indah<br />Mengapa waktu<br />Begitu cepat berlalu<br />Kini yang tersisa<br />Aku yang harus bisa<br />Menjalani<br />Pahit manis hidup ini</p><p><br />Yakini hari esok kan indah<br />Nyatanya tak satupun yang mudah<br />Apa jadinya masa depanku</p><p><br />Kemana perginya<br />Masa-masa yang indah<br />Mengapa waktu<br />Begitu cepat berlalu<br />Kini yang tersisa<br />Aku yang harus bisa<br />Menjalani<br />Pahit manis hidup ini</p><p><br />Jadi dewasa kukira menyenangkan<br />Tapi ternyata sulit dan melelahkan<br />Jika waktu bisa kuputar kembali<br />Kan kunikmati setiap detik</p><p><br />Kemana perginya<br />Masa-masa yang indah<br />Mengapa waktu<br />Begitu cepat berlalu<br />Kini yang tersisa<br />Aku yang harus bisa<br />Menjalani<br />Pahit manis hidup ini<br />Kan ku jalani<br />Hari ini sebaik mungkin</p>"
+	  },
+    {
+      "id": 12,
+      "name_category": "POP VIRAL",
+      "title": "TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p>Waktu demi waktu<br />Hari demi hari<br />Sadar ku t'lah sendiri<br />Kau t'lah pergi jauh<br />Tinggalkan diriku<br />Ternyata ku rindu</p><p><br />Senyuman yang s'lalu membungkus hati yang terluka<br />Di depan mereka<br />Tuhan masih pantaskah ku &lsquo;tuk bersamanya<br />Karna hati ini inginkannya</p><p><br />Tak segampang itu ku mencari penggantimu<br />Tak segampang itu ku menemukan sosok seperti dirimu cinta<br />Kau tahu betapa besar cinta yang kutanamkan padamu<br />Mengapa kau memilih untuk berpisah</p><p><br />Terlalu besar kutaruh harapan pada dirimu<br />Itu alasanku lama tanpa dirimu oh<br />Mereka yang bilang ku akan dapat lebih darimu<br />Tak mungkin<br />Semua itu tak mudah oh</p><p><br />Ku mencari penggantimu<br />Tak segampang itu ku menemukan sosok seperti dirimu<br />Oh cinta<br />Kau tahu betapa besar cinta yang kutanamkan padamu<br />Mengapa kau memilih untuk berpisah</p><p><br />Ku mencari penggantimu ho<br />Sosok seperti dirimu cinta<br />Kau tahu betapa besar cinta yang kutanamkan padamu<br />Mengapa kau memilih untuk berpisah<br />Kau memilih untuk berpisah"
+	  },
+	  {
+      "id": 13,
+      "name_category": "POP VIRAL",
+      "title": "TUTUR BATIN",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p>Bagaimanakah kabar diriku? Baik-baik saja<br />Sedikit ku takjub, namun, nyatanya sudah kuduga<br />Kau yang ke sana-kemari, kau anggap aku tak cukup<br />Semua kesempatan dan langkahku coba kau tutup</p><p><br />Tutur batinku tak akan salah<br />Silakan pergi, ku tak rasa kalah<br />Namun, percayalah, sejauh mana kau mencari<br />Takkan kau temukan yang sebaik ini</p><p><br />Kau yang ke sana-kemari, kau anggap aku tak cukup<br />Semua kesempatan dan langkahku coba kau tutup<br />'Kan kubuat jalanku sendiri</p><p><br />Tutur batinku tak akan salah<br />Silakan pergi, ku tak rasa kalah<br />Namun, percayalah, sejauh mana kau mencari<br />Takkan kau temukan yang sebaik ini</p><p><br />Aku tak sempurna<br />Tak perlu sempurna<br />Akan kurayakan apa adanya</p><p><br />Aku tak sempurna<br />Tak perlu sempurna<br />Akan kurayakan apa adanya</p><p><br />Aku tak sempurna<br />Tak perlu sempurna<br />Akan kurayakan apa adanya</p><p><br />Tutur batinku tak akan salah<br />Silakan pergi, ku tak rasa kalah<br />Namun, percayalah, sejauh mana kau mencari<br />Takkan kau temukan yang sebaik ini</p><p><br />Takkan kau temukan yang sebaik ini<br />Jiwa yang terbaik itu hanya<br />Aku"
+	  },
+	  {
+      "id": 14,
+      "name_category": "POP VIRAL",
+      "title": "TERTAWAN HATI",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p>Sudah kucoba sepenuh hati<br />Untuk menjadi malaikat<br />Menepikan perasaan runtuhkan egoku<br />Namun sayapku remuk</p><p><br />Bila kutanya pada diriku<br />Mengapa aku bertahan<br />Menerima keadaan yang tak baik saja<br />Memaksakan segalanya</p><p><br />Sakit tak sanggup<br />Sadarkah kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah<br />Tertawan hati</p><p><br />Tak mau kehilangan<br />Tapi lelah berjuang<br />Bukankah rumah tempatku bersandar</p><p><br />Sendiri ku tak bisa<br />Bersama kutersiksa<br />Ini kenyataannya kita tak baik saja</p><p><br />Sakit tak sanggup<br />Sadarkah kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah<br />Tertawan hati ho</p><p><br />Oh kita terlalu hancur<br />Hilang habis tak bersisa<br />Tapi tak mampu kumenyerah ho</p><p><br />Tak mampu kumenyerah<br />Tertawan hati"
+	  },
+	  {
+      "id": 15,
+      "name_category": "POP VIRAL",
+      "title": "USAI",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p>Mungkin inilah waktunya<br />Mungkin inilah saatnya<br />Aku mengerti rasa sesal<br />Saat ada yang pergi menghilang</p><p><br />Kau datang mengukir luka<br />Yang sayang 'tuk dilupakan<br />Kau pergi tanpa mengajarkan<br />Cara 'tuk merelakanmu</p><p><br />Usai sudah semua cerita<br />Yang t'lah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus kujalani</p><p><br />Aku memang kehilangan<br />Kamu yang sangat kucintai<br />Namun, kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />Ku akan terus belajar 'tuk melupakan kamu<br />Yang begitu mudah melupakanku</p><p><br />Usai sudah semua cerita<br />Yang t'lah kita ukir berdua<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus kujalani</p><p><br />Aku memang kehilangan<br />Kamu yang sangat kucintai<br />Namun, kau telah kehilangan<br />Aku yang sangat mencintaimu</p><p><br />(Yang t'lah kita ukir berdua) uh-oh-uh-oh<br />Meninggalkan dirimu adalah<br />Hal terberat yang harus kujalani</p><p><br />Aku memang kehilangan<br />Kamu yang sangat kucintai<br />Namun, kau telah kehilangan<br />Aku yang sangat mencintaimu, hu-oh</p><p><br />Aku yang sangat mencintaimu"
+	  },
+	  {
+      "id": 16,
+      "name_category": "POP VIRAL",
+      "title": "BERTAUD",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p>Bun, hidup berjalan seperti bajingan<br />Seperti landak yang tak punya teman</p><p><br />Ia menggonggong bak suara hujan<br />Dan kau pangeranku, mengambil peran</p><p><br />Bun, kalau saat hancur ku disayang<br />Apalagi saat ku jadi juara<br />Saat tak tahu arah kau di sana<br />Menjadi gagah saat ku tak bisa</p><p><br />Sedikit kujelaskan tentangku dan kamu<br />Agar seisi dunia tahu</p><p><br />Keras kepalaku sama denganmu<br />Caraku marah, caraku tersenyum<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karena denganmu</p><p><br />Aku masih ada sampai di sini<br />Melihatmu kuat setengah mati<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karena denganmu</p><p><br />Bun, aku masih tak mengerti banyak hal<br />Semuanya berenang di kepala</p><p><br />Dan kau dan semua yang kau tahu tentangnya<br />Menjadi jawab saat ku bertanya</p><p><br />Sedikit kujelaskan tentangku dan kamu<br />Agar seisi dunia tahu</p><p><br />Keras kepalaku sama denganmu<br />Caraku marah, caraku tersenyum<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karena denganmu</p><p><br />Aku masih ada sampai di sini<br />Melihatmu kuat setengah mati<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karena denganmu</p><p><br />Semoga lama hidupmu di sini<br />Melihatku berjuang sampai akhir<br />Seperti detak jantung yang bertaut<br />Nyawaku nyala karena denganmu"
+	  },
+	  {
+      "id": 17,
+      "name_category": "POP VIRAL",
+      "title": "TAK AKAN HILANG",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p>Jangan pergi dari diriku<br />Tak sanggup harus hidup tanpamu<br />Kar'na jauh lebih indah<br />Bila kita bersama<br />Seperti yang terjadi kemarin</p><p><br />Kini harus aku lewati<br />Langkah demi langkah yang menyepi<br />Membalut luka lagi<br />Yang kutahan hingga kini<br />Habis sudah nafasku<br />Menyebutmu namamu, ho-oh</p><p><br />Takkan hilang cintaku padamu<br />Takkan hilang walau kau memilih pergi<br />Takkan hilang<br />Sampai di ujung waktuku<br />Mencintamu</p><p><br />Tak terganti<br />Takkan hilang cintaku padamu<br />Padamu, wo-oh-oh-oh-ho, ho-oh</p><p><br />Takkan hilang cintaku padamu<br />Takkan hilang walau kau memilih pergi<br />Takkan hilang<br />Sampai di ujung waktuku<br />Takkan hilang</p><p><br />Takkan hilang<br />Sampai di ujung waktuku</p><p><br />Takkan hilang cintaku padamu<br />Takkan hilang walau kau memilih pergi<br />Takkan hilang<br />Sampai di ujung waktuku<br />Mencintamu, wo-oh-oh-ho</p><p><br />Ku masih mencintaimu"
+	  },
+	  {
+      "id": 18,
+      "name_category": "POP VIRAL",
+      "title": "BIAR AKU YANG PERGI",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "POP VIRAL",
+      "title": "BOHONG HATI",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p>Aku tersiksa<br />Melihat semuanya berubah<br />Mengapa<br />Kau tak mau tahu<br />Bagaimana hati ini tanpamu<br />Cintamu</p><p><br />Oh dimana aku bisa temui dirimu<br />Yang dulu cinta<br />Dan anggap aku ada</p><p><br />Jika kau minta aku menjauh<br />Hilang dari seluruh memori indahmu<br />Kan kulakukan semua walau tak mungkin sanggup<br />Bohongi hatiku</p><p><br />Oh dimana aku bisa temui dirimu ha<br />Yang dulu cinta<br />Dan anggap aku ada</p><p><br />Oh jika kau meminta aku menjauh<br />Hilang dari seluruh memori indahmu<br />Kan kulakukan semua walau tak mungkin sanggup<br />Bohongi hatiku</p><p><br />Saat ku rindu ku coba tak rindu<br />Demi bahagiamu yang tak membutuhkanku<br />Entah sampai dimana sanggup ku kan bertahan<br />Tuk bisa tanpamu</p><p><br />Ya tak mungkin kau menemukan yang sama lagi<br />Tulus hati s&rsquo;perti yang aku miliki ho</p><p><br />Jika kau minta aku menjauh<br />Hilang dari seluruh memori indahmu<br />Kan kulakukan semua walau tak mungkin sanggup<br />Bohongi hatiku ho</p><p><br />Saat ku rindu ku coba tak rindu<br />Demi bahagiamu yang tak lagi butuhkanku<br />Entah sampai dimana aku sanggup bertahan<br />Tuk bisa tanpamu<br />Ha<br />Bohongi hatiku"
+	  },
+	  {
+      "id": 20,
+      "name_category": "POP VIRAL",
+      "title": "CUKUP",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p>Hanya aku<br />Yang mampu bertahan<br />Di sini<br />Selalu di sini<br />Disampingmu</p><p><br />Walau sering<br />Aku terluka karenamu<br />Bertahan<br />Di dalam sedih<br />Karena ku cinta</p><p><br />Aku bingung<br />Ku harus bagaimana bertahan<br />Tapi ku yang terluka<br />Inginku<br />Lari darimu<br />Sadar aku lemah tanpamu</p><p><br />Haruskah ku terus<br />Bersama denganmu<br />Sementara kau tak peduli padaku<br />Hampir habis sudah<br />Kesabaran ini<br />Selama ini ku terlalu tahan sendiri</p><p><br />Kurang apa<br />Hidupku padamu<br />Kau yang tahu betapa<br />Besar rasa cintaku<br />Tak pernah banyak<br />Pintaku padamu<br />Ku hanya butuh kau hargai aku<br />Cukup</p><p><br />Hargai aku sebagai kekasihmu<br />Ku hanya butuh<br />Perhatian darimu<br />Tak banyak cukup itu</p><p><br />Haruskah ku terus<br />Bersama denganmu<br />Sementara kau tak peduli padaku<br />Hampir habis sudah<br />Kesabaran ini<br />Selama ini ku terlalu tahan sendiri</p><p><br />Kurang apa<br />Hidupku padamu<br />Kau yang tahu betapa<br />Besar rasa cintaku<br />Tak pernah banyak<br />Pintaku padamu<br />Ku hanya butuh kau hargai aku<br />Cukup</p>"
+	  },
+	  {
+      "id": 21,
+      "name_category": "POP VIRAL",
+      "title": "KAMU DAN KENANGAN",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "POP VIRAL",
+      "title": "KAU RUMAH",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p>Kau datang tak kala sinar senjaku telah redup<br />Dan pamit ketika purnamaku penuh seutuhnya</p><p><br />Kau yang singgah tapi tak sungguh<br />Kau yang singgah tapi tak sungguh</p><p><br />Kukira kau rumah<br />Nyatanya kau cuma aku sewa<br />Dari tubuh seorang perempuan<br />Yang memintamu untuk pulang</p><p><br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah</p><p><br />Kukira kau rumah<br />Nyatanya kau cuma aku sewa<br />Dari tubuh seorang perempuan<br />Yang memintamu untuk pulang</p><p><br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah</p><p><br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah<br />Kau bukan rumah"
+	  },
+	  {
+      "id": 23,
+      "name_category": "POP VIRAL",
+      "title": "MESIN WAKTU",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p>Kalau harus ku mengingatmu lagi<br />Aku takkan sanggup dengan yang terjadi pada kita<br />Jika melupakanmu hal yang mudah<br />Ini takkan berat, takkan membuat hatiku lelah</p><p><br />Kalah, kuakui aku kalah<br />Cinta ini pahit dan tak harus memiliki</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu lewat mesin waktu</p><p><br />Jika melupakanmu hal yang mudah<br />Ini takkan berat, takkan membuat hatiku lelah<br />Panjang perjalanan yang harus kulalui<br />Merelakanmu</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu lewat mesin waktu, ho-uh-oh</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu, oh-oh</p><p><br />Jika aku bisa, ku akan kembali<br />Ku akan merubah takdir cinta yang kupilih<br />Meskipun tak mungkin, walaupun ku mau<br />Membawa kamu lewat mesin waktu"
+	  },
+	  {
+      "id": 24,
+      "name_category": "POP VIRAL",
+      "title": "MUAK",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p>Temanku bilang aku<br />Akan baik-baik saja<br />Nyatanya sulit aku<br />Sembuh dari yang lalu<br />Awal menggebu-gebu<br />Ujungnya semua rancu</p><p><br />Tahukah sakit yang tak terobati<br />Belum sempat sembuh<br />Tertikam lagi<br />Muak aku muak</p><p><br />Katanya cinta sedalam samudra<br />Bohong nyata kita berakhir juga<br />Muak aku muak</p><p><br />Lautan disebrangi<br />Alang-alang berduri dilewati<br />Kiasan penuh makna<br />Tentang cinta sudah tak mempan lagi</p><p><br />Awal menggebu-gebu<br />Ujungnya semua rancu</p><p><br />Tahukah sakit yang tak terobati<br />Belum sempat sembuh tertikam lagi<br />Muak aku muak</p><p><br />Katanya cinta sedalam samudra<br />Bohong nyata kita berakhir juga<br />Muak aku muak</p><p><br />Tahukah sakit yang tak terobati<br />Belum sempat sembuh tertikam lagi<br />Muak aku muak</p><p><br />Katanya cinta sedalam samudra<br />Bohong nyata kita berakhir juga<br />Muak aku muak</p><p><br />Bila ujungnya berakhir juga<br />Aku muak aku muak"
+	  },
+	  {
+      "id": 25,
+      "name_category": "POP VIRAL",
+      "title": "PERAHU KERTAS",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p>Perahu kertasku 'kan melaju<br />Membawa surat cinta bagimu<br />Kata-kata yang sedikit gila<br />Tapi ini adanya</p><p><br />Perahu kertas mengingatkanku<br />Betapa ajaibnya hidup ini<br />Mencari-cari tambatan hati<br />Kau sahabatku sendiri</p><p><br />Hidupkan lagi mimpi-mimpi (cinta-cinta)<br />Cita-cita (cinta-cinta)<br />Yang lama kupendam sendiri<br />Berdua, ku bisa percaya</p><p><br />Ku bahagia<br />Kau telah terlahir di dunia<br />Dan kau ada<br />Di antara miliaran manusia<br />Dan ku bisa<br />Dengan radarku<br />Menemukanmu</p><p><br />Tiada lagi yang mampu berdiri<br />Halangi rasaku, cintaku padamu</p><p><br />Ku bahagia<br />Kau telah terlahir di dunia<br />Dan kau ada<br />Di antara miliaran manusia<br />Dan ku bisa<br />Dengan radarku<br />Menemukanmu</p><p><br />Oh, bahagia<br />Kau telah terlahir di dunia<br />Dan kau ada<br />Di antara miliaran manusia<br />Dan ku bisa<br />Dengan radarku<br />Menemukanmu"
+	  },
+	  {
+      "id": 26,
+      "name_category": "POP VIRAL",
+      "title": "RUMAH SINGGAH",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p>Saat hatimu terluka<br />Akulah yang menemanimu<br />Membasuh air matamu</p><p><br />Namun, mengapa ketika<br />Hatimu t'lah tersenyum lagi<br />Aku yang kaulupa?</p><p><br />Tak sadarkah selama ini<br />Ku juga s'lalu menginginkanmu?</p><p><br />Mengapa sulit<br />Untuk ku bisa miliki hatimu?<br />Bahkan s'lama ini<br />Hadirku tak berharga untukmu</p><p><br />Yang terjadi kini<br />Ku hanya rumah persinggahanmu di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Jika memang ini tak ada harapan<br />Mengapa aku yang harus jadi tujuan?<br />Saat hatimu terluka, aku yang jadi obatnya<br />Tanpa pernah kauhargai cinta dan kasih yang setulus ini</p><p><br />Mengapa sulit</p><p><br />Mengapa sulit<br />Untuk ku bisa miliki hatimu?<br />Bahkan s'lama ini<br />Hadirku tak berharga untukmu, ho-ho-ho</p><p><br />Yang terjadi kini<br />Ku hanya rumah persinggahanmu di saat kau terluka<br />Dan di saat semuanya reda<br />Kau menghilang begitu saja</p><p><br />Dan di saat semuanya reda<br />Kau menghilang begitu saja"
+	  },
+	  {
+      "id": 27,
+      "name_category": "POP VIRAL",
+      "title": "RUNTUH",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p>Ku terbangun lagi<br />Di antara sepi<br />Hanya pikiran yang ramai<br />Mengutuki diri<br />Tak bisa kembali<br />'Tuk mengubah alur kisah</p><p><br />Ketika mereka meminta tawa<br />Ternyata rela tak semudah kata</p><p><br />Tak perlu khawatir, ku hanya terluka<br />Terbiasa 'tuk pura-pura tertawa<br />Namun bolehkah s'kali saja ku menangis?<br />Sebelum kembali membohongi diri</p><p><br />Ketika kau lelah<br />Berhentilah dulu<br />Beri ruang, beri waktu</p><p><br />Mereka bilang, Syukurilah saja<br />Padahal rela tak semudah kata</p><p><br />Tak perlu khawatir, ku hanya terluka<br />Terbiasa 'tuk pura-pura tertawa<br />Namun bolehkah s'kali saja ku menangis?<br />Sebelum kembali membohongi diri</p><p><br />Kita hanyalah manusia yang terluka<br />Terbiasa 'tuk pura-pura tertawa<br />Namun bolehkah sekali saja ku menangis?<br />Ku tak ingin lagi membohongi diri</p><p><br />Ku ingin belajar menerima diri"
+	  },
+	  {
+      "id": 28,
+      "name_category": "POP VIRAL",
+      "title": "SEMATA KARENAMU",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "POP VIRAL",
+      "title": "SIAL",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p>Sampai saat ini tak terpikir olehku<br />Aku pernah beri rasa pada orang sepertimu<br />Seandainya sejak awal tak kuyakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai ku tahu semua akan sia-sia<br />Takkan kut'rima cinta sesaatmu</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p><p><br />Seandainya sejak awal tak kuyakinkan diriku<br />Tutur kata yang sempurna, tak sebaik yang kukira</p><p><br />Andai ku tahu semua akan sia-sia<br />Takkan kut'rima cinta sesaatmu</p><p><br />Bagaimana dengan aku terlanjur mencintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu, hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu</p><p><br />Sial-sialnya ku bertemu dengan cinta semu semu<br />Tertipu tutur dan caramu<br />Seolah cintaiku cintaiku<br />Puas kaucurangi aku Aku</p><p><br />Bagaimana dengan aku terlanjur mencintaimu Cintaimu<br />Yang datang beri harapan, lalu pergi dan menghilang<br />Tak terpikirkan olehmu terpikirkan olehmu<br />Hatiku hancur kar'namu<br />Tanpa sedikit alasan, pergi tanpa berpamitan<br />Takkan kut'rima cinta sesaatmu"
+	  },
+	  {
+      "id": 30,
+      "name_category": "POP VIRAL",
+      "title": "SISA RASA",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p>Melihatmu bahagia, satu hal yang terindah<br />Anug'rah cinta yang pernah kupunya<br />Kau buatku percaya ketulusan cinta<br />Seakan kisah sempurna 'kan tiba</p><p><br />Masih jelas teringat pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang<br />Kini hanya kenangan yang telah kau tinggalkan<br />Tak tersisa lagi waktu bersama</p><p><br />Mengapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja?<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang?<br />Tuhan, sampaikan rindu untuknya rindu untuknya</p><p><br />Masih jelas teringat jelas teringat pelukanmu yang hangat<br />Seakan semua tak mungkin menghilang menghilang<br />Kini hanya kenangan yang t'lah kau tinggalkan<br />Tak tersisa lagi waktu bersama waktu bersama</p><p><br />Mengapa masih ada<br />Sisa rasa di dada<br />Di saat kau pergi begitu saja? Begitu saja<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang?<br />Tuhan, sampaikan rindu untuknya</p><p><br />Oh, masih tersimpan<br />Setiap k?nangan, ho-wo-wo-oh<br />Semua cinta yang kau beri<br />Kau takkan terganti</p><p><br />M?ngapa masih ada masih ada<br />Sisa rasa di dada rasa di dada<br />Di saat kau pergi begitu saja?<br />Mampukah ku bertahan<br />Tanpa hadirmu, sayang<br />Tuhan, sampaikan rindu untuknya</p><p><br />Sampaikan rinduku untuknya"
+	  },
+	  {
+      "id": 31,
+      "name_category": "POP VIRAL",
+      "title": "USIK",
+      "image": "file:///android_asset/image/PV.jpg",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": ""
+	  }
+  ]
+}
