@@ -1,0 +1,324 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ A",
+      "image": "file:///android_asset/image/ADJ.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ B",
+      "image": "file:///android_asset/image/BDJ.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ A",
+      "title": "DJ TABRAK TABRAK MASUK",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "DJ A",
+      "title": "DJ DILANGIT ADA MATAHARI",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "DJ A",
+      "title": "DJ OH SAYANG NGANA INI BAGAIMANA",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "DJ A",
+      "title": "DJ SANTRI",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "DJ A",
+      "title": "DJ SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "DJ A",
+      "title": "DJ WAHDANA",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "DJ A",
+      "title": "DJ DUM DEE DUM",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "DJ A",
+      "title": "DJ ALAY GAYA ARTIS",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "DJ A",
+      "title": "DJ 4 SEKAWAN",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "DJ A",
+      "title": "DJ GOYANG GAYUNG",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "DJ A",
+      "title": "DJ MALAM PAGI",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "DJ A",
+      "title": "DJ KARNA SU SAYANG",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "DJ A",
+      "title": "DJ ASULAMA SUKA DIA",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "DJ A",
+      "title": "DJ CIKINI",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "DJ A",
+      "title": "DJ JANDA PIRANG",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "DJ A",
+      "title": "DJ AJOJING",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "DJ A",
+      "title": "DJ AIY SUSANTI",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "DJ A",
+      "title": "DJ AKU GAK MAU JAD MATAHARIMU",
+      "image": "file:///android_asset/image/ADJ.jpg",
+      "link_mp3": "mp3/TADJLI18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "DJ B",
+      "title": "DJ ALOLOLO SAYANG",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "DJ B",
+      "title": "DJ BERCANDA",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "DJ B",
+      "title": "DJ BOJO BIDUAN",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "DJ B",
+      "title": "DJ CINTAMU SEPAHIT TOPI",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "DJ B",
+      "title": "DJ DUA TAHUN NGANA SAKITNYA",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "DJ B",
+      "title": "DJ DUMES",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "DJ B",
+      "title": "DJ FUNKOT",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "DJ B",
+      "title": "DJ JIWA YANG BERSEDIH",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "DJ B",
+      "title": "DJ KIW KIW",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "DJ B",
+      "title": "DJ LOCA LOCA",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI28.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 29,
+      "name_category": "DJ B",
+      "title": "DJ MALIHI JANJI",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI29.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 30,
+      "name_category": "DJ B",
+      "title": "DJ NEMEN",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "DJ B",
+      "title": "DJ PACU JALUR",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI31.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 32,
+      "name_category": "DJ B",
+      "title": "DJ PELANGGARAN",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI32.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 33,
+      "name_category": "DJ B",
+      "title": "DJ SANES",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI33.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 34,
+      "name_category": "DJ B",
+      "title": "DJ TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI34.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 35,
+      "name_category": "DJ B",
+      "title": "DJ TIDAKKAH KAU RASAKAN",
+      "image": "file:///android_asset/image/BDJ.jpg",
+      "link_mp3": "mp3/TADJLI35.mp3",
+      "lyrics": ""
+	}
+  ]
+}
