@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ JAWA",
+      "image": "file:///android_asset/image/WA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ VIRAL",
+      "image": "file:///android_asset/image/RA.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ JAWA",
+      "title": "DJ SANES",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "DJ JAWA",
+      "title": "DJ DUMES",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "DJ JAWA",
+      "title": "DJ KISINAN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "DJ JAWA",
+      "title": "DJ NEMEN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "DJ JAWA",
+      "title": "DJ RUNGKAD",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "DJ JAWA",
+      "title": "DJ SIDO RONDO",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "DJ JAWA",
+      "title": "DJ TAMAN JURUG",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "DJ JAWA",
+      "title": "DJ MANOT",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "DJ JAWA",
+      "title": "DJ NEMU",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "DJ JAWA",
+      "title": "DJ BOJO BIDUAN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "DJ JAWA",
+      "title": "DJ JAJALEN AKU",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "DJ JAWA",
+      "title": "DJ CANDUMANI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "DJ JAWA",
+      "title": "DJ PELANGGARAN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "DJ JAWA",
+      "title": "DJ BUBRAH",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "DJ JAWA",
+      "title": "DJ GINIO",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "DJ JAWA",
+      "title": "DJ KALIH WELASKU",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "DJ JAWA",
+      "title": "DJ MACAK KELARAN",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "DJ JAWA",
+      "title": "DJ ORA ISO",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "DJ JAWA",
+      "title": "DJ RA ISO DADI SIJI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "DJ JAWA",
+      "title": "DJ RASAH BALI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "DJ JAWA",
+      "title": "DJ SADAR POSISI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "DJ JAWA",
+      "title": "DJ SAKTENANE",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "DJ JAWA",
+      "title": "DJ SALAH PILIH",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "DJ VIRAL",
+      "title": "DJ DILANGIT ADA MATAHARI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "DJ VIRAL",
+      "title": "DJ TABRAK TABRAK MASUK",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SANTRI",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "DJ VIRAL",
+      "title": "DJ OH SAYANG NGANA INI BAGAIMANA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "DJ VIRAL",
+      "title": "DJ ASULAMA SUKA DIA",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA28.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 29,
+      "name_category": "DJ VIRAL",
+      "title": "DJ CIKINI KE GONDANG",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA29.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 30,
+      "name_category": "DJ VIRAL",
+      "title": "DJ DUM DEE DUM",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "DJ VIRAL",
+      "title": "DJ KARENA SU SAYANG",
+      "image": "file:///android_asset/image/RA.jpg",
+      "link_mp3": "mp3/JADJREWA31.mp3",
+      "lyrics": ""
+	}
+  ]
+}
