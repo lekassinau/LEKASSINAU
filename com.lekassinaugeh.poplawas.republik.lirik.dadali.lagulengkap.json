@@ -1,0 +1,369 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "REPVBLIK",
+      "image": "file:///android_asset/image/POR.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DADALI",
+      "image": "file:///android_asset/image/POD.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "PAPINKA",
+      "image": "file:///android_asset/image/POP.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "REPVBLIK",
+      "title": "CINTA SEMPURNA",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO1.mp3",
+      "lyrics": "<p>Kau kau yang teramat ku cinta<br />Yang ku sayang lebih dari apapun<br />Tak sekalipun aku pernah mengingkari<br />Janji hatiku padamu</p><p><br />Maafkanlah sayang aku belum bisa<br />Memberimu emas intan dan permata<br />Seperti inilah aku adanya<br />Hanya punya cinta</p><p><br />Kau kau yang teramat ku cinta<br />Yang ku sayang lebih dari apapun<br />Tak sekalipun aku pernah mengingkari<br />Janji hatiku padamu</p><p><br />Maafkanlah sayang aku belum bisa<br />Memberimu emas intan dan permata<br />Seperti inilah aku adanya<br />Hanya punya cinta sempurna</p><p><br />Janjiku sayang suatu hari nanti<br />Ku bisa memberimu yang terbaik<br />Apapun maumu Apapun yang kau suka</p><p><br />Maafkanlah sayang aku belum bisa<br />Memberimu emas intan dan permata<br />Seperti inilah aku adanya<br />Hanya punya cinta sempurna</p><p><br />Janjiku sayang suatu hari nanti<br />Ku bisa memberimu yang terbaik<br />Apapun maumu Apapun yang kau suka</p>"
+	},
+     {
+      "id": 2,
+      "name_category": "REPVBLIK",
+      "title": "AKU TAKUT",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO2.mp3",
+      "lyrics": "<p>Katamu, cintaku berlebihan<br />Cemburuku tak beralasan<br />Membuat dirimu tak nyaman<br />Maafkan aku, sayang</p><p><br />Aku takut kehilangan dirimu<br />Aku takut, takut kehilanganmu<br />Aku takut kehilangan cintamu<br />Aku takut hidup tanpa dirimu</p><p><br />Aku tak akan bisa<br />Aku yang bisa gila<br />Bila kau pergi meninggalkanku</p><p><br />Katamu, cintaku berlebihan<br />Cemburuku tak beralasan<br />Bagaikan burung dalam sangkar<br />Maafkan aku, sayang</p><p><br />Aku takut kehilangan dirimu<br />Aku takut, takut kehilanganmu<br />Aku takut kehilangan cintamu<br />Aku takut hidup tanpa dirimu</p><p><br />Aku tak akan bisa<br />Aku yang bisa gila<br />Bila kau pergi meninggalkanku</p><p><br />Aku takut kehilangan dirimu<br />Aku takut, takut kehilanganmu<br />Aku takut kehilangan cintamu<br />Aku takut hidup tanpa dirimu</p><p><br />Aku tak akan bisa<br />Aku yang bisa gila<br />Bila kau pergi meninggalkanku</p>"
+	},
+	 {
+      "id": 3,
+      "name_category": "REPVBLIK",
+      "title": "SANDIWARA CINTA",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO3.mp3",
+      "lyrics": "<p>Aku tahu ini semua tak adil<br />Aku tahu ini sudah terjadi<br />Mau bilang apa aku pun tak sanggup<br />Air matamu tak lagi mau menetes</p><p><br />Alasannya sering kali kudengar<br />Alasannya sering kali kau ucap<br />Kau dengannya seakan ku tak tahu<br />Sandiwara apa yang telah kau lakukan<br />Kepadaku</p><p><br />Jujurlah sayang aku tak mengapa<br />Biar semua jelas tak berbeda<br />Jika nanti aku yang harus pergi<br />Kuterima walau sakit hati</p><p><br />Mungkin ini jalan yang engkau mau<br />Mungkin ini jalan yang kau inginkan<br />Kau dengannya seakan ku tak tahu<br />Sandiwara apa<br />Ceritanya apa<br />Aku tahu</p><p><br />Jujurlah sayang aku tak mengapa<br />Biar semua jelas tak berbeda<br />Jika nanti aku yang harus pergi<br />Kuterima walau sakit hati</p><p><br />Jujurlah sayang aku tak mengapa<br />Biar semua jelas tak berbeda<br />Jika nanti aku yang harus pergi<br />Kuterima walau sakit hati<br />Kuterima walau sakit hati</p>"
+	},
+	 {
+      "id": 4,
+      "name_category": "REPVBLIK",
+      "title": "SAYANG SAMPAI MATI",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO4.mp3",
+      "lyrics": "<p>Belah dada ini, lihatlah hatiku<br />Bila itu bisa yakinkanmu<br />Hidup dan matiku hanya untuk cintaku<br />Hati takkan bisa dusta</p><p><br />Aku sayang sampai mati segenap hati ini<br />Rasaku membahana, getarkan jiwa<br />Aku sayang sampai mati segenap jiwa ini<br />Biarlah kubuktikan janji hatiku</p><p><br />Belah dada ini, lihatlah hatiku<br />Bila itu bisa yakinkanmu<br />Hidup dan matiku hanya untuk cintaku<br />Hati takkan bisa dusta</p><p><br />Oh Aku sayang sampai mati segenap hati ini<br />Rasaku membahana, getarkan jiwa<br />Aku sayang sampai mati segenap jiwa ini<br />Biarlah kubuktikan janji hatiku</p><p><br />Oh Aku sayang sampai mati segenap hati ini<br />Rasaku membahana, getarkan jiwa<br />Aku sayang, sayang, sayang sampai mati<br />Biarlah kubuktikan janji hatiku<br />Aku sayang, sayang sampai mati</p>"
+	},
+	 {
+      "id": 5,
+      "name_category": "REPVBLIK",
+      "title": "SELIMUT TETANGGA",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO5.mp3",
+      "lyrics": "<p>Bersabarlah, Sayang, aku akan pulang<br />Jangan dengarkan gosip murahan tentang aku<br />Berjanjilah, Sayang, tuk slalu setia<br />Meski ku tak slalu di sampingmu</p><p><br />Tak usah menangis, meratapi aku<br />Tak perlu kau berfikir ku meninggalkanmu</p><p><br />Mana mungkin selimut tetangga<br />Hangati tubuhku dalam kedinginan<br />Malam-malam panjang, setiap tidurku<br />Slalu kesepian</p><p><br />Mana mungkin selimut tetangga<br />Hangati tubuhku dalam kedinginan<br />Malam-malam panjang, setiap tidurku<br />Slalu kesepian</p><p><br />Berjanjilah, Sayang, tuk slalu setia<br />Meski ku tak slalu di sampingmu</p><p><br />Tak usah menangis, meratapi aku<br />Tak perlu kau berfikir ku meninggalkanmu, wo-wo-oh</p><p><br />Tak usah menangis, meratapi aku<br />Tak perlu kau berfikir ku meninggalkanmu</p><p><br />Mana mungkin selimut tetangga<br />Hangati tubuhku dalam kedinginan<br />Malam-malam panjang, setiap tidurku<br />Slalu kesepian, ho-oh</p><p><br />Mana mungkin selimut tetangga<br />Hangati tubuhku dalam kedinginan<br />Malam-malam panjang, setiap tidurku<br />Slalu kesepian</p><p><br />Bersabarlah, Sayang, aku akan pulang</p>"
+	},
+	 {
+      "id": 6,
+      "name_category": "REPVBLIK",
+      "title": "AKU TETAP CINTA",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO6.mp3",
+      "lyrics": "<p>Tak perlu kata maaf dan air mata<br />Aku rela dirimu pergi<br />Aku bisa tau apa yang kau mau<br />Dengan pilihanmu</p><p><br />Hancur-hancur cintaku sakit-sakit hatiku<br />Tapi tak bisa aku menyalahkanmu<br />Inilah jalanmu inilah nasibku yang tak kusuka<br />Asal kau tahu seumur hidupku aku tetap cinta</p><p><br />Tak perlu kata maaf dan air mata<br />Aku rela dirimu pergi<br />Aku bisa tau apa yang kau mau<br />Dengan pilihanmu</p><p><br />Hancur-hancur cintaku sakit-sakit hatiku<br />Tapi tak bisa aku menyalahkanmu<br />Inilah jalanmu inilah nasibku yang tak kusuka<br />Asal kau tahu seumur hidupku aku tetap cinta</p><p><br />Hancur-hancur cintaku sakit-sakit hatiku<br />Tapi tak bisa aku menyalahkanmu<br />Inilah jalanmu inilah nasibku yang tak kusuka<br />Asal kau tahu seumur hidupku aku tetap cinta<br />Asal kau harus tahu seumur hidupku aku tetap cinta</p>"
+	},
+	 {
+      "id": 7,
+      "name_category": "REPVBLIK",
+      "title": "HANYA INGIN KAU TAU",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO7.mp3",
+      "lyrics": "<p>Ku telah miliki<br />Rasa indahnya perihku<br />Rasa hancurnya harapku<br />Kau lepas cintaku</p><p><br />Rasakan abadi<br />Sekalipun kau mengerti<br />Sekalipun kau pahami<br />Ku pikir ku salah mengertimu</p><p><br />Hoo woo aku hanya ingin kau tahu<br />Besarnya cintaku<br />Tingginya khayalku bersamamu<br />Tuk lalui waktu yang tersisa kini<br />Di setiap hariku<br />Di sisa akhir nafas hidupku</p><p><br />Walaupun semua hanya ada dalam mimpiku<br />Hanya ada dalam anganku<br />Melewati hidup</p><p><br />Rasakan abadi<br />Sekalipun kau mengerti<br />Sekalipun kau pahami<br />Ku pikir ku salah mengertimu</p><p><br />Hoo woo aku hanya ingin kau tahu<br />Besarnya cintaku<br />Tingginya khayalku bersamamu<br />Tuk lalui waktu yang tersisa kini<br />Di setiap hariku<br />Di sisa akhir nafas hidupku</p><p><br />Hoo woo aku hanya ingin kau tahu<br />Besarnya cintaku<br />Tingginya khayalku bersamamu<br />Tuk lalui waktu yang tersisa kini<br />Di setiap hariku<br />Di sisa akhir nafas hidupku</p>"
+	},
+	 {
+      "id": 8,
+      "name_category": "REPVBLIK",
+      "title": "TELAH KU BERIKAN",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO8.mp3",
+      "lyrics": "<p>Andaikan dulu ku tak pernah mencintaimu<br />Mungkin semua kan berbeda<br />Takkan pernah terjadi kisah kita</p><p><br />Andaikan dulu kau tak pernah mencintaiku<br />Mungkin semua kan berbeda<br />Takkan pernah ku rasakan luka</p><p><br />Ku biarkan semua yang telah terjadi, biarlah, biarlah<br />Ku sadari semua bahwa memang cintamu bukan untukku</p><p><br />Telah ku berikan cintaku, telah ku berikan sayangku<br />Namun nyatanya kau tak pernah bisa menerima</p><p><br />Andaikan dulu kau tak pernah mencintaiku<br />Mungkin semua kan berbeda<br />Takkan pernah ku rasakan luka</p><p><br />Biarkan semua yang telah terjadi, biarlah, biarlah<br />Ku sadari semua bahwa memang cintamu bukan untukku</p><p><br />Telah ku berikan cintaku, telah ku berikan sayangku<br />Namun nyatanya kau tak pernah bisa menerima<br />Telah ku berikan cintaku, telah ku berikan sayangku<br />Namun nyatanya kau tak pernah bisa menerima, oh-ho</p>"
+	},
+	 {
+      "id": 9,
+      "name_category": "REPVBLIK",
+      "title": "SAKIT AKU SAKIT",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO9.mp3",
+      "lyrics": "<p>Sejenak aku merenungi<br />Sehingga aku menyesali<br />Mengapa engkau mengingkari<br />Kau buat aku patah hati</p><p><br />Seandainya aku bisa<br />Kembalikan waktu<br />Tapi itu takkan bisa<br />Jika ku ulang kembali</p><p><br />Sakit aku sakit<br />Kalah ku mengalah<br />Salah aku salah<br />Sudah ku mengalah</p><p><br />Betapa aku mencintai<br />Tetapi masih kau sakiti<br />Aku tak bisa melupakan<br />Rasa sakit yang aku terima ho ho</p><p><br />Sakit aku sakit<br />Kalah ku mengalah<br />Salah aku salah<br />Sudah ku mengalah</p><p><br />Sakit aku sakit<br />Kalah ku mengalah<br />Salah aku salah<br />Sudah ku mengalah</p><p><br />Sudah ku mengalah</p>"
+	},
+	 {
+      "id": 10,
+      "name_category": "REPVBLIK",
+      "title": "AKU DAN PERASAAN INI",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO10.mp3",
+      "lyrics": "<p>Berulangkali ku yakinkan cinta ini<br />Kepadamu yang ku puja selama ini<br />Namun terus kau menghancurkan diriku<br />Cintaku jiwaku</p><p><br />Andai kau tau cara yang telah ku tempuh<br />Demi mendapatkan utuhnya hatimu<br />Sampai sampai ku pertaruhkan diriku<br />Cintaku jiwaku</p><p><br />Semoga kau mengerti<br />Aku dan perasaan ini<br />Harusnya kau sadari<br />Betapa besar cintaku ini</p><p><br />Andai kau tau cara yang telah ku tempuh<br />Demi mendapatkan utuhnya hatimu<br />Sampai sampai ku pertaruhkan diriku<br />Cintaku jiwaku</p><p><br />Semoga kau mengerti<br />Aku dan perasaan ini<br />Harusnya kau sadari<br />Betapa besar cintaku ini</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "REPVBLIK",
+      "title": "AKU YANG TERLUKA",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO11.mp3",
+      "lyrics": "<p>Separuh jiwaku pergi<br />Menyusuri bayang bayangmu<br />Dulu ada segenap harapan<br />Dulu pernah ada cinta<br />Separuh hatiku terbang<br />Bersama serpihan kenangan<br />Kini aku harus melangkah<br />Melupakan itu semua</p><p><br />Aku yang terluka<br />Bukan dirimu<br />Takkan engkau mengerti<br />Tak bisa engkau pahami<br />Namun tak mengapa<br />Karena aku yang terluka</p><p><br />Separuh nafasku terhenti<br />Saat kau melangkah pergi<br />Ada yang cinta yang tak bertepi<br />Mungkin kau hanyalah mimpi</p><p><br />Separuh sadar ku berhenti<br />Terhenyap tanpa hadirmu<br />Mungkin tak sempat kau mengerti<br />Arti saling mencintai ho ho</p><p><br />Aku yang terluka<br />Bukan dirimu<br />Takkan engkau mengerti<br />Tak bisa engkau pahami<br />Namun tak mengapa<br />Karena aku yang terluka</p><p><br />Aku yang terluka <br />Bukan dirimu <br />Takkan engkau mengerti <br />Tak bisa engkau pahami <br />Namun tak mengapa <br />Karena aku yang terluka ha</p><p><br />Aku yang terluka <br />Bukan dirimu <br />Takkan engkau mengerti <br />Tak bisa engkau pahami <br />Namun tak mengapa <br />Karena aku yang terluka</p>"
+	},
+     {
+      "id": 12,
+      "name_category": "REPVBLIK",
+      "title": "JIKA AKU MATI",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO12.mp3",
+      "lyrics": "<p>Tak bisa kah kau renungkan<br />Semua kisah tentang kita berdua<br />Saat ego mu kuasai<br />Seluruh pikiranmu ini</p><p><br />Tak bisakah kau bayangkan<br />Angkuhnya dirimu itu<br />Saat kau merasa kau raja<br />Diatas semuanya di atas semua cinta</p><p><br />Dan cobalah kau mengerti<br />Bukan hanya kau yang mencintaiku<br />Tapi aku juga disini<br />Merasakan hal yang sama pada dirimu</p><p><br />Tak bisakah kau bayangkan<br />Angkuhnya dirimu itu<br />Saat kau merasa kau raja<br />Diatas semuanya di atas semua cinta</p><p><br />Mungkin nanti jika aku mati<br />Sesalmu akan abadi<br />Rasuki pikiranmu<br />Mungkin nanti jika aku mati<br />Sesalmu akan abadi<br />Rasuki pikiranmu uo</p><p><br />Dan cobalah kau mengerti<br />Bukan hanya kau yang mencintaiku<br />Tapi aku juga disini<br />Merasakan hal yang sama pada dirimu</p><p><br />Tak bisakah kau bayangkan<br />Angkuhnya dirimu itu<br />Saat kau merasa kau raja<br />Diatas semuanya di atas semua cinta</p><p><br />Mungkin nanti jika aku mati<br />Sesalmu akan abadi<br />Rasuki pikiranmu<br />Mungkin nanti jika aku mati<br />Sesalmu akan abadi<br />Rasuki pikiranmu oh</p><p><br />Mungkin nanti jika aku mati<br />Sesalmu akan abadi<br />Rasuki pikiranmu<br />Mungkin nanti jika aku mati<br />Sesalmu akan abadi<br />Rasuki pikiranmu oh</p>"
+	},
+	 {
+      "id": 13,
+      "name_category": "REPVBLIK",
+      "title": "KASIH DENGARKANLAH",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO13.mp3",
+      "lyrics": "<p>Kasihku, dengarkanlah<br />Ingin kubicara<br />Tentang apa arti cinta<br />Yang t'lah kita rasa</p><p><br />Cinta bukanlah sekedar<br />Pengorbanan semata<br />Tapi, cinta punya rasa<br />Yang mengalahkan s'galanya</p><p><br />Biar kuungkapkan cinta<br />Walau cinta itu hampa<br />Hanya satu kubuktikan semua<br />Oh-wo, sayangku</p><p><br />Abadi semua rasa<br />Tulus di hatiku<br />Kau temani malam pekat<br />Berikan aku cahaya</p><p><br />Biar kuungkapkan cinta<br />Walau cinta itu hampa<br />Hanya satu kubuktikan semua<br />Oh-wo, sayangku</p><p><br />Biar kuungkapkan cinta<br />Walau cinta itu hampa<br />Hanya satu kubuktikan semua<br />Oh-wo, sayangku</p><p><br />Kau beri, kau rasa<br />Semua 'kan nyata<br />Kau beri, kau rasa<br />Semua 'kan nyata</p><p><br />Biar kuungkapkan cinta<br />Walau cinta itu hampa<br />Hanya satu kubuktikan semua<br />Oh-wo, sayangku</p><p><br />Biar kuungkapkan cinta<br />Walau cinta itu hampa<br />Hanya satu kubuktikan semua<br />Oh-wo, sayangku</p>"
+	},
+	 {
+      "id": 14,
+      "name_category": "PAPINKA",
+      "title": "BERTAHAN",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO14.mp3",
+      "lyrics": "<p>Ku takkan tangisi kisah cinta ini<br />Meski kau lukai perasaan ini<br />Ku akan selalu mencintaimu</p><p><br />Karena ku yakin tulus cinta ini<br />Tak akan terganti meski tak terbalas<br />Ku akan selalu ada untukmu</p><p><br />Apa pun yang terjadi<br />Ku terima semua sikapmu</p><p><br />Ku kan tetap bertahan denganmu<br />Apa pun yang engkau lakukan<br />Meski luka ku simpan di dalam hatiku<br />Akan tetap bertahan denganmu</p><p><br />Karena ku yakin tulus cinta ini<br />Tak akan terganti meski tak terbalas<br />Ku akan selalu mencintaimu<br />Apa pun yang terjadi<br />Ku terima semua sikapmu</p><p><br />Ku kan tetap bertahan denganmu<br />Apapun yang engkau lakukan<br />Meski luka ku simpan di dalam hatiku</p><p><br />Akan tetap bertahan<br />Ku kan tetap bertahan denganmu<br />Apa pun yang engkau lakukan<br />Meski luka ku simpan di dalam hatiku<br />Akan tetap bertahan denganmu</p>"
+	},
+	 {
+      "id": 15,
+      "name_category": "PAPINKA",
+      "title": "CINTA DAN LUKA",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO15.mp3",
+      "lyrics": "<p>Betapa hancur hatiku<br />Bila ku mengingat kamu<br />Tiada kusangka teganya dirimu<br />Kau khianati cintaku</p><p><br />Bagaimana caranya untuk<br />Melupakan tentang kamu<br />Agar tak terus merasa rindu<br />Rindu yang terus mengganggu</p><p><br />Kini cintaku berubah benci kepadamu<br />Maafkan aku tak lagi menginginkamu</p><p><br />Kau berikan cinta<br />Tapi kau juga memberi luka<br />Luka yang buatku menyatakan<br />Keinginan tak ingin bertahan</p><p><br />Tak pernah ku minta<br />Kau beralih mencintai dia<br />Kurang apa harus bagaimana semestinya<br />Agar bisa buatmu bahagia</p><p><br />Bagaimana caranya untuk<br />Melupakan tentang kamu<br />Agar tak terus merasa rindu<br />Rindu yang terus mengggangu</p><p><br />Kini cintaku berubah benci kepadamu<br />Maafkan aku tak lagi menginginkamu</p><p><br />Kau berikan cinta<br />Tapi kau juga memberi luka<br />Luka yang buatku menyatakan<br />Keinginan tak ingin bertahan</p><p><br />Tak pernah ku minta<br />Kau beralih mencintai dia<br />Kurang apa harus bagaimana semestinya<br />Agar bisa buatmu bahagia</p><p><br />Kau berikan cinta<br />Tapi kau juga memberi luka<br />Kurang apa harus bagaimana semestinya<br />Agar bisa buatmu bahagia</p>"
+	},
+	 {
+      "id": 16,
+      "name_category": "PAPINKA",
+      "title": "DIMANA HATIMU",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO16.mp3",
+      "lyrics": "<p>Inilah akhir cintaku, inilah akhir kisahku<br />Setelah kau jauh tinggalkan aku<br />Tak bisa ku melupakanmu, tak bisa aku tanpamu<br />Tak pernah aku rela kau tinggalkan aku</p><p><br />Tiada ku sangka engkau berubah<br />Ku tak percaya kau membagi cinta<br />Tahukah engkau betapa sakitnya<br />Kau membagi cinta karna dia</p><p><br />Tak pernah ku coba melupakanmu<br />Mengapa kau buat luka hatiku<br />Sekian lama aku menunggu<br />Kasih dimana hatimu</p><p><br />Tak bisa ku coba melupakanmu<br />Mengapa kau buat luka hatiku<br />Sekian lama aku menunggu<br />Kasih dimana hatimu</p><p><br />Tak bisa ku melupakanmu<br />Tak bisa aku tanpamu</p><p><br />Tak pernah aku rela<br />Kau tinggalkan aku</p><p><br />Tiada ku sangka engkau berubah<br />Ku tak percaya kau membagi cinta<br />Tahukah engkau betapa sakitnya<br />Kau membagi cinta karna dia</p><p><br />Tak pernah ku coba melupakanmu<br />Mengapa kau buat luka hatiku<br />Sekian lama aku menunggu<br />Kasih dimana hatimu</p><p><br />Tak bisa ku coba melupakanmu<br />Mengapa kau buat luka hatiku<br />Sekian lama aku menunggu<br />Kasih dimana hatimu</p>"
+	},
+	 {
+      "id": 17,
+      "name_category": "PAPINKA",
+      "title": "HITUNGAN CINTA",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO17.mp3",
+      "lyrics": "<p>satu tambah satu dikurang satu, itulah cintaku<br />dua dikurang satu cintaku untukmu<br />bila ada cinta datang padaku janganlah cemburu<br />karena ku takkan selingkuh, ku kan setia padamu</p><p><br />satu cinta hanya untuk kamu saja<br />satu cinta takkan terbagi dua<br />karena cintaku bukan cinta biasa<br />karena cinta aku bisa gila</p><p><br />kalau kau tak percaya cintaku belahlah dadaku<br />sungguh ku cinta padamu, honey i love you ooh</p><p><br />satu cinta hanya untuk kamu saja<br />satu cinta takkan terbagi dua<br />karena cintaku bukan cinta biasa<br />karena cinta aku bisa gila</p><p><br />satu cinta hanya untuk kamu saja<br />satu cinta takkan terbagi dua<br />karena cintaku bukan cinta biasa<br />karena cinta aku bisa gila</p><p><br />ow ow ow ow ow ow ow ow oh honey ku cinta padamu<br />ow ow ow ow ow ow ow ow oh honey ku sayang padamu</p><p><br />satu cinta hanya untuk kamu saja<br />satu cinta takkan terbagi dua<br />karena cintaku bukan cinta biasa<br />karena cinta aku bisa gila</p><p><br />satu cinta hanya untuk kamu saja<br />satu cinta takkan terbagi dua<br />karena cintaku bukan cinta biasa<br />karena cinta aku bisa gila</p>"
+	},
+	 {
+      "id": 18,
+      "name_category": "PAPINKA",
+      "title": "KATAKAN PADAKU",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO18.mp3",
+      "lyrics": "<p>sudah katakan saja yang sejujurnya, yang sebenarnya<br />bicaralah, katakan padaku<br />bila aku bertanya, tanya mengapa engkau berubah<br />bicaralah, katakan padaku</p><p><br />aaa ku tanya padamu<br />aaa katakan padaku oooh</p><p><br />pernahkah kau coba memahamiku<br />pernahkah kau coba pedulikanku<br />ku lelah semua dengan caramu kepadaku</p><p><br />ku tanya mengapa engkau membisu<br />coba engkau ungkapkan isi hatimu<br />ku lelah mencoba semua, segala cara</p><p><br />aaa ku tanya padamu<br />aaa katakan padaku</p><p><br />pernahkah kau coba memahamiku<br />pernahkah kau coba pedulikanku<br />ku lelah semua dengan caramu kepadaku</p><p><br />ku tanya mengapa engkau membisu<br />coba engkau ungkapkan isi hatimu<br />ku lelah mencoba semua, segala cara</p>"
+	},
+	 {
+      "id": 19,
+      "name_category": "PAPINKA",
+      "title": "KAU PILIH DIA",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO19.mp3",
+      "lyrics": "<p>dalam hidupku<br />rela untuk bertahan dengan dirimu<br />sungguh terlalu<br />kau sakiti diriku, tinggalkan aku</p><p><br />haruskah ku melupakan dirimu<br />di dalam hidupku<br />namun aku tak akan pernah mampu<br />ku mencintaimu</p><p><br />mengertilah sesungguhnya<br />bila kau memilih dia<br />ku tak bisa, ku tak rela<br />ku pasti terluka</p><p><br />karena dia yang kau cinta<br />kini semua berbeda<br />kau dan dia bahagia<br />hatiku terluka</p><p><br />tulus cintaku tak berarti bagimu, bodohnya aku<br />sungguh terlalu kau sakiti diriku, tinggalkan aku<br />haruskah ku melupakan dirimu di dalam hidupku<br />namun aku tak akan pernah mampu, ku mencintaimu</p><p><br />mengertilah sesungguhnya bila kau memilih dia<br />ku tak bisa, ku tak rela, ku pasti terluka<br />karena dia yang kau cinta kini semua berbeda<br />kau dan dia bahagia, hatiku terluka</p><p><br />mengertilah sesungguhnya bila kau memilih dia<br />ku tak bisa, ku tak rela, ku pasti terluka<br />karena dia yang kau cinta kini semua berbeda<br />kau dan dia bahagia, hatiku terluka</p>"
+	},
+	 {
+      "id": 20,
+      "name_category": "PAPINKA",
+      "title": "LUKA HATIKU",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO20.mp3",
+      "lyrics": "<p>lelah ku terdiam<br />melihat kelakuanmu<br />kau permainkanku<br />sesuka hatimu</p><p><br />lelah hati ini<br />menahan kepedihanku<br />apa kau merasa<br />yang aku rasakan</p><p><br />menangisku<br />saat mendengar kau dengannya<br />terluka hatiku<br />tersiksa batinku</p><p><br />teganya kau permainkan hatiku<br />teganya kau buat ku menangis<br />aku yang selalu mencintaimu<br />sampai akhir hidupku</p><p><br />teganya kau permainkan hatiku<br />teganya kau buat ku menangis<br />aku akan pergi dari hidupmu<br />walau sakit hatiku</p><p><br />lelah hati ini<br />menahan kepedihanku<br />apa kau merasa<br />yang aku rasakan</p><p><br />menangisku<br />saat mendengar kau dengannya<br />terluka hatiku<br />tersiksa batinku</p><p><br />teganya kau permainkan hatiku<br />teganya kau buat ku menangis<br />aku yang selalu mencintaimu<br />sampai akhir hidupku</p><p><br />teganya kau permainkan hatiku<br />teganya kau buat ku menangis<br />aku akan pergi dari hidupmu<br />walau sakit hatiku</p><p><br />teganya kau permainkan hatiku<br />teganya kau buat ku menangis<br />aku akan pergi dari hidupmu<br />walau sakit hatiku</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "PAPINKA",
+      "title": "MASIH MENCINTAKINYA",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO21.mp3",
+      "lyrics": "<p>Jika teringat tentang dirimu<br />Berlinang air mataku<br />Ku rindu saat-saat bersamamu<br />Kasih sayangmu padaku</p><p><br />Kini kau bukan milikku<br />Dan berakhir sudah cintaku<br />Biarkan saja hatiku bicara<br />Ku masih sayang padamu</p><p><br />Aku selalu mendoakanmu<br />Agar kau bahagia<br />Bersama dirinya selamanya</p><p><br />Mengapa mudahnya hatimu mendua<br />Ku lapangkan dada walau aku terluka<br />Semoga bahagia bersama dirinya<br />Karena kau telah memilih dia</p><p><br />Betapa sakitnya apa yang ku rasa<br />Tuhan kuatkanlah hatiku yang terluka<br />Semoga ku bisa tuk melupakannya<br />Karena ku masih mencintainya</p><p><br />Kini kau bukan milikku<br />Dan berakhir sudah cintaku<br />Biarkan saja hatiku bicara<br />Ku masih sayang padamu</p><p><br />Aku selalu mendoakanmu<br />Agar kau bahagia<br />Bersama dirinya selamanya<br />wooo wooo</p><p><br />Mengapa mudahnya hatimu mendua<br />Ku lapangkan dada walau aku terluka<br />Semoga bahagia bersama dirinya<br />Karena kau telah memilih dia</p><p><br />Betapa sakitnya apa yang ku rasa<br />Tuhan kuatkanlah hatiku yang terluka<br />Semoga ku bisa tuk melupakannya<br />Karena ku masih mencintainya</p>"
+	},
+     {
+      "id": 22,
+      "name_category": "PAPINKA",
+      "title": "SAMPAI HATIMU",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO22.mp3",
+      "lyrics": "<p>Cinta ini yang kau berikan<br />Namun sakit yang kurasakan<br />Kau permainkan Engkau lupakan<br />Itu yang kau lakukan</p><p><br />Hingga kini ku merasakan<br />Sakit hati yang kau berikan<br />Ciba bertahan Terus bertahan<br />Apa yang ku rasakan</p><p><br />Sakit Sungguh sakit rasa hati ini<br />Kini Kau telah pergi dan takkan kembali</p><p><br />Sampai hatimu Permainkan diriku<br />Mencintaimu Sungguh aku tak mampu<br />Telah kucoba Untuk melupakanmu<br />Sulit bagiku Sungguh aku tak mampu</p><p><br />Hingga kini ku merasakan<br />Sakit hati yang kau berikan<br />Ciba bertahan Terus bertahan<br />Apa yang ku rasakan</p><p><br />Sakit Sungguh sakit rasa hati ini<br />Kini Kau telah pergi dan takkan kembali</p><p><br />Sampai hatimu Permainkan diriku<br />Mencintaimu Sungguh aku tak mampu<br />Telah kucoba Untuk melupakanmu<br />Sulit bagiku Sungguh aku tak mampu</p><p><br />Sampai hatimu Permainkan diriku<br />Mencintaimu Sungguh aku tak mampu<br />Telah kucoba Untuk melupakanmu<br />Sulit bagiku Sungguh aku tak mampu</p><p><br />Sungguh aku tak mampu</p>"
+	},
+	 {
+      "id": 23,
+      "name_category": "PAPINKA",
+      "title": "PURA PURA CINTA",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "REPVBLIK",
+      "title": "SESAKIT SAKITNYA",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO24.mp3",
+      "lyrics": "<p>mungkin ini sudah suratan nasibku<br />selalu terkhianati cinta<br />takkan kubisa membenci dirimu</p><p><br />selalu ku maafkan kamu</p><p><br />setega teganya kamu<br />sesakit sakitnya aku<br />hatiku selalu setia</p><p><br />sakitnya hati ini bagai tertusuk duri<br />terbakar bara api, sakit sakit lagi<br />sesakit sakitnya hatiku ini<br />tapi cinta tak bisa mati</p><p><br />mungkin ini sudah suratan nasibku<br />selalu terkhianati cinta<br />takkan kubisa membenci dirimu<br />selalu k maafkan kamu</p><p><br />setega teganya kamu<br />sesakit sakitnya aku<br />hatiku selalu setia</p><p><br />sakitnya hati ini bagai tertusuk duri<br />terbakar bara api, sakit sakit lagi<br />sesakit sakitnya hatiku ini<br />tapi cinta tak bisa mati, oh</p><p><br />sakitnya hati ini bagai tertusuk duri<br />terbakar bara api, sakit sakit lagi<br />sesakit sakitnya hatiku ini<br />tapi cinta tak bisa mati<br />sesakit sakitnya hatiku ini<br />tapi cinta tak bisa mati</p>"
+	},
+	 {
+      "id": 25,
+      "name_category": "REPVBLIK",
+      "title": "SIMPAN HATIMU",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO25.mp3",
+      "lyrics": "<p>Saat kulepas semua keinginan<br />Bersama kamu dalam keheningan</p><p><br />Kupertanyakan apa arti cinta<br />Begitu saja kau hanyut terdiam<br />Sungguh sakit hati ini<br />Kau permainkan aku</p><p><br />Sepintar apa pun engkau menutupi<br />Tentang dia simpanan hatimu<br />Sebodoh apa pun aku akan tahu<br />Karena hati cuma satu<br />Dan jangan pernah kau bagi-bagi</p><p><br />Sepintar apa pun engkau menutupi<br />Tentang dia simpanan hatimu<br />Sebodoh apa pun aku akan tahu<br />Karena hati cuma satu</p><p><br />Dan jangan pernah kau bagi-bagi<br />Sepintar apa pun engkau menutupi<br />Tentang dia simpanan hatimu<br />Sebodoh apa pun aku akan tahu<br />Karnea hati cuma satu<br />Karena hati cuma satu<br />Dan jangan pernah kau bagi-bagi</p>"
+	},
+	 {
+      "id": 26,
+      "name_category": "REPVBLIK",
+      "title": "TIADA GUNA LAGI",
+      "image": "file:///android_asset/image/POR.jpg",
+      "link_mp3": "mp3/DALAREPO26.mp3",
+      "lyrics": "<p>Tiada guna lagi mengharapmu untuk kumiliki<br />Takkan ada lagi kesempatanku tuk kembali<br />Gemuruh cintaku segenggam maafku<br />Takkan mungkin bisa menggantikan salahku</p><p><br />Bagaimana lagi bila itu yang harus terjadi<br />Dengan besar hati kan ku terima semua ini<br />Kau buat diriku terbunuh cintamu<br />Apalah dayaku ini memang salahku</p><p><br />Oh akankah terulang kembali<br />Masa masa kita yang dulu ada<br />Oh ku akui memang ku salah<br />Tak berada di dekatmu di saat kau rindu</p><p><br />Bagaimana lagi bila itu yang harus terjadi<br />Dengan besar hati kan ku terima semua ini<br />Kau buat diriku terbunuh cintamu<br />Apalah dayaku ini memang salahku ho</p><p><br />Oh akankah terulang kembali<br />Masa masa kita yang dulu ada<br />Oh ku akui memang ku salah<br />Tak berada di dekatmu di saat kau rindu ho</p><p><br />Oh akankah terulang kembali<br />Masa masa kita yang dulu ada<br />Oh ku akui memang ku salah<br />Tak berada di dekatmu di saat kau rindu</p>"
+	},
+	 {
+      "id": 27,
+      "name_category": "DADALI",
+      "title": "DISAAT AKU TERSAKITI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO27.mp3",
+      "lyrics": "<p>Tak kusangka dirimu berdusta<br />Menduakan cintaku selama ini<br />Saat diriku jauh darimu<br />Kau bermain cinta di belakangku</p><p><br />Tak sadarkah dirimu, sayang?<br />Kau telah melukai hatiku<br />Saat kulihat dengan mataku<br />Kau bercumbu mesra bersamanya</p><p><br />Sayang, terima kasih 'tuk semua<br />Selama ini kau telah menyakitiku<br />Kuterima semua keputusanmu<br />Di dalam hidupku</p><p><br />Sayang, jaga jiwa dan ragamu<br />Walau dirimu tak lagi bersamaku<br />Cukup aku yang kamu sakiti<br />Di dalam hidupmu</p><p><br />Tak sadarkah dirimu, sayang?<br />Kau telah melukai hatiku<br />Saat kulihat dengan mataku<br />Kau bercumbu mesra bersamanya</p><p><br />Sayang, terima kasih 'tuk semua<br />Selama ini kau telah menyakitiku<br />Kuterima semua keputusanmu<br />Di dalam hidupku</p><p>&nbsp;</p><p>Sayang, jaga jiwa dan ragamu<br />Walau dirimu tak lagi bersamaku<br />Cukup aku yang kamu sakiti<br />Di dalam hidupmu</p><p><br />Sayang, terima kasih 'tuk semua<br />Selama ini kau telah menyakitiku<br />Kuterima semua keputusanmu<br />Di dalam hidupku</p><p><br />Sayang, jaga jiwa dan ragamu<br />Walau dirimu tak lagi bersamaku<br />Cukup aku yang kamu sakiti<br />Di dalam hidupmu</p>"
+	},
+	 {
+      "id": 28,
+      "name_category": "DADALI",
+      "title": "DISAAT AKU PERGI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO28.mp3",
+      "lyrics": "<p>Biarlah Aku pergi<br />Jangan lagi Kau tangisi<br />Semoga plihanmu<br />Yang terbaik untukmu</p><p><br />Memang berat bagiku<br />Berpisah Dengamu<br />Tapi harus Ku relakan<br />Cinta tak bisa dipaksakan</p><p><br />Mungkin kau bukan cinta Sejatiku<br />Mungkin kau bukan belahan Jiwaku<br />Yang diturunkan Tuhan tuk Menjadi<br />Pendamping hidupku</p><p><br />Mungkin kau bukan cinta Sejatiku<br />Mungkin kau bukan belahan Jiwaku<br />Yang diturunkan Tuhan tuk menjadi<br />Pendamping hidupku</p><p><br />Memang berat bagiku<br />Berpisah Denganmu<br />Tapi harus Ku relakan<br />Cinta tak bisa Dipaksakan</p><p><br />Mungkin kau bukan cinta Sejatiku<br />Mungkin kau bukan belahan Jiwaku<br />Yang diturunkan Tuhan tuk menjadi<br />Pendamping hidupku</p><p><br />Mungkin kau bukan cinta Sejatiku<br />Mungkin kau bukan belahan Jiwaku<br />Yang diturunkan Tuhan tuk Menjadi<br />Pendamping hidupku</p><p><br />Sudahlah jangan menangis<br />Sudahlah jangan bersedih<br />Mungkin benar apa katamu<br />Ku bukan cinta sejatimu</p><p><br />Mungkin kau bukan cinta Sejatiku<br />Mungkin kau bukan Belahan Jiwaku<br />Yang diturunkan Tuhan tuk Menjadi<br />Pendamping hidupku</p><p><br />Mungkin kau bukan cinta Sejatiku<br />Mungkin kau bukan belahan Jiwaku<br />Yang diturunkan Tuhan tuk menjadi<br />Pendamping hidupku</p>"
+	},
+	 {
+      "id": 29,
+      "name_category": "DADALI",
+      "title": "DISAAT SENDIRI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO29.mp3",
+      "lyrics": "<p>Hari demi hari telah ku lewati<br />Tak pernah aku bersamamu lagi<br />Tak pernah aku menduga<br />Kau akan pergi tinggalkan aku</p><p><br />Jauh kau pergi tinggalkan diriku<br />Sepi hati ini membunuhku<br />Ku coba untuk cari penggantimu<br />Namun tak ada yang sepertimu</p><p><br />Rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku terbangun dari tidurku</p><p><br />Rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku sendiri</p><p><br />ooh Jauh kau pergi tinggalkan diriku<br />Sepi hati ini membunuhku<br />Ku coba untuk cari penggantimu<br />Namun tak ada yang sepertimu</p><p><br />Rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku terbangun dari tidurku</p><p><br />Rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku sendiri</p><p><br />rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku terbangun dari tidurku</p><p><br />Ooh rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku terbangun dari tidurku<br />Rindu aku, sangat rindu kamu<br />Terasa sejak kau masih ada di dekatku<br />Tak mudah aku melupakan dirimu<br />Di saat aku sendiri</p>"
+	},
+	 {
+      "id": 30,
+      "name_category": "DADALI",
+      "title": "DISAAT PATAH HATI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO30.mp3",
+      "lyrics": "<p>kurasakan hidup tak berarti<br />setelah kau ingkari janji suci<br />yang selama ini engkau beri<br />tuk setia sampai akhir nanti</p><p><br />perih saat menyayat hati ini</p><p><br />melihat engkau yang aku cintai<br />berpindah ke lain hati lagi<br />setelah kau dapatkan hatiku</p><p><br />betapa perih rasa hati ini<br />inikah yang namanya patah hati<br />ku hanya bisa menangis sedih<br />tuk bisa ikhlaskan kau pergi</p><p><br />betapa perih rasa hati ini<br />inikah yang namanya patah hati<br />ku hanya bisa menangis sedih<br />tuk bisa ikhlaskan kau pergi</p><p><br />perih saat menyayat hati ini<br />melihat engkau yang aku cintai<br />berpindah ke lain hati lagi<br />setelah kau dapatkan hatiku</p><p><br />betapa perih rasa hati ini<br />inikah yang namanya patah hati<br />ku hanya bisa menangis sedih<br />tuk bisa ikhlaskan kau pergi</p><p><br />betapa perih rasa hati ini<br />inikah yang namanya patah hati<br />ku hanya bisa menangis sedih<br />tuk bisa ikhlaskan kau pergi</p><p><br />maaf bila ku harus pergi<br />maaf bila ku menyakiti<br />namun hati harus memilih<br />tak mungkin bisa ku kembali</p><p><br />hoo betapa perih rasa hati ini<br />inikah yang namanya patah hati<br />ku hanya bisa menangis sedih<br />tuk bisa ikhlaskan kau pergi</p><p><br />betapa perih rasa hati ini<br />inikah yang namanya patah hati<br />ku hanya bisa menangis sedih<br />tuk bisa ikhlaskan kau pergi</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "DADALI",
+      "title": "CINTA YANG TERSAKITI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO31.mp3",
+      "lyrics": "<p>Mungkin ini memang takdirku<br />Mencintai harus tersakiti<br />Setelah sekian lama aku<br />Mengasihi dan menyayangmu</p><p><br />Sungguh aku tak mengerti<br />Mengapa kau tinggalkanku pergi<br />Setelah semua ku lakukan<br />Apa maumu ku berikan</p><p><br />Mudahnya kau melupakan aku<br />Setelah kau dapat pengganti aku<br />Bila saja kau rasakan sepertiku<br />Mungkin kau tak sejahat itu</p><p><br />Dan mudahnya kau bilang padaku<br />Lupakanlah kenangan bersamamu<br />Coba saja kau yang menjadi aku<br />Mungkin kau tak sejahat itu</p><p><br />Sungguh aku tak mengerti<br />Mengapa kau tinggalkanku pergi<br />Setelah semua ku lakukan<br />Apa maumu ku berikan</p><p><br />Mudahnya kau melupakan aku<br />Setelah kau dapat pengganti aku<br />Bila saja kau rasakan sepertiku<br />Mungkin kau tak sejahat itu</p><p><br />Dan mudahnya kau bilang padaku<br />Lupakanlah kenangan bersamamu<br />Coba saja kau yang menjadi aku<br />Mungkin kau tak sejahat itu</p><p><br />Dan mudahnya kau bilang padaku<br />Lupakanlah kenangan bersamamu<br />Coba saja kau yang menjadi aku<br />Mungkin kau tak sejahat itu</p><p><br />Dan mudahnya kau bilang padaku<br />Lupakanlah kenangan bersamamu<br />Coba saja kau yang menjadi aku<br />Mungkin kau tak sejahat itu</p>"
+	},
+     {
+      "id": 32,
+      "name_category": "DADALI",
+      "title": "CINTAKU SANGAT LUAR BIASA",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO32.mp3",
+      "lyrics": "<p>masih ku ingat semua<br />janji yang pernah kau ucap<br />kau tak akan pernah meninggalkan diriku</p><p><br />namun semua berubah<br />saat kau kenal dengannya<br />seringkali kamu menyakiti hatiku</p><p><br />kemanakah hatimu yang dahulu<br />yang selalu mencintai aku<br />dimanakah dirimu yang dahulu<br />yang selalu menyayangi aku</p><p><br />aku memang tak seperti dia<br />yang sempurna dan punya segalanya<br />tapi aku hanya punya cinta<br />cintaku hanya untukmu saja</p><p><br />aku memang manusia biasa<br />yang tak sempurna dan terkadang salah<br />namun di hatiku hanya satu<br />cintaku yang sangat luar biasa</p><p><br />namun semua berubah<br />saat kau kenal dengannya<br />seringkali kamu menyakiti hatiku</p><p><br />kemanakah hatimu yang dahulu<br />yang selalu mencintai aku<br />dimanakah dirimu yang dahulu<br />yang selalu menyayangi aku</p><p><br />aku memang tak seperti dia<br />yang sempurna dan punya segalanya<br />tapi aku hanya punya cinta<br />cintaku hanya untukmu saja</p><p><br />aku memang manusia biasa<br />yang tak sempurna dan terkadang salah<br />namun di hatiku hanya satu<br />cintaku yang sangat luar biasa</p><p><br />maafkan bila ku menyakitimu<br />karena dia pilihan hatiku<br />ku ingin yang terbaik untukmu<br />kau bukanlah cinta sejatiku</p><p><br />aku memang tak seperti dia<br />yang sempurna dan punya segalanya<br />tapi aku hanya punya cinta<br />cintaku hanya untukmu saja</p><p><br />aku memang manusia biasa<br />yang tak sempurna dan terkadang salah<br />namun di hatiku hanya satu<br />cintaku yang sangat luar biasa</p>"
+	},
+	 {
+      "id": 33,
+      "name_category": "DADALI",
+      "title": "MENDUA",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO33.mp3",
+      "lyrics": "<p>Hancur sudah hatiku,<br />Ketika ku melihatmu<br />Kau yang berjalan dengan cinta yang lain<br />Sedih hatiku<br />Tak pernah kau fikirkan<br />Perasaanku padamu<br />Kau selalu mendua,<br />Kau tak pernah berubah Kau tinggalkan aku</p><p><br />Perasaan ini takkan pernah bisa ku ingkari<br />Betapa sakitnya hati ini kau dustai<br />Biarkanlah semua ini menjadi kisah cintaku<br />Ku yakini suatu saat nanti<br />Kau kan mengerti<br />Tak pernah kau fikirkan<br />Perasaanku padamu<br />Kau selalu mendua,<br />Kau tak pernah berubah Kau tinggalkan aku</p><p><br />Perasaan ini takkan pernah bisa ku ingkari<br />Betapa sakitnya hati ini kau dustai<br />Biarkanlah semua ini menjadi kisah cintaku<br />Ku yakini suatu saat nanti<br />Kau kan mengerti<br />Perasaan ini takkan pernah bisa lagi ku ingkari<br />Ku yakini suatu saat nanti<br />Kau kan mengerti<br />Ouho Mengerti <br />Ouho Mengerti</p>"
+	},
+	 {
+      "id": 34,
+      "name_category": "DADALI",
+      "title": "CINTA JANGAN KAU PERGI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO34.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 35,
+      "name_category": "DADALI",
+      "title": "KASIH SAYANGILAH AKU",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO35.mp3",
+      "lyrics": "<p>sungguh kau sangat menyiksaku<br />kelakuanmu selalu menyakiti aku<br />entah salah apa diriku padamu<br />padahal ku slalu ikuti maumu</p><p><br />sakit rasanya hatiku<br />bila kau terus kasar memperlakukanmu<br />aku bisa pergi meninggalkan dirimu<br />bila caramu terus kasari aku</p><p><br />kasih aku mohon sadarlah dirimu<br />jangan jangan terus kau sakiti aku<br />jangan sampai aku membenci dirimu<br />dan meninggalkanmu</p><p><br />kasih aku mohon sayangilah aku<br />setulus hatimu mencintai aku<br />aku sudah bosan bertengkar selalu<br />dengan dirimu</p><p><br />sakit rasanya hatiku<br />bila kau terus kasar memperlakukanmu<br />aku bisa pergi meninggalkan dirimu<br />bila caramu terus kasari aku</p><p><br />kasih aku mohon sadarlah dirimu<br />jangan jangan terus kau sakiti aku<br />jangan sampai aku membenci dirimu<br />dan meninggalkanmu</p><p><br />kasih aku mohon sayangilah aku<br />setulus hatimu mencintai aku<br />aku sudah bosan bertengkar selalu<br />dengan dirimu</p><p><br />kasih dengarkanlah aku<br />maafkanlah perlakuanku<br />takkan ku ulangi<br />ku mencintaimu, wohowo.</p><p><br />kasih aku mohon sadarlah dirimu<br />jangan jangan terus kau sakiti aku<br />jangan sampai aku membenci dirimu<br />dan meninggalkanmu</p><p><br />kasih aku mohon sayangilah aku<br />setulus hatimu mencintai aku<br />aku sudah bosan bertengkar selalu<br />dengan dirimu</p><p><br />aku sudah bosan bertengkar selalu<br />dengan dirimu</p>"
+	},
+	 {
+      "id": 36,
+      "name_category": "DADALI",
+      "title": "KU TAK PANTAS DISURGA",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO36.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 37,
+      "name_category": "DADALI",
+      "title": "AKU YANG TERSAKITI",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO37.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 38,
+      "name_category": "DADALI",
+      "title": "SAKIT TERAMAT SAKIT",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO38.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 39,
+      "name_category": "DADALI",
+      "title": "SESALI KEPUTUSANKU",
+      "image": "file:///android_asset/image/POD.jpg",
+      "link_mp3": "mp3/DALAREPO39.mp3",
+      "lyrics": "<p>mungkin sekarang aku mulai merasa<br />merasa salah aku putuskan cintamu<br />kini aku sepi sendiri<br />tak pernah kau disisiku lagi</p><p><br />tak pernah aku temui<br />seseorang yang bisa gantikan dirimu<br />lelah aku mencari cari<br />tak pernah kau ku temui lagi</p><p><br />andai ku bisa tuk memutar waktu<br />takkan pernah ku putuskan cintamu<br />hanya dirimu yang mengerti aku<br />tak ada yang lain</p><p><br />andai ku bisa tuk memutar waktu<br />takkan pernah ku putuskan cintamu<br />hanya dirimu yang mengerti aku<br />tak ada yang lain</p><p><br />hoo tak pernah aku temui<br />seseorang yang bisa gantikan dirimu<br />lelah aku mencari cari<br />tak pernah kau ku temui lagi</p><p><br />andai ku bisa tuk memutar waktu<br />takkan pernah ku putuskan cintamu<br />hanya dirimu yang mengerti aku<br />tak ada yang lain</p><p><br />andai ku bisa tuk memutar waktu<br />takkan pernah ku putuskan cintamu<br />hanya dirimu yang mengerti aku<br />tak ada yang lain, wooo</p><p><br />jangan kau sesali keputusanmu<br />aku takkan kembali kepadamu<br />kau sakiti aku, kau lukai aku<br />hancurnya hatiku</p><p><br />jangan pernah kembali kepadaku<br />aku tak ingin bertemu denganmu<br />kau sakiti aku, kau lukai aku<br />sakitnya hatiku</p><p><br />andai ku bisa tuk memutar waktu<br />takkan pernah ku putuskan cintamu<br />hanya dirimu yang mengerti aku<br />tak ada yang lain</p><p><br />andai ku bisa tuk memutar waktu<br />takkan pernah ku putuskan cintamu<br />hanya dirimu yang mengerti aku<br />tak ada yang lain, hoowooo</p>"
+	},
+	 {
+      "id": 40,
+      "name_category": "PAPINKA",
+      "title": "AKU MASIH CINTA",
+      "image": "file:///android_asset/image/POP.jpg",
+      "link_mp3": "mp3/DALAREPO40.mp3",
+      "lyrics": ""
+	}
+  ]
+}
