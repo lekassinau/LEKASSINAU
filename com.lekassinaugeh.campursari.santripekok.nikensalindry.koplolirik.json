@@ -1,0 +1,289 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "NIKEN SALINDRY A",
+      "image": "file:///android_asset/image/NA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "NIKEN SALINDRY B",
+      "image": "file:///android_asset/image/NB.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "NIKEN SALINDRY C",
+      "image": "file:///android_asset/image/NC.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "SANTRI PEKOK",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO1.mp3",
+      "lyrics": "<p>Genduk denok santri lulusan pondok<br />Isih perawan dorong tau kedemok<br />Tak rewangi sarungan gawe songkok<br />Assalamualaikum Lakokno bapake mlerok<br />Tak rewangi ngempet ora ngerokok<br />Macak sopan ben koyo kang pondok<br />Eh, eh ladalah suwengku lali nyoplok<br />Jare bapake aku koyok santri pekok</p><p><br />Tobat kapok lombok, kadang lurus kadang menggok<br />Dongakno ben kapok, aku pengen oleh denok<br />Wes tahun-tahunan aku waleh dadi preman<br />Pengen tobat tenan ben oleh bojo seng iman</p><p><br />Tobat kapok lombok, kadang lurus kadang menggok<br />Dongakno ben kapok, aku pengen oleh denok<br />Wes tahun-tahunan aku waleh dadi preman<br />Pengen tobat tenan ben oleh bojo seng iman</p><p><br />Genduk denok santri lulusan pondok<br />Isih perawan dorong tau kedemok<br />Tak rewangi sarungan gawe songkok<br />Assalamualaikum Lakokno bapake mlerok<br />Tak rewangi ngempet ora ngerokok<br />Macak sopan ben koyo kang pondok<br />Eh, eh ladalah suwengku lali nyoplok<br />Jare bapake aku koyok santri pekok</p><p><br />Tobat kapok lombok, kadang lurus kadang menggok<br />Dongakno ben kapok, aku pengen oleh denok<br />Wes tahun-tahunan aku waleh dadi preman<br />Pengen tobat tenan ben oleh bojo seng iman</p><p><br />Tobat kapok lombok, kadang lurus kadang menggok<br />Dongakno ben kapok, aku pengen oleh denok<br />Wes tahun-tahunan aku waleh dadi preman<br />Pengen tobat tenan ben oleh bojo seng iman</p><p><br />Tobat kapok lombok, kadang lurus kadang menggok<br />Dongakno ben kapok, aku pengen oleh denok<br />Wes tahun-tahunan aku waleh dadi preman<br />Pengen tobat tenan ben oleh bojo seng iman</p><p><br />Tobat kapok lombok, kadang lurus kadang menggok<br />Dongakno ben kapok, aku pengen oleh denok<br />Wes tahun-tahunan aku waleh dadi preman<br />Pengen tobat tenan ben oleh bojo seng iman</p>"
+	},
+     {
+      "id": 2,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "TAMAN JURUG",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO2.mp3",
+      "lyrics": "<p>Ning kuto Solo muda lan mudi<br />Ing taman jurug ing pinggir<br />Bengawan Solo</p><p><br />Muda lan mudi awan lan mbengi<br />Do suko-suko nanging ojo ngiket<br />Janji</p><p><br />Cahyaning bulan nrajang<br />Pucuking cemoro<br />Angin kang teko sasat nggowo<br />Gending tresno<br />Banyu bengawan sinorot<br />Cahyaning bulan<br />Lir sewu dian alerap nggugah<br />Kenangan</p><p><br />Ngersakne nopo mung sarwo<br />Ono ning taman jurug taman<br />Endah kuto Solo</p><p><br />Papan kreasi muda lan mudi sing<br />Tuwo-tuwo welinge ojo nganti<br />Lali</p><p><br />Ning kuto Solo muda lan mudi<br />Ing taman jurug ing pinggi<br />Bengawan Solo<br />Muda lan mudi awan lan mbengi<br />Do suko-suko nanging ojo ngiket<br />Janji</p><p><br />Cahyaning bulan nrajang<br />Pucuking cemoro<br />Angin kang teko sasat nggowo<br />Gending tresno<br />Banyu bengawan sinorot<br />Cahyaning bulan<br />Lir sewu dian alerap nggugah<br />Kenangan</p><p><br />Ngersakne nopo mung sarwo<br />Ono, ning taman jurug taman<br />Endah kuto Solo<br />Papan kreasi muda lan mudi sing<br />Tuwo-tuwo welinge ojo nganti<br />Lali</p><p><br />sing<br />Tuwo-tuwo welinge ojo nganti<br />Lali</p>"
+	},
+	 {
+      "id": 3,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO3.mp3",
+      "lyrics": "<p>Haruskah ku relakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Percuma sia sia<br />Diriku mengharap cinta darimu<br />Kini ku sadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku<br />Tak pernah bernilai di matamu<br />Cintaku seakan tak berharga</p><p><br />Dalam tangismu<br />Akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah ku relakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p><p><br />Kini ku sadari<br />Dirimu tak punya rasa untukku</p><p><br />Perjuanganku<br />Tak pernah bernilai di matamu<br />Cintaku seakan tak berharga</p><p><br />Dalam tangismu<br />Akulah yang selalu ada<br />Aku kecewa mengapa kau pilih dia</p><p><br />Tidakkah kau rasakan<br />Getaran cinta yang telah kuberikan<br />Ataukah kau sengaja<br />Permainkan diriku</p><p><br />Haruskah ku relakan<br />Dirimu yang selama ini kuharapkan<br />Jujur aku terluka<br />Melihat kau bersamanya</p><p><br />Musnah sudah harapan cinta<br />Yang kuharap selama ini<br />Kini senanglah kau bersamanya<br />Tinggal aku di dalam sepi</p>"
+	},
+	 {
+      "id": 4,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "CUNDAMANI",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO4.mp3",
+      "lyrics": "<p>Saben wayah wengi<br />Mikirno isi ati<br />Opo tenano tresno iki<br />Dadi siji</p><p><br />Mantep anggonku mikir<br />Ra ono sitik kuatir<br />Cerito iki<br />Bakal apik ke ukir</p><p><br />Yakin-yakin no<br />Yakin aku tenanan<br />Sumpah ing janji<br />Iluhku netes tenan</p><p><br />Kurang-kurange<br />Kurangku sepurane<br />Cen anane ngene</p><p><br />Sayang<br />Titip rogoku<br />Titip roso tresnaku</p><p><br />Seneng iki mung koe seng ngerti<br />Dadio konco ceritaku<br />Sepanjang uripku</p><p><br />Lintang<br />Suwon ngancani<br />Suwon sampun nyekseni<br />Padangi dalan seng tak lewati<br />Cidro ne ati<br />Gusti pun ngrampungi</p><p><br />Yakin-yakin no<br />Yakin aku tenanan<br />Sumpah ing janji<br />Iluhku netes tenan</p><p><br />Kurang-kurange<br />Kurangku sepurane<br />Cen anane ngene</p><p><br />Sayang<br />Titip rogoku<br />Titip roso tresnaku</p><p><br />Seneng iki mung koe seng ngerti<br />Dadio konco ceritaku<br />Sepanjang uripku</p><p><br />Lintang<br />Suwon ngancani<br />Suwon sampun nyekseni<br />Padangi dalan seng tak lewati<br />Cidro ne ati<br />Gusti pun ngrampungi</p><p><br />Sayang<br />Titip rogoku<br />Titip roso tresnaku</p><p><br />Seneng iki mung koe seng ngerti<br />Dadio konco ceritaku<br />Sepanjang uripku</p><p><br />Lintang<br />Suwon ngancani<br />Suwon sampun nyekseni<br />Padangi dalan seng tak lewati<br />Cidro ne ati<br />Gusti pun ngrampungi</p><p><br />Kurang-kurange<br />Kurangku sepurane<br />Cen anane ngene</p>"
+	},
+	 {
+      "id": 5,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO5.mp3",
+      "lyrics": "<p>Kudune kowe ngerti<br />Tresnoku nomer siji<br />Penak&rsquo;e leh mu blenjani janji<br />Kowe tego ngelarani</p><p><br />Usahaku wes ra kurang-kurang<br />Gematiku wes pol-polan<br />Pas aku dolan jebul ketemu kowe neng dalan<br />Kowe konangan gendakan</p><p><br />Ngomongo jalokmu piye<br />Tak turutane, tak usahakne<br />Aku ra masalah yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo walesanmu neng aku<br />Kowe luwih milih dek&rsquo;e<br />Kowe ninggal aku, ninggal tatu<br />Kurang opo, nek ku mertahanke kowe<br />Kowe malah ngeboti liyane</p><p>pikiren bahagiamu<br />aku gampang</p><p><br />Ngomongo jalokmu piye<br />Tak turutane, tak usahakne<br />Aku ra masalah yen kon berjuang dewe<br />Sing penting kowe bahagia endinge</p><p><br />Nanging ngopo walesanmu neng aku<br />Kowe luwih milih dek&rsquo;e<br />Kowe ninggal aku, ninggal tatu<br />Kurang opo, nek ku mertahanke kowe<br />Kowe malah ngeboti liyane</p><p><br />Nanging ngopo walesanmu neng aku<br />Kowe luwih milih deke<br />Kowe ninggal aku, ninggal tatu<br />Kurang opo, nek ku mertahanke kowe<br />Kowe malah ngeboti liyane<br />Kowe malah milih wong kae<br />Jebul aku mbok anggep sepele</p>"
+	},
+	 {
+      "id": 6,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "KISINAN",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO6.mp3",
+      "lyrics": "<p>Taun-taunan aku wes ngancani sliramu<br />Wes kadung kenal karo bapak ibu<br />Wes kebacut nyaman ro sliramu</p><p>Opo koe ra ngerti, opo wes ngrumangsani<br />Yen wes kedaden koyo saiki<br />Kudu piye aku bingung ngadepi</p><p><br />Tiwas tak gondeli tenanan<br />Sayangku wes ora kurang-kurang<br />Jebul mung dadi pelampiasan</p><p>Tiwas tak banggakne<br />Tak pamer-pamerke<br />Jebule aku mung dadi badute</p><p>Taun-taunan aku wes ngancani sliramu<br />Wes kadung kenal karo bapak ibu<br />Wes kebacut nyaman ro sliramu</p><p>Opo koe ra ngerti, opo wes ngrumangsani<br />Yen wes kedaden koyo saiki<br />Kudu piye aku bingung ngadepi</p><p>Tiwas tak gondeli tenanan<br />Sayangku wes ora kurang-kurang<br />Jebul mung dadi pelampiasan</p><p>Tiwas tak banggakne<br />Tak pamer-pamerke<br />Jebule aku mung dadi badute</p><p><br />Tiwas tak gondeli tenanan<br />Sayangku wes ora kurang-kurang<br />Jebul mung dadi pelampiasan</p><p>Tiwas tak banggakne<br />Tak pamer-pamerke<br />Jebule aku mung dadi badute</p>"
+	},
+	 {
+      "id": 7,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "SANES",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO7.mp3",
+      "lyrics": "Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo"
+	},
+	 {
+      "id": 8,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "SIDO RONDO",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO8.mp3",
+      "lyrics": "<p>Biyen mulo sliramu wis tak aturi<br />Golek bojo sing tresno welas sejati<br />Pungkasane sliramu digawe loro<br />Ora wurung saikine dadi rondho</p><p><br />Nanging piye kabeh iki wis kebacut<br />Ibarat bubur ra bakal dadi sego<br />Mulo getunku iki tanpo upomo<br />Ngerti ngono lamaranmu sing tak tompo</p><p><br />Kabeh iki ora perlu digetuni<br />Janjiku biyen aku saguh ngenteni</p><p><br />Kowe lan aku mugo dadi jodone<br />Ra keno prawane tak enteni randane</p><p><br />Ora nyono sampeyan sabar ngenteni<br />Ing nyatane tresnomu tulus lan suci<br />Sing tak suwun sing gede pangapurane<br />Andhum tresno bebojoan selawase</p><p><br />Biyen mulo sliramu wis tak aturi<br />Golek bojo sing tresno welas sejati<br />Pungkasane sliramu digawe loro<br />Ora wurung saikine dadi rondho</p><p><br />Nanging piye kabeh iki wis kebacut<br />Ibarat bubur ra bakal dadi sego<br />Mulo getunku iki tanpo upomo<br />Ngerti ngono lamaranmu sing tak tompo</p><p><br />Kabeh iki ora perlu digetuni<br />Janjiku biyen aku saguh ngenteni</p><p><br />Kowe lan aku mugo dadi jodone<br />Ra keno prawane tak enteni randane</p><p><br />Ora nyono sampeyan sabar ngenteni<br />Ing nyatane tresnomu tulus lan suci<br />Sing tak suwun sing gede pangapurane<br />Andhum tresno bebojoan selawase</p>"
+	},
+	 {
+      "id": 9,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO9.mp3",
+      "lyrics": "<p>Nemu kowe pas ati ambyar ambyare<br />Pacar seng tak tresnani<br />Ninggal aku golek liane</p><p><br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Kowe sing paling ngerti<br />Marang kahanane ati<br />Aku mok semangati<br />ngusap iluhku seng mbrebes mili</p><p><br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati<br />Nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati<br />Yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Kowe sing paling ngerti<br />Marang kahanane ati<br />Aku mok semangati<br />Ngusap iluhku seng mbrebes mili</p><p><br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun gusti mpun maringi seng gemati<br />Nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati<br />Yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Matursuwun gusti mpun maringi seng gemati<br />Nemu slirane ngobati ati kang sepi<br />Matur suwun gusti mpun maringi seng gemati<br />Yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Ono koe seng ngancani</p>"
+	},
+	 {
+      "id": 10,
+      "name_category": "NIKEN SALINDRY A",
+      "title": "ITANENG TENRI BOLO",
+      "image": "file:///android_asset/image/NA.jpg",
+      "link_mp3": "mp3/NACATRKO10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "DUMES",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO11.mp3",
+      "lyrics": "<p>Sepine ro aku<br />Senengmu karo liyane<br />Arep cemburu<br />Kok dudu sopo-sopone</p><p><br />Sing awale perhatian<br />Ning akhire sliramu sing malah hilang</p><p><br />Ra pengen liyane<br />Pengenku siji mung kowe<br />Kenyataane<br />Dudu aku neng njero atimu</p><p><br />Isih sok kelingan<br />Kabeh kenangan sing tau dilakoni<br />Kebayang-bayang nganti kegowo ngimpi<br />Iso gawe nyaman ra jaminan duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Keroso sliramu wong sing paling gemati<br />Ora nyongko kowe sing paling nglarani</p><p><br />Ra pengen liyane<br />Pengenku siji mung kowe<br />Kenyataane dudu aku neng njero atimu</p><p><br />Isih sok kelingan<br />Kabeh kenangan sing tau dilakoni<br />Kebayang-bayang nganti kegowo ngimpi<br />Iso gawe nyaman ra jaminan duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Keroso sliramu wong sing paling gemati<br />Ora nyongko kowe sing paling nglarani</p><p><br />Isih sok kelingan<br />Kabeh kenangan sing tau dilakoni<br />Kebayang-bayang nganti kegowo ngimpi<br />Iso gawe nyaman ra jaminan duweni atimu</p><p><br />Koyo lagi wingi<br />Awak dewe iso ngobrol tekan wengi<br />Keroso sliramu wong sing paling gemati<br />Ora nyongko kowe sing paling nglarani</p>"
+	},
+     {
+      "id": 12,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "DADI SIJI",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO12.mp3",
+      "lyrics": "<p>Wis tak pasrahke kabeh karo Gusti<br />Udane sore sing dadi saksi<br />Naliko kabeh iki tak lakoni ikhlas ati<br />Mugo Gusti maringi dalan sing tak pingini</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki wis ilang salah siji<br />Ra bakal ono sing iso ganteni</p><p><br />Pandongaku tekan tuo nganti sing misahke nyowo<br />Kang mas aku percoyo koe ra gampang keno godo<br />Bebarengan jogo ati, ojo ngasi ngelarani<br />Yo mung siji, yo mung koe tekan mati</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki wis ilang salah siji<br />Ra bakal ono sing iso ganteni</p><p><br />Seko aku karo koe iso dadi awakdewe<br />Maturnuwun wis ngancani selama iki<br />Tak temokke kabeh bahagiaku sing tak karepke<br />Karo koe kabeh wes dadi takdire<br />Karo koe kabeh wes dadi dalane</p>"
+	},
+	 {
+      "id": 13,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "TRESNO WARANGGONO",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO13.mp3",
+      "lyrics": "<p>Nelongso roso rasane, nangis jroning atiku<br />Yen kelingan esem gemuyumu<br />Laras sworo gending tresno gawe kangene atiku<br />Tansah eling aku ro sliramu</p><p><br />Duh kangmas sak tenane aku ngerti atimu<br />Ning wis pastine aku du jodomu<br />Pancen roso kari, roso kudu lilo nggonmu nrimo<br />Lilakno aku nyanding priyo liyo</p><p><br />Ra keroso wes sewindu nggonku ora ketemu<br />Kegugah atiku krungu suaramu<br />Aku mung bisa dedungo waranggono sing tak tresno<br />Mugo biso urip tentrem mulyo</p><p><br />Tak tulis lakon tresnamu ning gending katresnanku<br />Tak tembangne saben kangen sliramu<br />Sak tenane aku nangis, nanging tresno wis ginaris<br />Tak lakoni kanti ikhlas ati</p><p><br />Wuyungku ngelayung ngemboro ing awan-awang<br />Tanpo biso nyanding, aku mung biso nyawang<br />Tumetesing eluhku, brebes mili ono pipi<br />Opo tresno iki pancen ra kudu nduweni</p><p><br />Wis lilakno aku kangmas, wis cukup lalekno<br />Lelakon tresno iki bakal dadi crito tresno waranggono</p><p><br />Ra keroso wes sewindu nggonku ora ketemu<br />Kegugah atiku krungu suaramu<br />Aku mung bisa dedungo waranggono sing tak tresno<br />Mugo biso urip tentrem mulyo</p><p><br />Tak tulis lakon tresnamu ning gending katresnanku<br />Tak tembangne saben kangen sliramu<br />Sak tenane aku nangis, nanging tresno wis ginaris<br />Tak lakoni kanti ikhlas ati</p><p><br />Wuyungku ngelayung ngemboro ing awan-awang<br />Tanpo biso nyanding, aku mung biso nyawang<br />Tumetesing eluhku, brebes mili ono pipi<br />Opo tresno iki pancen ra kudu nduweni</p><p><br />Wis lilakno aku kangmas, wis cukup lalekno<br />Lelakon tresno iki bakal dadi crito tresno waranggono</p>"
+	},
+	 {
+      "id": 14,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "PELANGGARAN",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO14.mp3",
+      "lyrics": "<p>Tegel kowe nglarani wong koyo aku<br />Sing wes nompo elek apik e uripmu<br />Lilo aku lilo berjuang mati-matian<br />Nanging kowe malah milih demikian</p><p><br />Isa-isane kowe ngarang cerito<br />Nangis kelaran nutupi kesalahan<br />Sok-sokan cidro padahal sing nggawe loro<br />Dramamu uwes tak woco lungo o aku ra gelo</p><p><br />Trimo ngalih ngempet perih<br />Tak angkat gendero putih<br />Aku nyerah lambaikan tangan<br />Dadah sayang tresnoku wes ilang</p><p>Sepurane sayang atimu wes kebobolan<br />Ora iso njogo perasaan<br />Kowe main belakang kabeh rosoku tak buang<br />Pelanggaran kowe tak kartu abang</p><p><br />Isa-isane kowe ngarang cerito<br />Nangis kelaran nutupi kesalahan<br />Sok-sokan cidro padahal sing nggawe loro<br />Dramamu uwes tak woco lungo o aku ra gelo</p><p><br />Trimo ngalih ngempet perih<br />Tak angkat gendero putih<br />Aku nyerah lambaikan tangan<br />Dadah sayang tresnoku wes ilang</p><p><br />Sepurane sayang atimu wes kebobolan<br />Ora iso njogo perasaan<br />Kowe main belakang kabeh rosoku tak buang<br />Pelanggaran kowe tak kartu abang<br />Kowe main belakang kabeh rosoku tak buang<br />Pelanggaran kowe tak kartu abang</p><p><br />Sepurane sayang atimu wes kebobolan<br />Ora iso njogo perasaan<br />Kowe main belakang kabeh rosoku tak buang<br />Pelanggaran kowe tak kartu abang<br />Kowe main belakang kabeh rosoku tak buang<br />Pelanggaran kowe tak kartu abang</p><p><br />Kowe main belakang kabeh rosoku tak buang<br />Pelanggaran kowe tak kartu abang</p>"
+	},
+	 {
+      "id": 15,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO15.mp3",
+      "lyrics": "Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu, hari ini ku mencintaimu<br />Yang kutahu, ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu s bagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sebagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku"
+	},
+	 {
+      "id": 16,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "SADAR POSISI",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO16.mp3",
+      "lyrics": "<p>Wes tak cubo nguatke ati nompo kasunyatan iki<br />Nadyan perih rasane, aku kudu sadar diri<br />Mbiyen kowe ninggal lungo tanpo pamit karo aku<br />Saiki we teko ning ngarepku mung ngeterke undangan rabimu</p><p><br />Aku kudu sadar posisi, ra bakal biso nduweni<br />Mergo kowe sing tak tresno malah milih wong liyo<br />Mung iso tak pendem ning ati roso sayang ro tresnoku iki<br />Aku tresno kowe, kowe tresno liyane</p><p><br />Remuk atiku nompo layang undangan rabimu<br />Mbubrahke crito tresno iki marang sliramu<br />Gandeng wes suwe jebul aku dudu jodone<br />Matursuwun kowe wes tau gawe kisah ning uripku</p><p><br />Wes tak cubo nguatke ati nompo kasunyatan iki<br />Nadyan perih rasane, aku kudu sadar diri<br />Mbiyen kowe ninggal lungo tanpo pamit karo aku<br />Saiki we teko ning ngarepku mung ngeterke undangan rabimu</p><p><br />Aku kudu sadar posisi, ra bakal biso nduweni<br />Mergo kowe sing tak tresno malah milih wong liyo<br />Mung iso tak pendem ning ati roso sayang ro tresnoku iki<br />Aku tresno kowe, kowe tresno liyane</p><p><br />Remuk atiku nompo layang undangan rabimu<br />Mbubrahke crito tresno iki marang sliramu<br />Gandeng wes suwe jebul aku dudu jodone<br />Matursuwun kowe wes tau gawe kisah ning uripku</p><p><br />Remuk atiku nompo layang undangan rabimu<br />Mbubrahke crito tresno iki marang sliramu<br />Gandeng wes suwe jebul aku dudu jodone<br />Matursuwun kowe wes tau gawe kisah ning uripku</p>"
+	},
+	 {
+      "id": 17,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "GINIO",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO17.mp3",
+      "lyrics": "<p>Wes cukup, aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Aku kelingan sliramu<br />Medot tresno segampang iku<br />Opo kowe uwes lali marang sumpah seng mbok sanggupi<br />Janji seng mbiyen jarene mbok tepati</p><p><br />Opo pancen aku kleru<br />Opo wes duwe seng luwih ko aku<br />Aku nrimo nompo tapi atiku ra lilo<br />Nyawang sliramu disanding wong liyo</p><p><br />Kurangku opo, jajal to kowe ngomongo<br />Masalah sepele ojo digawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke karo wong seng sugih kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup, aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani</p><p><br />Kurangku opo, jajal to kowe ngomongo<br />Masalah sepele ojo digawe dowo</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke karo seng sugih kae<br />Yo jelas nemen aku ra mampu</p><p><br />Tulung jelasno neng aku sayang<br />Opo pengorbananku iseh kurang<br />Aku mbok bandingke karo seng sugih kae<br />Yo jelas nemen aku ra mampu</p><p><br />Wes cukup, aku mbok apusi<br />Dramamu wes cukup aku ngerti<br />Elingo rasane atiku iki<br />Matursembahnuwun sampun nate nglarani<br />Matursembahnuwun ninggal loro ning ati</p>"
+	},
+	 {
+      "id": 18,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "ALOLOLO SAYANG",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO18.mp3",
+      "lyrics": "<p>tenung mata aku kali ini sayang<br />beri aku peluang kedua<br />bumi gunung langit jadi saksi sayang<br />takkan ada lagi orang ketiga</p><p><br />benar itu hanya kebetulan sayang<br />bukan sengaja aku nak nakal<br />mungkin juga ini keturunan sayang<br />dna lelaki lelaki gatal</p><p><br />penat juga aku memujuk<br />kau hilang buat aku terduduk<br />janganlah marah dan merajuk<br />dah macam orang kena sampuk</p><p>yang alololo lolo sayang<br />ting ting tang ting tang ting sayang<br />aku rindu sikap manjamu yang dahulu</p><p><br />sayang alololo lolo sayang<br />simpanlah dulu rajukmu<br />segala salahku akur &lsquo;i am sorry&rsquo;</p><p><br />penat juga aku memujuk<br />kau hilang buat aku terduduk<br />janganlah marah dan merajuk<br />dah macam orang kena sampuk</p><p><br />yang alololo lolo sayang<br />ting ting tang ting tang ting sayang<br />aku rindu sikap manjamu yang dahulu</p><p><br />sayang alololo lolo sayang<br />simpanlah dulu rajukmu<br />segala salahku akur &lsquo;i am sorry&rsquo;</p><p><br />yang alololo lolo sayang<br />ting ting tang ting tang ting sayang<br />aku rindu sikap manjamu yang dahulu</p><p><br />sayang alololo lolo sayang<br />simpanlah dulu rajukmu<br />segala salahku akur &lsquo;i am sorry&rsquo;</p><p><br />janji ini bukan sembarang janji, sayang<br />ini bukanlah janji yang palsu<br />ini soal cinta dari hati, sayang<br />i really really love you alololololo</p>"
+	},
+	 {
+      "id": 19,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "ASULAMA SUKA DIA",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "NIKEN SALINDRY B",
+      "title": "BOJO BIDUAN",
+      "image": "file:///android_asset/image/NB.jpg",
+      "link_mp3": "mp3/NACATRKO20.mp3",
+      "lyrics": "<p>Abote wong lanang yen nduwe bojo biduan<br />Kudu biso sabar ora cemburuan<br />Yen tansah sujanan lan kerep uring uringan<br />Ora mokal bubar anggone bebrayan</p><p><br />Pancen gaweane dadi artis panggungan<br />Neng kono, neng kene nyanyi karo bergoyang<br />Mulo biasane bengi yen kundur tanggapan<br />Pengen langsung sare wegah dijak dolanan</p><p><br />Sing marahi kuatir atine wong lanang<br />Manggung mrone-mrene cari perhatian<br />Opo maneh yen nganggo klambi sing cingkrang-cingkrang<br />Genit mripate goyangane merangsang</p><p><br />Mbegagahe ombo pinggul digoyang goyang<br />Sajak disengojo mancing-mancing saweran<br />Yen sing melu njoget wes mendem banyu setan<br />Kadang colak-colek mencari kesempatan</p><p><br />Abote wong lanang yen nduwe bojo biduan<br />Kudu biso sabar ora cemburuan<br />Yen tansah sujanan lan kerep uring uringan<br />Ora mokal bubar anggone bebrayan</p><p><br />Pancen gaweane dadi artis panggungan<br />Neng kono, neng kene nyanyi karo bergoyang<br />Mulo biasane bengi yen kundur tanggapan<br />Pengen langsung sare wegah dijak dolanan</p><p><br />Sing marahi kuatir atine wong lanang<br />Manggung mrone-mrene cari perhatian<br />Opo maneh yen nganggo klambi sing cingkrang-cingkrang<br />Genit mripate goyangane merangsang</p><p><br />Mbegagahe ombo pinggul digoyang goyang<br />Sajak disengojo mancing-mancing saweran<br />Yen sing melu njoget wes mendem banyu setan<br />Kadang colak-colek mencari kesempatan</p><p><br />Mulane wong lanang sing uripe sing legan<br />Kudu siap mental yen ngrabi biduan<br />Mergane wes akeh banget sing kedadean<br />Pegatan jalarane mung cemburuan</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "EGO",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO21.mp3",
+      "lyrics": "<p>Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera-kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe ra eman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sorry aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang, tak akoni aku kleru</p><p><br />Aku ngerti koe wis kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe ra eman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sorry aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang, tak akoni aku kleru</p><p><br />Aku ngerti koe wis kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sorry aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang, tak akoni aku kleru</p><p><br />Aku ngerti koe wis kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p>"
+	},
+     {
+      "id": 22,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "IKAN DALAM KOLAM",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO22.mp3",
+      "lyrics": "Jangan, jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum, senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan, jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum, senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan, jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum, senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau</p><p><br />Bila ingin melihat ikan di dalam kolam<br />Tenangkan dulu airnya sebening kaca<br />Bila mata tertuju pada gadis pendiam<br />Caranya tak sama menggoda dara lincah</p><p><br />Jangan, jangan dulu<br />Janganlah di ganggu<br />Biarkan saja biar duduk dengan tenang</p><p><br />Senyum, senyum dulu<br />Senyum dari jauh<br />Kalau dia senyum tandanya hatinya mau<br />Kalau dia senyum tandanya hatinya mau"
+	},
+	 {
+      "id": 23,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "KALIH WELASKU",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO23.mp3",
+      "lyrics": "Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni<br />Doyo doyo ngganduli<br />Doyo doyo nangisi<br />Kesandung-sandung aku<br />Maksane atimu<br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p>&nbsp;<br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni<br />Doyo doyo ngganduli<br />Doyo doyo nangisi<br />Kesandung-sandung aku<br />Maksane atimu<br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p><br />Anane mung tresno kalih welasku<br />Anane mung iki sing tak nduweni<br />Doyo doyo ngganduli<br />Doyo doyo nangisi<br />Kesandung-sandung aku<br />Maksane atimu<br />Gapuk meh tumbang<br />Tak gawe gawe dewe<br />Raiso ngukur kurang kesadaranku</p><p><br />Kekarepanku yen pancen dadi siji<br />Iso ngrumat lan baturi<br />Tekan besok nganti petuk pati<br />Urung kewujud we kesusu mutusi</p><p><br />Aku sembrono ning ra sepiro<br />Malah dadi perkoro<br />Nanging rapopo ketulo tulo<br />Dadi tulisan kanggo cerito tuo</p><p>Anane mung tresno kalih welasku"
+	},
+	 {
+      "id": 24,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "KEMBANG WANGI",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO24.mp3",
+      "lyrics": "<p>Kembang seng wangi nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo, tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Maturnuwun Gusti pun maringi tresno gemati<br />Seng tak sayang raiso keganti<br />Masio akeh alangan seng awakdewe adepi<br />Iso dirampungi mergo tulus ati</p><p><br />Bebasan koyo langit dikebak&rsquo;i lintang-lintang<br />Seng madangi petenge atiku<br />Maturnuwun wes dadi mawar seng wangi<br />Titipane Gusti seng tak jagani</p><p><br />Kembang seng wangi nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo, tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />raiso keganti<br />selawase kowe</p><p><br />Bebasan koyo langit dikebak&rsquo;i lintang-lintang<br />Seng madangi petenge atiku<br />Maturnuwun wes dadi mawar seng wangi<br />Titipane Gusti seng tak jagani</p><p><br />Kembang seng wangi nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo, tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p><p><br />Kembang seng wangi nggo sandaran kupu-kupu<br />Kowe tak sayangi dadi separoh nyowoku<br />Bakal tak jogo, tak sirami saben dino<br />Mugo tetep iso mekar lan wangi<br />Dadi tondo tresno sejati</p>"
+	},
+	 {
+      "id": 25,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "KERE MUNGGAH BALE",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "KETINTANG",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO26.mp3",
+      "lyrics": "<p>Rasane kok ngene wong kelangan<br />Kroso adem ning nggon panasan<br />Saiki aku urip dewean<br />Mbiyen headset siji dinggo barengan</p><p><br />Lawang ati iki uwis tak kunci<br />Ojo ngarep ngarep aku bali<br />Atiku wis ora kuat tenan<br />Nganti kleyang kabur kanginan</p><p><br />Ning ketintang atiku mbok cancang<br />Opo salahku, opo salahe rosoku<br />Ora mati lampu kok petenge uripku<br />Nyawang kowe sing kepekso tresno karo aku</p><p><br />Yen kuwi pancen pilihanmu<br />Mugo iso dadi bahagiamu</p><p><br />Ra kurang-kurang kerlipe lintang<br />Tak gayuh gawe kowe sing tak sayang<br />Nganti kleyang kabur kanginan<br />Angen-angenmu ra kenal cukupan</p><p><br />Mataku perih yen kelingan polahmu<br />Umbelku mili nganti kentek&rsquo;an tisu</p><p><br />Ning ketintang atiku mbok cancang<br />Opo salahku, opo salahe rosoku<br />Ora mati lampu kok petenge uripku<br />Nyawang kowe sing kepekso tresno karo aku</p><p><br />Ning ketintang atiku mbok cancang<br />Opo salahku, opo salahe rosoku<br />Ora mati lampu kok petenge uripku<br />Nyawang kowe sing kepekso tresno karo aku<br />Yen kuwi pancen pilihanmu<br />Mugo iso dadi bahagiamu<br />Mugo iso dadi bahagiamu</p>"
+	},
+	 {
+      "id": 27,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "KLEBUS",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO27.mp3",
+      "lyrics": "Dalane rame atiku sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang, ngek i harapan, koe milih liyane</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p>Wis dalane dadi pelarian dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae<br />Bagianmu koyo biasane, bagian sing nglarani aku wae"
+	},
+	 {
+      "id": 28,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "NGOPI MASE",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO28.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 29,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO29.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 30,
+      "name_category": "NIKEN SALINDRY C",
+      "title": "SOTYA",
+      "image": "file:///android_asset/image/NC.jpg",
+      "link_mp3": "mp3/NACATRKO30.mp3",
+      "lyrics": ""
+	}
+  ]
+}
