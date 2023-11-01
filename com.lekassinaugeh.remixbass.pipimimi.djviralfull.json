@@ -1,0 +1,390 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ VIRAL 1",
+      "image": "file:///android_asset/image/VA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ VIRAL 2",
+      "image": "file:///android_asset/image/VB.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "DJ VIRAL 3",
+      "image": "file:///android_asset/image/VC.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "DJ VIRAL 4",
+      "image": "file:///android_asset/image/VD.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ MIMI PIPI",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA1.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 2,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ COD X MIMI PIPI",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA2.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 3,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ MIMI PIPI VIRAL",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA3.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 4,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ TABRAK TABRAK MASUK",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA4.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 5,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ DILANGIT ADA MATAHARI",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA5.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 6,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ SANTRI PEKOK",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA6.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 7,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ GOYANG DAYUNG",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA7.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 8,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ TAMAN JURUG",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA8.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 9,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ MALAM PAGI",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA9.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 10,
+      "name_category": "DJ VIRAL 1",
+      "title": "DJ BOJO BIDUAN",
+      "image": "file:///android_asset/image/VA.jpg",
+      "link_mp3": "mp3/MIDJPIBA10.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 11,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA11.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 12,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ CIKINI KE GONDANG DIA",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA12.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 13,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ ALAY GAYA GAYA ARTIS",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA13.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 14,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ MALAM PAGI X HAMIL DULUAN",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA14.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 15,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ SANTUI AJA CUY",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA15.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 16,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ OH SAYANG NGANA INI BAGAIMANA",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA16.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 17,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ HILANG KADANG KU TAK TENANG",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA17.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 18,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ KARENA SU SAYANG",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA18.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 19,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ COCOMELON",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA19.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 20,
+      "name_category": "DJ VIRAL 2",
+      "title": "DJ ASULAMA SUKA DIA",
+      "image": "file:///android_asset/image/VB.jpg",
+      "link_mp3": "mp3/MIDJPIBA20.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA21.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 22,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA22.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 23,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ SANES",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA23.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 24,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ NEMEN",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA24.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 25,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ DUM DEE DUM",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA25.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 26,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ BERCANDA",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA26.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 27,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ 4 SEKAWAN",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA27.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 28,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ PACU JALUR",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA28.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 29,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ WAHDANA",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA29.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 30,
+      "name_category": "DJ VIRAL 3",
+      "title": "DJ AIYA SUSANTI",
+      "image": "file:///android_asset/image/VC.jpg",
+      "link_mp3": "mp3/MIDJPIBA30.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ AJOJING",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA31.mp3",
+      "lyrics": ""
+	},
+     {
+      "id": 32,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ AKU GAK MAU JADI MTAHATIMU",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA32.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 33,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ MALIHI JANJI",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA33.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 34,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ ALOLOLO SAYANG",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA34.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 35,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ CITAMU SEPAHIT TOPI MIRING",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA35.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 36,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ DUMES",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA36.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 37,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ PELANGGARAN",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA37.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 38,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ JANDA PIRANG",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA38.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 39,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ JIWA YANG BERSEDIH",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA39.mp3",
+      "lyrics": ""
+	},
+	 {
+      "id": 40,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ KIW KIW",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA40.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 41,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ LOCA LOCA",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA41.mp3",
+      "lyrics": ""
+	},
+	{
+      "id": 42,
+      "name_category": "DJ VIRAL 4",
+      "title": "DJ MALAM PAGI SLOW",
+      "image": "file:///android_asset/image/VD.jpg",
+      "link_mp3": "mp3/MIDJPIBA42.mp3",
+      "lyrics": ""
+	}
+  ]
+}
