@@ -1,0 +1,321 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "SHINTA ARYA",
+      "image": "file:///android_asset/image/SA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SHINTA ARSINTA",
+      "image": "file:///android_asset/image/SH.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "DUET",
+      "image": "file:///android_asset/image/SD.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "SHINTA ARYA",
+      "title": "LINTANG ASMORO",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR1.mp3",
+      "lyrics": "<p>Siang pantara ratri<br />Mung eling manising ati<br />Sedyaku bisa anduweni<br />Marang sang dyah sulaksmi<br />Rasa kangen kang nglimputi<br />Lintang bulan dadi seksi<br />Ubayane datan mbalenjani<br />Janji sebaya mukti sebaya pati</p><p><br />Wong ayu tresnamu kinarya tamba<br />Susah jroning batinku<br />Wong bagus antepna rasa atimu<br />Tresnaku tulus jroning kalbu</p><p><br />Senadyan ngarungi banyu segara<br />Rasaku rabakal sirna<br />Senadyan nyawa oncat saka raga<br />Wis tresna rabisa dipisahna</p><p><br />Rasa kangen kang nglimputi<br />Lintang bulan dadi seksi<br />Ubayane datan mbalenjani<br />Janji sebaya mukti sebaya pati</p><p><br />Wong ayu tresnamu kinarya tamba<br />Susah jroning batinku<br />Wong bagus antepna rasa atimu<br />Tresnaku tulus jroning kalbu</p><p><br />Senadyan ngarungi banyu segara<br />Rasaku rabakal sirna<br />Senadyan nyawa oncat saka raga<br />Wis tresna rabisa dipisahna<br />Wis tresna rabisa dipisahna"
+	  },
+    {
+      "id": 2,
+      "name_category": "SHINTA ARYA",
+      "title": "KISINAN 2",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR2.mp3",
+      "lyrics": "<p>Atine sopo seng kuat<br />yen mung dadi ladang curhat<br />hari hari rasane kecewa berat</p><p><br />Sopo wong sing ora mangkel<br />rasane koyo di serkel<br />sirah mumet atine kecewa dobel</p><p><br />Koyo koyo nduweni<br />wes kadung sepenuh hati<br />jebule mung baleni<br />kisinan terulang lagi</p><p><br />Bola bali nggo dolanan<br />Bola bali wes kapusan<br />Janji manis naliko awal pacaran</p><p><br />Dadi badut tak lakoni<br />Dadi payung wes ngalami<br />Kadung elos ora mikir cinta tak pasrahke gusti</p><p><br />Koyo koyo nduweni<br />wes kadung sepenuh hati<br />jebule mung baleni<br />kisinan terulang lagi</p><p><br />Bola bali nggo dolanan<br />Bola bali wes kapusan<br />Janji manis naliko awal pacaran</p><p><br />Dadi badut tak lakoni<br />Dadi payung wes ngalami<br />Kadung elos ora mikir cinta tak pasrahke gusti</p><p><br />Koyo koyo nduweni<br />wes kadung sepenuh hati<br />jebule mung baleni<br />kisinan terulang lagi</p><p><br />Bola bali nggo dolanan<br />Bola bali wes kapusan<br />Janji manis naliko awal pacaran</p><p><br />Dadi badut tak lakoni<br />Dadi payung wes ngalami<br />Kadung elos ora mikir cinta tak pasrahke gusti</p><p><br />Bola bali nggo dolanan<br />Bola bali wes kapusan<br />Janji manis naliko awal pacaran</p><p><br />Dadi badut tak lakoni<br />Dadi payung wes ngalami<br />Kadung elos ora mikir cinta tak pasrahke gusti <br />Kadung elos ora mikir cinta tak pasrahke gusti"
+	  },
+	  {
+      "id": 3,
+      "name_category": "SHINTA ARYA",
+      "title": "PUPUSING NELONGSO",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR3.mp3",
+      "lyrics": "<p>keneng opo sifatmu saiki wes bedo<br />kowe ninggalke aku mentingke wong liyo<br />opo roso tresnamu saiki wes sirno<br />koyo lumut ing pinggir segoro</p><p><br />sesek nang njero dodo pancen ngalarake<br />arep kepiye meneh kowe wong ra nduwe<br />ojo selak batinmu marang kahananmu<br />kangmas pupusen roso tresnomu</p><p><br />opo iki sak tenane takdirku seng njawabke<br />sliramu bedo ati bedo lambe</p><p><br />wes kadung mati rosoku<br />kangmas rungokno tangisku<br />becike kowe lungo soko uripku</p><p><br />paribasan ngranggeh lintang ning angkoso<br />kowe tego gawe loro marang tresno</p><p><br />iki wes dalanku, pilihane wong tuwaku<br />sepurane yen gawe loro atimu</p><p><br />sesek nang njero dodo pancen ngalarake<br />arep kepiye meneh kowe wong ra nduwe<br />ojo selak batinmu marang kahananmu<br />kangmas pupusen roso tresnomu</p><p><br />opo iki sak tenane takdirku seng njawabke<br />sliramu bedo ati bedo lambe</p><p><br />wes kadung mati rosoku<br />kangmas rungokno tangisku<br />becike kowe lungo soko uripku</p><p><br />opo iki sak tenane takdirku seng njawabke<br />sliramu bedo ati bedo lambe</p><p><br />wes kadung mati rosoku<br />kangmas rungokno tangisku<br />becike kowe lungo soko uripku</p><p><br />paribasan ngranggeh lintang ning angkoso<br />kowe tego gawe loro marang tresno<br />iki wes dalanku, pilihane wong tuwaku</p><p><br />sepurane yen gawe loro atimu<br />sepurane yen gawe loro atimu</p>"
+	  },
+	  {
+      "id": 4,
+      "name_category": "SHINTA ARYA",
+      "title": "TULUS",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR4.mp3",
+      "lyrics": "<p>Kepengen turu neng dadamu<br />Mbok elus rambutku bungahe atiku<br />Cahya rembulan temerem ra turu turu<br />Koyo koyo ngerti wengi ojo ninggalne aku</p><p><br />Tak genggem tanganmu<br />Tak elus pipimu<br />Sumebyar jantungku koyo mandek ora mlaku<br />Tresnoku yo mung kowe ra ono liyane<br />Mugo dhewe bahagio selawase</p><p><br />Opo anane tomponen luweh kekuranganku<br />Ojo dadi pepalang atimu<br />Semono ugo tak suwun ngancani aku<br />Sayang iki tulus ora semu</p><p><br />Tak genggem tanganmu<br />Tak elus pipimu<br />Sumebyar jantungku koyo mandek ora mlaku<br />Tresnoku yo mung kowe ra ono liyane<br />Mugo dhewe bahagio selawase</p><p><br />Opo anane tomponen luweh kekuranganku<br />Ojo dadi pepalang atimu<br />Semono ugo tak suwun ngancani aku<br />Sayang iki tulus ora semu</p><p><br />Opo anane tomponen luweh kekuranganku<br />Ojo dadi pepalang atimu<br />Semono ugo tak suwun ngancani aku<br />Sayang iki tulus ora semu<br />Sayang iki tulus ora semu</p>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "SHINTA ARYA",
+      "title": "SAMAR",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR5.mp3",
+      "lyrics": "<p>Aku mung ngene anane sayang<br />Mung wong biasa sing lagi berjuang<br />Ngadepi kahanan ati sing sering kelaran<br />Bola - bali mung di nggo dolanan</p><p><br />Yen ono kurang - kurangku<br />Yen ono salah luputku<br />Ngomongo terus terang sayangku<br />Ojo mok pendem dewe<br />Ojo sambat rono rene<br />Aku samar digawr nyaman liyane</p><p><br />Ngertio sayang aku wegah kelangan<br />Siji - Sijine kowe tak eman eman<br />Ora tak baleni tresno sing koyo wingi<br />Kisah kisinan jangan terulang lagi</p><p><br />Yen ono kurang - kurangku<br />Yen ono salah luputku<br />Ngomongo terus terang sayangku<br />Ojo mok pendem dewe<br />Ojo sambat rono rene<br />Aku samar digawr nyaman liyane</p><p><br />Ngertio sayang aku wegah kelangan<br />Siji - Sijine kowe tak eman eman<br />Ora tak baleni tresno sing koyo wingi<br />Kisah kisinan jangan terulang lagi</p><p><br />Yen ono kurang - kurangku<br />Yen ono salah luputku<br />Ngomongo terus terang sayangku<br />Ojo mok pendem dewe<br />Ojo sambat rono rene<br />Aku samar digawr nyaman liyane</p><p><br />Ngertio sayang aku wegah kelangan<br />Siji - Sijine kowe tak eman eman<br />Ora tak baleni tresno sing koyo wingi<br />Kisah kisinan jangan terulang lagi</p><p><br />Ngertio sayang aku wegah kelangan<br />Siji - Sijine kowe tak eman eman<br />Ora tak baleni tresno sing koyo wingi<br />Kisah kisinan jangan terulang lagi</p>"
+	  },
+	  {
+      "id": 6,
+      "name_category": "SHINTA ARYA",
+      "title": "SIDO RONDO",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR6.mp3",
+      "lyrics": "<p>Mbiyen mulo sliramu wis tak aturi<br />Golek bojo sing tresno welas sejati<br />Pungkasane sliramu digawe loro<br />Ora wurung saikine dadi rondo</p><p><br />Nanging piye kabeh iki wis kebacut<br />Ibarat bubur ra bakal dadi sego<br />Mulo getunku iki tanpa upomo<br />Ngerti ngono lamaranmu sing tak tompo</p><p><br />Kabeh iki ora perlu digetuni<br />Janjiku biyen aku sanggup ngenteni<br />Kowe lan aku mugo dadi jodone<br />Ra keno prawane tak enteni randane</p><p><br />Ora nyono sampeyan sabar ngenteni<br />Ing nyatane tresnomu tulus lan suci<br />Sing tak suwun sing gede pangapurane<br />Andum tresno bebojoan selawase</p><p><br />Mbiyen mulo sliramu wis tak aturi<br />Golek bojo sing tresno welas sejati<br />Pungkasane sliramu digawe loro<br />Ora wurung saikine dadi rondo</p><p><br />Nanging piye kabeh iki wis kebacut<br />Ibarat bubur ra bakal dadi sego<br />Mulo getunku iki tanpa upomo<br />Ngerti ngono lamaranmu sing tak tompo</p><p><br />Kabeh iki ora perlu digetuni<br />Janjiku biyen aku sanggup ngenteni<br />Kowe lan aku mugo dadi jodone<br />Ra keno prawane tak enteni randane</p><p><br />Ora nyono sampeyan sabar ngenteni<br />Ing nyatane tresnomu tulus lan suci<br />Sing tak suwun sing gede pangapurane<br />Andum tresno bebojoan selawase<br />Andum tresno bebojoan selawase</p>"
+	  },
+	  {
+      "id": 7,
+      "name_category": "SHINTA ARYA",
+      "title": "AKU CAH KERJO",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR7.mp3",
+      "lyrics": "<p>Mbiyen mulo sliramu wis tak aturi<br />Golek bojo sing tresno welas sejati<br />Pungkasane sliramu digawe loro<br />Ora wurung saikine dadi rondo</p><p><br />Nanging piye kabeh iki wis kebacut<br />Ibarat bubur ra bakal dadi sego<br />Mulo getunku iki tanpa upomo<br />Ngerti ngono lamaranmu sing tak tompo</p><p><br />Kabeh iki ora perlu digetuni<br />Janjiku biyen aku sanggup ngenteni<br />Kowe lan aku mugo dadi jodone<br />Ra keno prawane tak enteni randane</p><p><br />Ora nyono sampeyan sabar ngenteni<br />Ing nyatane tresnomu tulus lan suci<br />Sing tak suwun sing gede pangapurane<br />Andum tresno bebojoan selawase</p><p><br />Mbiyen mulo sliramu wis tak aturi<br />Golek bojo sing tresno welas sejati<br />Pungkasane sliramu digawe loro<br />Ora wurung saikine dadi rondo</p><p><br />Nanging piye kabeh iki wis kebacut<br />Ibarat bubur ra bakal dadi sego<br />Mulo getunku iki tanpa upomo<br />Ngerti ngono lamaranmu sing tak tompo</p><p><br />Kabeh iki ora perlu digetuni<br />Janjiku biyen aku sanggup ngenteni<br />Kowe lan aku mugo dadi jodone<br />Ra keno prawane tak enteni randane</p><p><br />Ora nyono sampeyan sabar ngenteni<br />Ing nyatane tresnomu tulus lan suci<br />Sing tak suwun sing gede pangapurane<br />Andum tresno bebojoan selawase<br />Andum tresno bebojoan selawase</p>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "SHINTA ARYA",
+      "title": "DADI SIJI",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR8.mp3",
+      "lyrics": "<p>Wes tak pasrahke kabeh karo Gusti<br />Udane sore sing dadi saksi<br />Naliko kabeh iki tak lakoni ikhlas ati<br />Mugo Gusti maringi dalan sing tak pingini</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki uwis ilang salah siji<br />Rabakal ono sing iso ganteni</p><p><br />Pandongaku tekan tuwo, nganti sing misahke nyowo<br />Kangmas aku percoyo koe ra gampang keno godo<br />Bebarengan jogo ati, ojo ngasi ngelarani<br />Yo mung siji yo mung koe tekan mati</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki uwis ilang salah siji<br />Ra bakal ono sing iso ganteni</p><p><br />Pandongaku tekan tuwo, nganti sing misahke nyowo<br />Kangmas aku percoyo koe ra gampang keno godo<br />Bebarengan jogo ati, ojo ngasi ngelarani<br />Yo mung siji yo mung koe tekan mati</p><p><br />Dadi siji tekan tuo sesandingan<br />Ojo mung iso ninggalke kenangan<br />Arepo mengko nyowo iki uwis ilang salah siji<br />Ra bakal ono sing iso ganteni</p><p><br />Seko aku karo koe iso dadi awakdewe<br />Maturnuwun wis ngancani selama iki<br />Tak temokke kabeh bahagiaku sing tak karepke<br />Karo koe kabeh wes dadi takdire<br />Karo koe kabeh wes dadi dalane</p>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "SHINTA ARYA",
+      "title": "ALUN ALUN NGANJUK",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "SHINTA ARYA",
+      "title": "KALAH",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "SHINTA ARYA",
+      "title": "CINTAKU",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "SHINTA ARYA",
+      "title": "JODOHKU MANTANKU",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "SHINTA ARYA",
+      "title": "KEMBANG TRESNO",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "SHINTA ARYA",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/SA.jpg",
+      "link_mp3": "mp3/LASHIAR14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "SHINTA ARSINTA",
+      "title": "ORANG YANG SALAH",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR15.mp3",
+      "lyrics": "<p>Gayung tak bersambut<br />Cinta pun telah pupus<br />Terhempas ditelan dusta</p><p><br />Ku sudah mencoba tuk berikan bunga<br />Ku sudah berjuang dan bertahan karna cinta<br />Sadar aku sadar aku ini siapa<br />Orang biasa yang tak pantas dicinta<br />Biar kuterima dan berbaik sangka<br />Kau tercipta bukan untukku</p><p><br />Dan aku sadar bukan siapa-siapa<br />Ku hanya punya cinta tak punya apa-apa</p><p><br />Gayung tak bersambut<br />Cinta pun telah pupus<br />Terhempas ditelan dusta</p><p><br />Ku sudah mencoba tuk berikan bunga<br />Ku sudah berjuang dan bertahan karna cinta<br />Sadar aku sadar aku ini siapa<br />Orang biasa yang tak pantas dicinta<br />Ku sudah mencoba tuk berikan bunga<br />Ku sudah berjuang dan bertahan karna cinta<br />Sadar aku sadar aku ini siapa<br />Orang biasa yang tak pantas dicinta<br />Biar kuterima dan berbaik sangka<br />Kau tercipta bukan untukku</p><p><br />Dan aku sadar bukan siapa-siapa<br />Ku hanya punya cinta tak punya apa-apa</p><p><br />Gayung tak bersambut<br />Cinta pun telah pupus<br />Terhempas ditelan dusta</p><p><br />Ku sudah mencoba tuk berikan bunga<br />Ku sudah berjuang dan bertahan karna cinta<br />Sadar aku sadar aku ini siapa<br />Orang biasa yang tak pantas dicinta<br />Biar kuterima dan berbaik sangka<br />Kau tercipta bukan untukku</p><p><br />Ku sudah mencoba tuk berikan bunga<br />Ku sudah berjuang dan bertahan karna cinta<br />Sadar aku sadar aku ini siapa<br />Orang biasa yang tak pantas dicinta<br />Ku sudah mencoba tuk berikan bunga<br />Ku sudah berjuang dan bertahan karna cinta<br />Sadar aku sadar aku ini siapa<br />Orang biasa yang tak pantas dicinta<br />Biar kuterima dan berbaik sangka<br />Kau tercipta bukan untukku"
+	  },
+	  {
+      "id": 16,
+      "name_category": "SHINTA ARSINTA",
+      "title": "ANAK LANANG",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR16.mp3",
+      "lyrics": "<p>Biyen omahku gedek<br />Trocoh yen udan bledek<br />Bapak kerjo yen mung ono proyek</p><p><br />Biyen durung kramikan<br />Arep turu adem kanginan<br />Penting saben dino iso mangan</p><p><br />Saiki aku wes gede<br />Iso golek duit dewe<br />Senajan biyen mung iso nyusahke<br />Pak e buk e ngapurane</p><p><br />Saiki aku wis kerjo<br />Senajan uripku rekoso<br />Ikhlas bekti kanggo keluargo</p><p><br />Kowe kuwi anak lanang<br />Kerjo ku mung turut dalan<br />Mugo iso mulyakke drajate keluargo</p><p><br />Pak e bu e rekasane<br />Ngrawat aku kanti gede<br />Cen kathah luput ku<br />Kulo nyuwun pangestu<br />Cen kathah luput ku<br />Kulo nyuwun pangestu</p><p><br />Biyen durung kramikan<br />Arep turu adem kanginan<br />Penting saben dino iso mangan</p><p><br />Saiki aku wes gede<br />Iso golek duit dewe<br />Senajan biyen mung iso nyusahke<br />Pak e buk e ngapurane</p><p><br />Saiki aku wis kerjo<br />Senajan uripku rekoso<br />Ikhlas bekti kanggo keluargo</p><p><br />Kowe kuwi anak lanang<br />Kerjo ku mung turut dalan<br />Mugo iso mulyakke drajate keluargo</p><p><br />Pak e bu e rekasane<br />Ngrawat aku kanti gede<br />Cen kathah luput ku<br />Kulo nyuwun pangestu<br />Cen kathah luput ku<br />Kulo nyuwun pangestu</p><p><br />Biyen durung kramikan<br />Arep turu adem kanginan<br />Penting saben dino iso mangan</p><p><br />Saiki aku wes gede<br />Iso golek duit dewe<br />Senajan biyen mung iso nyusahke<br />Pak e buk e ngapurane</p><p><br />Saiki aku wis kerjo<br />Senajan uripku rekoso<br />Ikhlas bekti kanggo keluargo</p><p><br />Kowe kuwi anak lanang<br />Kerjo ku mung turut dalan<br />Mugo iso mulyakke drajate keluargo</p><p><br />Pak e bu e rekasane<br />Ngrawat aku kanti gede<br />Cen kathah luput ku<br />Kulo nyuwun pangestu<br />Cen kathah luput ku<br />Kulo nyuwun pangestu</p><p><br />Kowe kuwi anak lanang<br />Kerjo ku mung turut dalan<br />Mugo iso mulyakke drajate keluargo</p><p><br />Pak e bu e rekasane<br />Ngrawat aku kanti gede<br />Cen kathah luput ku<br />Kulo nyuwun pangestu<br />Cen kathah luput ku<br />Kulo nyuwun pangestu</p><p><br />Kathah klenta klentu<br />Kulo nyuwun donga restu</p>"
+	  },
+	  {
+      "id": 17,
+      "name_category": "SHINTA ARSINTA",
+      "title": "SANTRI PEKOK",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "SHINTA ARSINTA",
+      "title": "TAMAN JURUG",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR18.mp3",
+      "lyrics": "Ning kuto Solo muda lan mudi<br />Ing taman jurug ing pinggir<br />Bengawan Solo</p><p><br />Muda lan mudi awan lan mbengi<br />Do suko-suko nanging ojo ngiket<br />Janji</p><p><br />Cahyaning bulan nrajang<br />Pucuking cemoro<br />Angin kang teko sasat nggowo<br />Gending tresno<br />Banyu bengawan sinorot<br />Cahyaning bulan<br />Lir sewu dian alerap nggugah<br />Kenangan</p><p><br />Ngersakne nopo mung sarwo<br />Ono ning taman jurug taman<br />Endah kuto Solo</p><p><br />Papan kreasi muda lan mudi sing<br />Tuwo-tuwo welinge ojo nganti<br />Lali</p><p><br />Ning kuto Solo muda lan mudi<br />Ing taman jurug ing pinggi<br />Bengawan Solo<br />Muda lan mudi awan lan mbengi<br />Do suko-suko nanging ojo ngiket<br />Janji</p><p><br />Cahyaning bulan nrajang<br />Pucuking cemoro<br />Angin kang teko sasat nggowo<br />Gending tresno<br />Banyu bengawan sinorot<br />Cahyaning bulan<br />Lir sewu dian alerap nggugah<br />Kenangan</p><p><br />Ngersakne nopo mung sarwo<br />Ono, ning taman jurug taman<br />Endah kuto Solo<br />Papan kreasi muda lan mudi sing<br />Tuwo-tuwo welinge ojo nganti<br />Lali</p><p><br />Ning kuto Solo muda lan mudi<br />Ing taman jurug ing pinggi<br />Bengawan Solo<br />Muda lan mudi awan lan mbengi<br />Do suko-suko nanging ojo ngiket<br />Janji</p><p><br />Cahyaning bulan nrajang<br />Pucuking cemoro<br />Angin kang teko sasat nggowo<br />Gending tresno<br />Banyu bengawan sinorot<br />Cahyaning bulan<br />Lir sewu dian alerap nggugah<br />Kenangan</p><p><br />Ngersakne nopo mung sarwo<br />Ono, ning taman jurug taman<br />Endah kuto Solo<br />Papan kreasi muda lan mudi sing<br />Tuwo-tuwo welinge ojo nganti<br />Lali"
+	  },
+	  {
+      "id": 19,
+      "name_category": "SHINTA ARSINTA",
+      "title": "WIRANG",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR19.mp3",
+      "lyrics": "Jam sewelas bengi aku mbok tinggalna<br />Mbok tolak tanpa sebab sing pasti<br />Nglarani</p><p><br />Aku kadhung sayang<br />Kadhung gadhang-gadhang<br />Lungamu dadi traumaku<br />Ngene men kisah bujangku</p><p><br />Adheme angin wengi teka<br />Ngancani aku kelangan kanca crita<br />Jane namung masalah tresna<br />Tapi kok ya lara</p><p><br />Yen akhire wirang, ben wirang pisan<br />Yen akhire lara, ben lara tenan<br />Apa wong tulus wis garise ngene<br />S'lalu ngancani, ilang ending-e</p><p><br />Tresnaku kaya bonsai Anting Putri<br />Mbok sirami rina lan wengi<br />Masiya elok, endah disawangi<br />Tapi dipeksa ra isa gedhi</p><p><br />Ha-ah-ah, sabar ati, sabar ngadhepi<br />Nandure kembang, tukul wirang<br />Yungalah tenan, nandhese tenan<br />We nganggep aku sewates kancamu</p><p><br />Iki namung masalah tresna<br />Tapi kok ya lara</p><p><br />Yen akhire wirang, ben wirang pisan<br />Yen akhire lara, ben lara tenan<br />Apa wong tulus wis garise ngene<br />S'lalu ngancani, ilang ending-e</p><p><br />Tresnaku kaya bonsai Anting Putri<br />Mbok sirami rina lan wengi<br />Masiya elok, endah disawangi<br />Tapi dipeksa ra isa gedhi</p><p><br />sabar ati, sabar ngadhepi<br />Nandure kembang, tukul wirang<br />Yungalah tenan, nandhese tenan<br />We nganggep aku sewates kancamu</p><p><br />Iki namung masalah tresna<br />Tapi kok ya lara</p><p><br />Yen akhire wirang, ben wirang pisan<br />Yen akhire lara, ben lara tenan<br />Apa wong tulus wis garise ngene<br />S'lalu ngancani, ilang ending-e</p><p><br />Tresnaku kaya bonsai Anting Putri<br />Mbok sirami rina lan wengi<br />Masiya elok, endah disawangi<br />Tapi dipeksa ra isa gedhi</p><p><br />Jane namung masalah tresna<br />Tapi kok ya lara"
+	  },
+	  {
+      "id": 20,
+      "name_category": "SHINTA ARSINTA",
+      "title": "TERLALU",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "SHINTA ARSINTA",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR21.mp3",
+      "lyrics": "<p>Nemu koe pas ati ambyar ambyare<br />Pacar seng tak tresnani ninggal aku golek liane</p><p><br />Tekamu dadi tombo<br />Ngobati ati seng loro<br />Mugo ikhlas nompo<br />Tekan mbesuk nganti tuo</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun Gusti mpun maringi seng gemati<br />Nemu slirane ngobati ati kang sepi<br />Matur suwun Gusti mpun maringi seng gemati<br />Yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Koe seng paling ngerti marang kahanane ati<br />Aku mok semangati ngusap iluhku seng mbrebes mili<br />Pepujane ati kinaryo kembange wangi<br />Sabar sabarno momong aku<br />Mugo selawase dadi siji</p><p><br />Matursuwun Gusti mpun maringi seng gemati<br />Nemu slirane ngobati ati kang sepi<br />Matur suwun Gusti mpun maringi seng gemati<br />Yang pergi biarlah pergi ono koe seng ngancani</p><p><br />Matursuwun Gusti mpun maringi seng gemati<br />Nemu slirane ngobati ati kang sepi<br />Matur suwun Gusti mpun maringi seng gemati<br />Yang pergi biarlah pergi ono koe seng ngancani<br />Ono koe seng ngancani</p>"
+	  },
+    {
+      "id": 22,
+      "name_category": "SHINTA ARSINTA",
+      "title": "CUNDAMANI",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "SHINTA ARSINTA",
+      "title": "DUMES",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "SHINTA ARSINTA",
+      "title": "EGO",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR24.mp3",
+      "lyrics": "Pangapuranen aku, tulus ojo kepekso<br />Bendino mung golek kesalahanmu<br />Aku cen klera kleru nresnani sliramu<br />Aku tak sing ngalah, aku ngaku salah</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan<br />Kudu iso tok pertimbangkan tenan<br />Ojo waton gawe keputusan</p><p><br />Bar nesunan ojo bubar<br />Opo koe raeman-eman<br />Nibo tangi kabeh dilakoni<br />Aku sadar luwih milih bertahan</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben ora dowo</p><p><br />Sori aku mung mikir egoku<br />Ora nggatekke kabeh perjuanganmu<br />Sayang tak akoni aku kleru</p><p><br />Aku ngerti koe wes kecewa<br />Bertahan dengan cara dewasa<br />Ora kondo yen koe keloro-loro<br />Masalah ben, masalah ben ora dowo"
+	  },
+	  {
+      "id": 25,
+      "name_category": "SHINTA ARSINTA",
+      "title": "KEMBANG WANGI",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "SHINTA ARSINTA",
+      "title": "LUNGAMU NINGGAL KENANGAN 2",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR26.mp3",
+      "lyrics": "Demi ayangku tak tulisne tembang rindu<br />Lewat sepi wengi iki tak titipne roso kangenku<br />Ora keroso nete iluh banyu moto <br />Amergo kowe tego ningal aku demi wong liyo</p><p><br />Aku ikhlas aku lilo snajan ati iki loro<br />Aku iklas aku lilo mugo kowe biso bahagio</p><p><br />Langit peteng katon mendung <br />Kowe gawe aku bingung <br />Arep njalok tulung <br />Bingung angonku nembung</p><p><br />Aku wes ikhlas berjuang <br />Kowe bilang dada sayang <br />Aku ora ngiro lungamu ningal kenangan</p><p><br />Demi ayangku tak tulisne tembang rindu<br />Lewat sepi wengi iki tak titipne roso kangenku</p><p><br />Ora keroso nete iluh banyu moto <br />Amergo kowe tego ningal aku demi wong liyo</p><p><br />Aku ikhlas aku lilo snajan ati iki loro<br />Aku iklas aku lilo mugo kowe biso bahagio</p><p><br />Langit peteng katon mendung <br />Kowe gawe aku bingung <br />Arep njalok tulung <br />Bingung angonku nembung</p><p><br />Aku wes ikhlas berjuang <br />Kowe bilang dada sayang <br />Aku ora ngiro lungamu ningal kenangan</p><p><br />Langit peteng katon mendung <br />Kowe gawe aku bingung <br />Arep njalok tulung <br />Bingung angonku nembung</p><p><br />Aku wes ikhlas berjuang <br />Kowe bilang dada sayang <br />Aku ora ngiro lungamu ningal kenangan <br />Aku ora ngiro lungamu ningal kenangan"
+	  },
+	  {
+      "id": 27,
+      "name_category": "SHINTA ARSINTA",
+      "title": "SAKTENANE",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "SHINTA ARSINTA",
+      "title": "SANES",
+      "image": "file:///android_asset/image/SH.jpg",
+      "link_mp3": "mp3/LASHIAR28.mp3",
+      "lyrics": "Opo koe ra ngerti larane<br />Nalika pas aku kelangan koe<br />Ngancani mongso sepimu<br />Nuruti opo karepmu<br />Nyatane atimu<br />Dudu nggo aku</p><p><br />Arep o gedhene roso tresnoku<br />Sak jerome atiku dinggo sliramu<br />Yen udu sing dikarepke<br />Sanes sing dipingini<br />Durung sempet duweni<br />Pun kon ngikhlaske</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Nyatane sak singkat-singkate ceritane<br />Ngelalekne tetep ora gampang<br />Ra koyo koe sing gampang nggolek liyane</p><p><br />Ngancani nanging ora iso nduweni<br />Ngenteni nanging koe malah ngenteni tresno liyane<br />Dudu aku ternyata sing mbok karepke</p><p><br />Udane soyo deres ra mandek-mandek<br />Atiku melu teles pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo</p><p><br />Pas udane teko koe lungo<br />Koe lungo milih wong sing luweh mulyo"
+	  },
+	  {
+      "id": 29,
+      "name_category": "DUET",
+      "title": "BOJO BIDUAN",
+      "image": "file:///android_asset/image/SD.jpg",
+      "link_mp3": "mp3/LASHIAR29.mp3",
+      "lyrics": "<p>Abote wong lanang yen nduwe bojo biduan<br />Kudu biso sabar, ora cemburuan<br />Yen tansah sujanan lan kerep uring-uringan<br />Ora mokal bubar anggone bebrayan</p><p><br />Pancen gaweane dadi artis panggungan<br />Ning kono, ning kene, nyanyi karo bergoyang<br />Mulo biasane bengi yen kundur tanggapan<br />Pengin langsung sare Wegah dijak dolanan</p><p><br />Sing marai kuatir atine wong lanang<br />Manggung mrono-mrene cari perhatian<br />Opo meneh yen nganggo<br />Klambi sing cingkrang-cingkrang<br />Genit mripate, goyangane merangsang</p><p><br />Mbegagahe ombo, pinggul digoyang-goyang<br />Sajak disengojo mancing-mancing saweran<br />Yen sing melu njoget wis mendem banyu setan<br />Kadang colak-colek Mencari kesempatan</p><p><br />Abote wong lanang yen nduwe bojo biduan<br />Kudu biso sabar, ora cemburuan<br />Yen tansah sujanan lan kerep uring-uringan<br />Ora mokal bubar anggone bebrayan</p><p><br />Pancen gaweane dadi artis panggungan<br />Ning kono, ning kene, nyanyi karo bergoyang<br />Mulo biasane bengi yen kundur tanggapan<br />Pengin langsung sare Wegah dijak dolanan</p><p><br />Sing marai kuatir atine wong lanang<br />Manggung mrono-mrene cari perhatian<br />Opo meneh yen nganggo<br />Klambi sing cingkrang-cingkrang<br />Genit mripate, goyangane merangsang</p><p><br />Mbegagahe ombo, pinggul digoyang-goyang<br />Sajak disengojo mancing-mancing saweran<br />Yen sing melu njoget wis mendem banyu setan<br />Kadang colak-colek Mencari kesempatan</p><p><br />Mulane wong lanang sing uripe sih legan<br />Kudu siap mental yen ngrabi biduan<br />Mergane wis akeh banget sing kedadean<br />Pegatan jalarane mung cemburuan</p>"
+	  },
+	  {
+      "id": 30,
+      "name_category": "DUET",
+      "title": "GINIO",
+      "image": "file:///android_asset/image/SD.jpg",
+      "link_mp3": "mp3/LASHIAR30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "DUET",
+      "title": "KISINAN",
+      "image": "file:///android_asset/image/SD.jpg",
+      "link_mp3": "mp3/LASHIAR31.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 32,
+      "name_category": "DUET",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/SD.jpg",
+      "link_mp3": "mp3/LASHIAR32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "DUET",
+      "title": "RAISO DADI SIJI",
+      "image": "file:///android_asset/image/SD.jpg",
+      "link_mp3": "mp3/LASHIAR33.mp3",
+      "lyrics": "Aku tresno ro kowe<br />Tresno seng sak tenane<br />Kabeh wes tak kekke ro kowe<br />Atine</p><p><br />Senajan aku wes nduwe<br />Bojo seng sak tenane<br />Nanging aku tresnone yo mung ro kowe</p><p><br />Roso ati ra tenang mikirke selingkuhan<br />Tansah tak awang2 mabur koyo layangan<br />Padahal bojo neng omah<br />Mikirke dadi susah<br />Opo seng kudu dilakoni<br />Aku bingung sendiri</p><p><br />Pancen tak akoni<br />Tresnoku setengah mati<br />Tapi aku ra wani<br />Ngingkari janji suci<br />Mungkin kowe udu jodoku<br />Tapi aku sayang padamu<br />Jujur seko jero atiku</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgoooo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />Ah cincin wes ngelingker neng jari manisku<br />Janji yo wes tak ucap neng ngarep penghulu<br />Saiki yo uwes telat arep ngomongke cidro<br />Aku mong ameh ndungo kowe iso bahagio</p><p><br />Senajan setatusku saiki ora dewe<br />Tapi ojo nganti leren tresnaku karo kowe<br />Mugo2 kabeh dikei dalan supoyo dadi padang<br />Anggone awak dewe lek gendakan</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />Ah cincin wes ngelingker neng jari manisku<br />Janji yo wes tak ucap neng ngarep penghulu<br />Saiki yo uwes telat arep ngomongke cidro<br />Aku mong ameh ndungo kowe iso bahagio</p><p><br />Senajan setatusku saiki ora dewe<br />Tapi ojo nganti leren tresnaku karo kowe<br />Mugo2 kabeh dikei dalan supoyo dadi padang<br />Anggone awak dewe lek gendakan</p><p><br />Sayang aku ikhlas trimo dadi seng keloro<br />Nadyan abot roso tresno seng tak songgo</p><p><br />Sabar sak untoro sayang<br />Aku yo wes berjuang<br />Ndadekke ngimpi tenanan</p><p><br />Mugo kabeh iso lancar<br />Buang kabeh kenangan<br />Ikhlas lan sabar sayang</p><p><br />Aku mung iso nerimo <br />Kowe gone wong liyo <br />Tresno raiso dipeksano</p><p><br />Aku tetep sayang kowe <br />Tekane sak lawase <br />Aku bahagia nyawang kowe</p><p><br />Tanganku wes ono cincin <br />Janji setio lan suci <br />Aku raiso nepati</p><p><br />Kowe pancen tak tresnani <br />Biyen tekan saiki <br />Tapi raiso dadi siji <br />Tapi raiso dadi siji"
+	  },
+	  {
+      "id": 34,
+      "name_category": "DUET",
+      "title": "RASAH BALI",
+      "image": "file:///android_asset/image/SD.jpg",
+      "link_mp3": "mp3/LASHIAR34.mp3",
+      "lyrics": "Opo ora ngerti roso ati iki<br />Bien kowe tau ngelarani<br />Tatu uwes mari ora arep baleni<br />Nimas aku uwes ora sudi</p><p><br />Wes sabendinane mung mikirke kowe<br />Mergo aku durung iso lilo<br />Aku ngaku salah kabeh dadi bubrah<br />Kangmas jujur aku wegah pisah</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Rungokno kangmas aku gelo ninggalke kowe mergo milih wong liyo<br />Pengenku iso bali dadi siji koyo wingi<br />Salahku ora bakal tak baleni</p><p><br />Wingi aku tenanan sayang karo kowe<br />Nanging ngopo sayangku dinggo dolanan kowe<br />Ngapurane aku uwes gawe loro<br />Sayang tulung kowe ojo lungo</p><p><br />Ceritoku karo kowe uwes tak rampungi<br />Mas aku durung ikhlas delok kabeh iki<br />Cukup sewates konco aku karo kowe<br />Orasah bali aku wes ora sudi<br />Orasah bali aku wes ora sudi"
+	  }
+  ]
+}
