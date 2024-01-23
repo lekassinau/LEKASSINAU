@@ -1,0 +1,308 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ 2024",
+      "image": "file:///android_asset/image/DBR.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ VIRAL",
+      "image": "file:///android_asset/image/DVR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ 2024",
+      "title": "DJ ORANG YANG SALAH",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "DJ 2024",
+      "title": "DJ KISINAN 2",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "DJ 2024",
+      "title": "DJ DULU PUTUS ITU MAUMU",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "DJ 2024",
+      "title": "DJ BUNGA HATI",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "DJ 2024",
+      "title": "DJ JARJIT BIRI BIRI",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "DJ 2024",
+      "title": "DJ LITNANG ASMORO",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "DJ 2024",
+      "title": "DJ TULUS",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "DJ 2024",
+      "title": "DJ ANAK LANANG",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "DJ 2024",
+      "title": "DJ ANEMADAGOMUNGGENYA",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "DJ 2024",
+      "title": "DJ IKI URIPKU IKI LAKUKU",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "DJ 2024",
+      "title": "DJ DILANGIT ADA MATAHARI",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "DJ 2024",
+      "title": "DJ DAWAI YANG TELAH LAMA KAU PETIK",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "DJ 2024",
+      "title": "DJ TABRAK TABRAK MASUK",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "DJ 2024",
+      "title": "DJ MIMI PIPI",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "DJ 2024",
+      "title": "DJ MALAM PAGI",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "DJ 2024",
+      "title": "DJ OH SAYANG NGANA INI BAGAIMANA",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "DJ 2024",
+      "title": "DJ BOJO BIDUAN",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "DJ 2024",
+      "title": "DJ GOYANG DAYUNG",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SANTRI PEKOK",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "DJ VIRAL",
+      "title": "DJ TAMAN JURUG",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "DJ VIRAL",
+      "title": "DJ ALAY KAYA ARTIS",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "DJ VIRAL",
+      "title": "DJ AKU GAK MAU JADI MATAHARIMU",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "DJ VIRAL",
+      "title": "DJ APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "DJ VIRAL",
+      "title": "DJ CIKINI KE GONDANG DIA",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "DJ VIRAL",
+      "title": "DJ HILANG KADANG AKU TENANG",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "DJ VIRAL",
+      "title": "DJ JIKA HANYA GURAUAN",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "DJ VIRAL",
+      "title": "DJ KARENA SU SAYANG",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "DJ VIRAL",
+      "title": "DJ NEMEN",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SANES",
+      "image": "file:///android_asset/image/DBR.jpg",
+      "link_mp3": "mp3/DORJSALA29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SANTAI AJA CUY",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "DJ VIRAL",
+      "title": "DJ SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA31.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 32,
+      "name_category": "DJ VIRAL",
+      "title": "DJ TAK SEGAMPANG ITU",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "DJ VIRAL",
+      "title": "DJ ",
+      "image": "file:///android_asset/image/DVR.jpg",
+      "link_mp3": "mp3/DORJSALA33.mp3",
+      "lyrics": "TERUSLAH MELANKAH MELUPAKAN DIRINYA"
+	  }
+  ]
+}
